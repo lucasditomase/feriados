@@ -24,6 +24,4 @@ No. La app no guarda ni transmite información del usuario.
 
 ## 📬 Contacto
 
-Si querés comunicarte directamente, podés dejar un comentario o abrir una discusión en el repositorio principal:
-
-[https://github.com/lucasditomase/Feriados](https://github.com/lucasditomase/Feriados)
+Si querés comunicarte directamente o participar en la comunidad, podés abrir una [discusión](https://github.com/lucasditomase/Feriados/discussions).
