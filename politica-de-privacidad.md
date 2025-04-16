@@ -6,13 +6,23 @@ Esta aplicación, Feriados, no recopila, almacena ni comparte información perso
 
 Feriados no solicita permisos innecesarios ni accede a datos sensibles. La información que se muestra en la app (feriados nacionales, turísticos y religiosos) es pública y se almacena localmente en el dispositivo del usuario.
 
+## Compras dentro de la app
+
+La app permite realizar compras dentro de la aplicación (suscripciones) a través de App Store. El proceso de pago es gestionado completamente por Apple y no implica acceso a información personal por parte del desarrollador.
+
+## Compartir en familia
+
+Si el usuario forma parte de un grupo familiar de iCloud, la suscripción puede ser compartida según lo permitido por Apple. Esta función es gestionada directamente por el sistema operativo.
+
+## Prueba gratuita
+
+En caso de habilitarse un período de prueba gratuita, el usuario podrá cancelar su suscripción en cualquier momento antes del cobro. La app no recopila datos personales en este proceso.
+
 ## Permisos opcionales
 
 La aplicación puede solicitar acceso al calendario del dispositivo únicamente si el usuario elige agregar un feriado a su calendario personal. Esta función es completamente opcional y el acceso puede ser revocado en cualquier momento desde la configuración del sistema.
 
-## Uso de notificaciones
-
-Feriados puede enviar notificaciones locales si el usuario activa recordatorios para un feriado. Estas notificaciones se generan en el dispositivo y no se comunican con servidores externos.
+Feriados también puede enviar notificaciones locales si el usuario activa recordatorios para un feriado. Estas notificaciones se generan en el dispositivo y no se comunican con servidores externos.
 
 ## Terceros
 
