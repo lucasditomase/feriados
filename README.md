@@ -25,4 +25,4 @@ Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feria
 
 ---
 
-**Feriados está pensada para ayudarte a organizar tu tiempo y aprovechar al máximo tus días libres. Gracias por usarla.**
+**Feriados está pensada para ayudarte a organizar tu tiempo y aprovechar al máximo tus días libres. Es un proyecto personal que desarrollo y mantengo con mucho cuidado, así que gracias por usarla y por cualquier aporte o sugerencia.**
