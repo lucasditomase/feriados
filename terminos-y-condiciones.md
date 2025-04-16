@@ -32,3 +32,6 @@ El uso de la App es bajo responsabilidad del usuario. El desarrollador no se hac
 
 Para consultas, soporte o sugerencias, podés visitar:  
 [https://github.com/lucasditomase/Feriados](https://github.com/lucasditomase/Feriados)
+
+Feriados es un proyecto personal. Si me escribís por cualquier motivo, voy a leerte personalmente.
+
