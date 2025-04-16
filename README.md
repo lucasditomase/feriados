@@ -26,6 +26,11 @@ Podés consultar la política completa aquí:
 Si tenés dudas, sugerencias o encontrás algún problema, podés abrir un issue en este repositorio o consultar la sección de ayuda:  
 [ayuda.md](./ayuda.md)
 
+## Términos y condiciones
+
+Podés consultar los términos completos de uso aquí:  
+[terminos-y-condiciones.md](./terminos-y-condiciones.md)
+
 ---
 
 **Feriados está pensada para que puedas organizar tu tiempo y aprovechar al máximo tus días libres. Gracias por usarla.**
