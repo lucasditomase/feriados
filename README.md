@@ -13,24 +13,16 @@ Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feria
 • Búsqueda por nombre o motivo  
 • Integración con el calendario del sistema  
 • Notificaciones personalizadas  
-• Todo almacenado localmente, sin conexión a internet ni recolección de datos
+• Todo almacenado localmente, sin conexión a internet ni recolección de datos  
 
-## Política de privacidad
+## Documentación y soporte
 
-La app no recopila datos personales ni utiliza servicios de terceros.  
-Podés consultar la política completa aquí:  
-[politica-de-privacidad.md](./politica-de-privacidad.md)
-
-## Soporte
-
-Si tenés dudas, sugerencias o encontrás algún problema, podés abrir un issue en este repositorio o consultar la sección de ayuda:  
-[ayuda.md](./ayuda.md)
-
-## Términos y condiciones
-
-Podés consultar los términos completos de uso aquí:  
-[terminos-y-condiciones.md](./terminos-y-condiciones.md)
+- [Política de privacidad](./politica-de-privacidad.md)  
+- [Términos y condiciones](./terminos-y-condiciones.md)  
+- [Ayuda y preguntas frecuentes](./ayuda.md)  
+- [Crear un issue](https://github.com/lucasditomase/Feriados/issues)  
+- [Comunidad y contacto](https://github.com/lucasditomase/Feriados/discussions)  
 
 ---
 
-**Feriados está pensada para que puedas organizar tu tiempo y aprovechar al máximo tus días libres. Gracias por usarla.**
+**Feriados está pensada para ayudarte a organizar tu tiempo y aprovechar al máximo tus días libres. Gracias por usarla.**
