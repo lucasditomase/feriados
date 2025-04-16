@@ -32,3 +32,6 @@ La aplicación no utiliza servicios de terceros para análisis, publicidad o alm
 
 Si tenés preguntas sobre esta política, podés comunicarte directamente conmigo a través de la sección de soporte en:  
 [https://github.com/lucasditomase/Feriados](https://github.com/lucasditomase/Feriados)
+
+Feriados es un proyecto personal, así que cualquier sugerencia o duda será leída y valorada.
+
