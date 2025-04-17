@@ -26,7 +26,7 @@ No. La app no guarda ni transmite información del usuario.
 Feriados Pro es una suscripción opcional. Podés gestionarla o cancelarla en cualquier momento desde tu cuenta en la App Store.
 
 **¿Qué incluye Feriados Pro?**  
-Feriados Pro desbloquea funciones adicionales como filtros avanzados, recordatorios personalizados, la posibilidad de agregar feriados a tu calendario, y gráficos interactivos que muestran estadísticas sobre los feriados, como los meses o días de la semana con más feriados.
+Feriados Pro desbloquea funciones adicionales como filtros avanzados, recordatorios personalizados, la posibilidad de agregar feriados a tu calendario y gráficos interactivos que muestran estadísticas sobre los feriados, como los meses o días de la semana con más feriados.
 
 **Importante:** Las suscripciones se renuevan automáticamente, salvo que las canceles al menos 24 horas antes de que termine el período actual.
 
