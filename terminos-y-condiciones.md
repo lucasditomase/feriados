@@ -22,7 +22,7 @@ Si se ofrece un **período de prueba gratuito**, el cobro se realizará automát
 
 ## Compartir en familia
 
-La suscripción puede ser **compartida con miembros del grupo familiar de iCloud**, si esta opción está habilitada en la App. La gestión del grupo familiar se realiza desde la configuración de iCloud del usuario y es responsabilidad del mismo.
+La suscripción puede ser **compartida automáticamente con los miembros del grupo familiar de iCloud**, siempre que tengas configurado un grupo familiar y que esta función esté habilitada por el desarrollador en App Store. La gestión del grupo familiar se realiza desde la configuración de iCloud del usuario y es responsabilidad del mismo.
 
 ## Responsabilidad
 
