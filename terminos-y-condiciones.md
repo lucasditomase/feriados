@@ -14,7 +14,7 @@ La información mostrada en la App (feriados nacionales, turísticos y religioso
 
 ## Suscripciones
 
-La App ofrece funcionalidades adicionales mediante una suscripción denominada **“Feriados Pro”**. Al suscribirse, el usuario obtiene acceso a **funciones premium** como filtros avanzados, recordatorios personalizados y la posibilidad de agregar feriados al calendario.
+La App ofrece funcionalidades adicionales mediante una suscripción denominada **“Feriados Pro”**. Al suscribirse, el usuario obtiene acceso a **funciones premium** como filtros avanzados, recordatorios personalizados, la posibilidad de agregar feriados al calendario y ver estadísticas visuales sobre los feriados.
 
 Las suscripciones se **renuevan automáticamente**, salvo que se **cancelen con al menos 24 horas de antelación** al final del período actual. La gestión de la suscripción y su cancelación pueden realizarse desde la cuenta del usuario en **App Store**.
 
