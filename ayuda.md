@@ -23,10 +23,14 @@ Feriados permite filtrar por comunidad (musulmana, judía o armenia) para que ca
 No. La app no guarda ni transmite información del usuario.
 
 **¿Cómo funciona la versión Pro?**  
-Feriados Pro es una suscripción opcional que desbloquea funciones adicionales como filtros avanzados, recordatorios personalizados, integración con calendario y más. Podés gestionarla o cancelarla desde la App Store.
+Feriados Pro es una suscripción opcional que desbloquea funciones adicionales como filtros avanzados, recordatorios personalizados, integración con calendario y más. Podés gestionarla o cancelarla en cualquier momento desde tu cuenta en la App Store.
+
+**Importante:** Las suscripciones se renuevan automáticamente, salvo que las canceles al menos 24 horas antes de que termine el período actual.
 
 **¿Tengo un período de prueba?**  
-Sí. En el plan anual, tenés acceso a una prueba gratuita de 7 días. Si cancelás antes de que termine, no se te cobrará nada.
+Sí. En el plan anual, tenés acceso a una prueba gratuita de 7 días para probar Feriados Pro sin compromiso.
+
+**Importante:** Si querés evitar el cobro, tenés que cancelar la suscripción al menos 24 horas antes de que termine el período de prueba. Podés hacerlo fácilmente desde tu cuenta en la App Store.
 
 **¿Puedo compartir mi suscripción con mi familia?**  
 Sí. Si tenés configurado un grupo familiar de Apple, podés compartir la suscripción con los miembros del grupo sin costo adicional.
