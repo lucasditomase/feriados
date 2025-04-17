@@ -31,7 +31,7 @@ Feriados Pro desbloquea funciones adicionales como filtros avanzados, recordator
 **Importante:** Las suscripciones se renuevan automáticamente, salvo que las canceles al menos 24 horas antes de que termine el período actual.
 
 **¿Tengo un período de prueba?**  
-Sí. En el plan anual, tenés acceso a una prueba gratuita de 7 días para probar Feriados Pro sin compromiso.
+Sí. Tanto el plan mensual como el anual incluyen una prueba gratuita de 7 días para que puedas probar Feriados Pro sin compromiso.
 
 **Importante:** Si querés evitar el cobro, tenés que cancelar la suscripción al menos 24 horas antes de que termine el período de prueba. Podés hacerlo fácilmente desde tu cuenta en la App Store.
 
