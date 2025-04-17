@@ -4,16 +4,23 @@
 
 Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feriado con cuenta regresiva, ofrece un calendario completo y permite filtrar por tipo de feriado o comunidad. También podés agregar cualquier feriado a tu calendario personal y recibir recordatorios automáticos.
 
-## Características
+## Funcionalidades
+
+### Gratuitas
 
 • Próximo feriado con cuenta regresiva en tiempo real  
 • Calendario completo de feriados nacionales, turísticos y religiosos  
-• Filtros por tipo: inamovibles, trasladables, turísticos, no laborables  
-• Filtros por comunidad: musulmana, judía, armenia  
+• Filtros básicos por tipo: inamovibles, trasladables, turísticos, no laborables  
 • Búsqueda por nombre o motivo  
-• Integración con el calendario del sistema  
-• Notificaciones personalizadas  
 • Todo almacenado localmente, sin conexión a internet ni recolección de datos  
+
+### Con Feriados Pro
+
+• Filtros por comunidad: musulmana, judía, armenia  
+• Agregar feriados a tu calendario personal  
+• Recordatorios personalizados  
+• Gráficos interactivos con estadísticas sobre los feriados (como los meses y días con más feriados)  
+• Compartir la suscripción con tu grupo familiar (Family Sharing)  
 
 ## Documentación y soporte
 
