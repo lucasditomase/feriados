@@ -2,31 +2,37 @@
 
 **Última actualización: abril 2025**
 
-Estos términos y condiciones regulan el uso de la aplicación **Feriados** (en adelante, “la App”), desarrollada por **Lucas Ditomase**.
+Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Ditomase**, destinada a consultar los feriados de Argentina.
 
 ## Uso de la App
 
-Feriados es una aplicación para iOS que permite consultar los feriados de Argentina. Su uso es **personal**, **no comercial**, lo que significa que está destinado exclusivamente a fines privados y **no puede ser utilizado con fines comerciales, de reventa o como parte de otro producto o servicio con fines de lucro**.
+El uso de Feriados es **personal y no comercial**. Está destinada exclusivamente a fines privados y no puede utilizarse con fines de lucro, reventa o como parte de otro producto o servicio.
 
 ## Contenido
 
-La información mostrada en la App (feriados nacionales, turísticos y religiosos) se basa en fuentes públicas. **No se garantiza exactitud absoluta** y está sujeta a cambios oficiales que pueden actualizarse sin previo aviso.
+La información que muestra la app proviene de fuentes públicas y puede estar sujeta a cambios. Aunque se actualiza con regularidad, **no se garantiza su exactitud absoluta en todo momento**.
 
 ## Suscripciones
 
-La App ofrece funcionalidades adicionales mediante una suscripción denominada **“Feriados Pro”**. Al suscribirse, el usuario obtiene acceso a **funciones premium** como filtros avanzados, recordatorios personalizados, la posibilidad de agregar feriados al calendario y ver estadísticas visuales sobre los feriados.
+Feriados ofrece funcionalidades adicionales mediante una suscripción llamada **Feriados Pro**, que incluye:
 
-Las suscripciones se **renuevan automáticamente**, salvo que se **cancelen con al menos 24 horas de antelación** al final del período actual. La gestión de la suscripción y su cancelación pueden realizarse desde la cuenta del usuario en **App Store**.
+- Filtros por comunidad  
+- Recordatorios personalizados  
+- Agregado de feriados al calendario  
+- Estadísticas visuales
 
-Si se ofrece un **período de prueba gratuito**, el cobro se realizará automáticamente al finalizar dicho período, **salvo que el usuario lo haya cancelado con al menos 24 horas de anticipación**.
+Las suscripciones se **renuevan automáticamente**, salvo que se cancelen al menos **24 horas antes** del final del período actual.  
+La gestión se realiza desde tu cuenta en **App Store**.
+
+Si hay un **período de prueba gratuito**, el cobro se realizará automáticamente al finalizar, salvo que lo canceles con al menos 24 horas de anticipación.
 
 ## Compartir en familia
 
-La suscripción puede ser **compartida automáticamente con los miembros del grupo familiar de iCloud**, siempre que tengas configurado un grupo familiar y que esta función esté habilitada por el desarrollador en App Store. La gestión del grupo familiar se realiza desde la configuración de iCloud del usuario y es responsabilidad del mismo.
+Si formás parte de un grupo familiar de iCloud, podés compartir la suscripción con otros miembros, siempre que esté habilitada la opción en App Store. Esta gestión depende del sistema operativo y de la configuración del usuario.
 
 ## Responsabilidad
 
-El uso de la App es bajo responsabilidad del usuario. **El desarrollador no se hace responsable por decisiones tomadas a partir de la información mostrada en la App.**
+El uso de la app es bajo responsabilidad del usuario. El desarrollador **no garantiza que el contenido sea siempre exacto o actualizado**, y **no se hace responsable por decisiones o acciones tomadas en base a la información proporcionada**.
 
 ## Contacto
 
