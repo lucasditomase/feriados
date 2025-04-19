@@ -1,6 +1,6 @@
 # Feriados
 
-**Feriados** es una aplicación para iOS que te permite consultar todos los feriados de Argentina de forma simple, rápida y personalizable.
+**Feriados** es una app para iOS que te muestra todos los feriados de Argentina de forma rápida, simple y totalmente personalizable.
 
 Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feriado con cuenta regresiva, ofrece un calendario completo y permite filtrar por tipo de feriado o comunidad. También podés agregar cualquier feriado a tu calendario personal y recibir recordatorios automáticos.
 
@@ -16,11 +16,11 @@ Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feria
 
 ### Con Feriados Pro
 
+• Agregá feriados a tu calendario personal  
+• Configurá recordatorios automáticos  
 • Filtros por comunidad: musulmana, judía, armenia  
-• Agregar feriados a tu calendario personal  
-• Recordatorios personalizados  
-• Gráficos interactivos con estadísticas sobre los feriados (como los meses y días con más feriados)  
-• Compartir la suscripción con tu grupo familiar (Family Sharing)  
+• Gráficos interactivos con estadísticas sobre los feriados  
+• Compartí la suscripción con tu grupo familiar (Family Sharing)  
 
 ## Documentación y soporte
 
@@ -32,4 +32,4 @@ Con una interfaz moderna y fácil de usar, Feriados te muestra el próximo feria
 
 ---
 
-**Feriados está pensada para ayudarte a organizar tu tiempo y aprovechar al máximo tus días libres. Es un proyecto personal que desarrollo y mantengo con mucho cuidado, así que gracias por usarla y por cualquier aporte o sugerencia.**
+**Feriados es un proyecto personal, creado para ayudarte a organizar tu tiempo y disfrutar más tus días libres. Gracias por usarla y por cualquier aporte o sugerencia.**
