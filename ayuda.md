@@ -1,6 +1,6 @@
 # Soporte para Feriados
 
-Gracias por usar Feriados. Si encontrás errores, tenés dudas sobre el uso de la app o querés sugerir mejoras, te invito a escribirme o participar en el repositorio. Este es un proyecto personal, así que cualquier aporte o comentario suma un montón.
+Gracias por usar Feriados. Si encontrás errores, tenés dudas o querés sugerir mejoras, podés escribirme o participar en este repositorio. Es un proyecto personal, así que cualquier aporte o comentario suma un montón.
 
 ## Reportar un problema
 
@@ -11,32 +11,29 @@ Podés abrir un "issue" en este repositorio describiendo el problema y los pasos
 ## Preguntas frecuentes
 
 **¿Feriados necesita internet?**  
-No. Toda la información está guardada localmente en el dispositivo.
+No. Toda la información se guarda localmente en tu dispositivo.
 
 **¿Puedo agregar feriados a mi calendario?**  
-Sí. Desde la pantalla del próximo feriado o desde la lista completa podés agregar cualquier feriado a tu calendario.
+Sí, desde la pantalla del próximo feriado o desde la lista completa.
 
 **¿Por qué hay feriados religiosos?**  
-Feriados permite filtrar por comunidad (musulmana, judía o armenia) para que cada persona pueda ver los días que le corresponden.
+Podés filtrar por comunidad (musulmana, judía o armenia) según tus preferencias.
 
 **¿La app recopila datos personales?**  
-No. La app no guarda ni transmite información del usuario.
+No. Feriados no guarda ni transmite datos del usuario.
 
-**¿Cómo funciona la versión Pro?**  
-Feriados Pro es una suscripción opcional. Podés gestionarla o cancelarla en cualquier momento desde tu cuenta en la App Store.
+**¿Cómo funciona Feriados Pro?**  
+Es una suscripción opcional que podés activar o cancelar desde tu cuenta en la App Store.
 
 **¿Qué incluye Feriados Pro?**  
-Feriados Pro desbloquea funciones adicionales como filtros avanzados, recordatorios personalizados, la posibilidad de agregar feriados a tu calendario y gráficos interactivos que muestran estadísticas sobre los feriados, como los meses o días de la semana con más feriados.
-
-**Importante:** Las suscripciones se renuevan automáticamente, salvo que las canceles al menos 24 horas antes de que termine el período actual.
+Filtros avanzados, recordatorios, agregar feriados al calendario y estadísticas interactivas.
 
 **¿Tengo un período de prueba?**  
-Sí. Tanto el plan mensual como el anual incluyen una prueba gratuita de 7 días para que puedas probar Feriados Pro sin compromiso.
-
-**Importante:** Si querés evitar el cobro, tenés que cancelar la suscripción al menos 24 horas antes de que termine el período de prueba. Podés hacerlo fácilmente desde tu cuenta en la App Store.
+Sí. El plan mensual y el anual ofrecen 7 días gratis para probar sin compromiso.  
+**Importante:** cancelá al menos 24 horas antes para evitar el cobro.
 
 **¿Puedo compartir mi suscripción con mi familia?**  
-Sí. Si tenés configurado un grupo familiar de Apple, podés compartir la suscripción con los miembros del grupo sin costo adicional.
+Sí, mediante Apple Family Sharing, sin costo adicional.
 
 ## Contacto
 
