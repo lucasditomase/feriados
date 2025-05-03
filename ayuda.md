@@ -33,7 +33,7 @@ No. Feriados no guarda ni transmite datos del usuario. Toda la actividad sucede 
 Es una suscripción opcional que podés activar o cancelar desde tu cuenta en la App Store. Incluye funciones avanzadas como recordatorios, agregar al calendario, estadísticas, filtros por comunidad, búsqueda avanzada, comparativas de feriados y vistas de calendario mejoradas.
 
 **¿Tengo un período de prueba?**  
-Sí. El plan mensual y el anual ofrecen 7 días gratis para probar Feriados Pro sin compromiso.  
+Sí. El plan mensual y el anual ofrecen 14 días gratis para probar Feriados Pro sin compromiso.  
 **Importante:** recordá cancelar al menos 24 horas antes del final de la prueba si no querés que se te cobre.
 
 **¿Puedo compartir mi suscripción con mi familia?**  
