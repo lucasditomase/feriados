@@ -20,7 +20,7 @@ Ideal para planificar fines de semana largos, organizar vacaciones o simplemente
 • Configurar recordatorios automáticos  
 • Filtros por comunidad (musulmana, judía, armenia)  
 • Estadísticas detalladas y gráficos interactivos  
-• Comparativas de feriados entre meses y años  
+• Comparativas de feriados entre meses  
 • Visualización de fines de semana largos  
 • Búsqueda avanzada por días de la semana o meses  
 • Calendario completo con vista mensual y semanal
