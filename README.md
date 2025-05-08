@@ -25,7 +25,7 @@ Ideal para planificar fines de semana largos, organizar vacaciones o simplemente
 • Búsqueda avanzada por días de la semana o meses  
 • Calendario completo con vista mensual y semanal
 
-**Feriados Pro** incluye una prueba gratuita. Si no deseás continuar, recordá cancelar al menos 24 horas antes de finalizar la prueba.
+**Feriados Pro** ofrece una prueba gratuita. Si no querés que se te cobre, asegurate de cancelarla al menos 24 horas antes de que termine.
 
 ## Política de privacidad y términos
 
