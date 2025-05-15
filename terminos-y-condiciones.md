@@ -2,7 +2,7 @@
 
 **Última actualización: abril 2025**
 
-Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Ditomase**, destinada a consultar los feriados de Argentina.
+Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Ditomase**, destinada a consultar los feriados de Argentina. Al descargar o utilizar la app, aceptás estos términos. Se te concede una **licencia limitada, no exclusiva, intransferible y revocable** para usar la app con fines personales.
 
 ## Uso de la App
 
@@ -10,7 +10,7 @@ El uso de Feriados es **personal y no comercial**. Está destinada exclusivament
 
 ## Contenido
 
-La información que muestra la app proviene de fuentes públicas y puede estar sujeta a cambios. Aunque se actualiza con regularidad, **no se garantiza su exactitud absoluta en todo momento**.
+La información que muestra la app proviene de fuentes públicas y puede estar sujeta a cambios. Aunque se actualiza con regularidad, **no se garantiza la precisión, integridad o vigencia de los datos mostrados**.
 
 ## Funcionalidades y suscripciones
 
@@ -37,14 +37,39 @@ Funciones avanzadas están disponibles mediante una suscripción llamada **Feria
 - El pago se realiza a través de la cuenta de Apple ID utilizada para la compra.
 - Si se ofrece un **período de prueba gratuito**, se cobrará automáticamente al finalizar el mismo, salvo cancelación anticipada al menos 24 horas antes.
 - La gestión de la suscripción y la cancelación se realizan desde la configuración de tu cuenta en la App Store.
+- Los precios pueden variar según la región. Las suscripciones son gestionadas por Apple y cualquier solicitud de reembolso debe realizarse a través de la App Store.
 
 ## Compartir en familia
 
 Si formás parte de un grupo familiar de iCloud, podés compartir la suscripción con otros miembros, siempre que esta opción esté habilitada y configurada en tu cuenta de App Store. Esta funcionalidad depende del sistema operativo y de la configuración individual de cada usuario.
 
+## Actualizaciones
+
+La app puede recibir actualizaciones periódicas con mejoras de rendimiento, corrección de errores o nuevas funcionalidades, sin previo aviso.
+
+## Comentarios y sugerencias
+
+Cualquier sugerencia, comentario o idea que envíes podrá ser utilizada para mejorar la app, sin obligación de compensación económica o atribución.
+
+## Propiedad intelectual
+
+Todos los contenidos, interfaces, gráficos, código fuente y funcionalidades de Feriados son propiedad exclusiva de su desarrollador, salvo que se indique lo contrario. No se concede ningún derecho de propiedad intelectual al usuario por el uso de la app.
+
+## Restricciones técnicas
+
+Está prohibido:
+
+- Vender, transmitir, hospedar o explotar comercialmente la app sin autorización.
+- Copiar o usar la app para cualquier fin que no sea personal y no comercial.
+- Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.
+- Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.
+- Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos, conductas abusivas (como el spam en el soporte técnico), o si el dispositivo está modificado de forma que afecte el funcionamiento normal de Feriados (como en casos de jailbreak o entornos no autorizados).
+
 ## Responsabilidad
 
-El uso de la app es bajo responsabilidad del usuario. El desarrollador **no garantiza que el contenido sea siempre exacto o actualizado**, y **no se hace responsable por decisiones o acciones tomadas en base a la información proporcionada**.
+El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollador (Lucas Ditomase) ni la app garantizan la disponibilidad continua ni la precisión absoluta del contenido, y no serán responsables por decisiones basadas en la información mostrada.**
+
+## Privacidad
 
 Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://github.com/lucasditomase/Feriados/blob/main/politica-de-privacidad.md).
 
