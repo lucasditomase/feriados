@@ -18,28 +18,28 @@ La información que muestra la app proviene de fuentes públicas y puede estar s
 
 Feriados ofrece funcionalidades básicas de forma gratuita, incluyendo:
 
-- Visualización de feriados nacionales, turísticos y religiosos.
-- Filtros por tipo de feriado.
-- Agenda semanal de feriados cercanos.
-- Búsqueda por nombre o motivo.
+• Visualización de feriados nacionales, turísticos y religiosos.  
+• Filtros por tipo de feriado.  
+• Agenda semanal de feriados cercanos.  
+• Búsqueda por nombre o motivo.  
 
 Funciones avanzadas están disponibles mediante una suscripción llamada **Feriados Pro**, que incluye:
 
-- Filtros por comunidad (musulmana, judía, armenia).
-- Agregado de feriados al calendario personal.
-- Configuración de recordatorios automáticos.
-- Estadísticas visuales y comparativas.
-- Visualización de fines de semana largos.
-- Búsqueda avanzada por días de la semana o meses.
-- Vista de calendario mensual y semanal.
+• Filtros por comunidad (musulmana, judía, armenia).  
+• Agregado de feriados al calendario personal.  
+• Configuración de recordatorios automáticos.  
+• Estadísticas visuales y comparativas.  
+• Visualización de fines de semana largos.  
+• Búsqueda avanzada por días de la semana o meses.  
+• Vista de calendario mensual y semanal.  
 
 ## Suscripciones y prueba gratuita
 
-- Las suscripciones a Feriados Pro **se renuevan automáticamente**, salvo que se cancelen al menos **24 horas antes** del final del período actual.
-- El pago se realiza a través de la cuenta de Apple ID utilizada para la compra.
-- Si se ofrece un **período de prueba gratuito**, se cobrará automáticamente al finalizar el mismo, salvo cancelación anticipada al menos 24 horas antes.
-- La gestión de la suscripción y la cancelación se realizan desde la configuración de tu cuenta en la App Store.
-- **Los precios pueden variar según la región, la fecha en que se haya realizado la compra y otras condiciones que establezca Apple o yo como desarrollador.** Puedo actualizar los precios en el futuro, y en ese caso, se te notificará antes de la renovación automática para que decidas si querés continuar con la suscripción.
+• Las suscripciones a Feriados Pro **se renuevan automáticamente**, salvo que se cancelen al menos **24 horas antes** del final del período actual.  
+• El pago se realiza a través de la cuenta de Apple ID utilizada para la compra.  
+• Si se ofrece un **período de prueba gratuito**, se cobrará automáticamente al finalizar el mismo, salvo cancelación anticipada al menos 24 horas antes.  
+• La gestión de la suscripción y la cancelación se realizan desde la configuración de tu cuenta en la App Store.  
+• **Los precios pueden variar según la región, la fecha en que se haya realizado la compra y otras condiciones que establezca Apple o yo como desarrollador.** Puedo actualizar los precios en el futuro, y en ese caso, se te notificará antes de la renovación automática para que decidas si querés continuar con la suscripción.  
 
 ## Compartir en familia
 
@@ -61,11 +61,11 @@ Todos los contenidos, interfaces, gráficos, código fuente y funcionalidades de
 
 Está prohibido:
 
-- Vender, transmitir, hospedar o explotar comercialmente la app sin autorización.
-- Copiar o usar la app para cualquier fin que no sea personal y no comercial.
-- Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.
-- Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.
-- Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos, conductas abusivas (como el spam en el soporte técnico), o si el dispositivo está modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas o herramientas que alteren el sistema de compras o cualquier otra funcionalidad).
+• Vender, transmitir, hospedar o explotar comercialmente la app sin autorización.  
+• Copiar o usar la app para cualquier fin que no sea personal y no comercial.  
+• Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.  
+• Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.  
+• Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos, conductas abusivas (como el spam en el soporte técnico), o si el dispositivo está modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas o herramientas que alteren el sistema de compras o cualquier otra funcionalidad).  
 
 Este listado no es exhaustivo: pueden existir otros casos que justifiquen restricciones de acceso si comprometen la seguridad, integridad o el propósito original de la app.
 
