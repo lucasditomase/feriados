@@ -13,12 +13,9 @@ Las funciones adicionales de Feriados Pro, como las estadísticas y comparativas
 
 ## Compras dentro de la app y prueba gratuita
 
-La app ofrece suscripciones a través de la App Store. Todo el proceso de pago, prueba gratuita y gestión de la suscripción está manejado exclusivamente por Apple.  
-**Feriados no accede a información personal, financiera ni de facturación en ningún momento.**
+La app ofrece suscripciones a través de la App Store. Todo el proceso de pago, prueba gratuita y gestión de la suscripción está manejado exclusivamente por Apple. **Feriados no accede a información personal, financiera ni de facturación en ningún momento.**
 
 Si hay un período de prueba disponible, podrás usar Feriados Pro sin costo durante ese tiempo. El cobro se realiza automáticamente al finalizar dicho período, **a menos que canceles la suscripción al menos 24 horas antes**, desde tu cuenta en App Store.
-
-**La app no recopila ningún dato durante el período de prueba ni después.**
 
 ## Permisos opcionales
 
