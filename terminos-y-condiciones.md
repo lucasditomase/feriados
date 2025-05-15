@@ -77,7 +77,6 @@ Feriados no recopila datos personales ni utiliza servicios de terceros para aná
 
 ## Contacto
 
-Para consultas, soporte o sugerencias, podés visitar:  
-[https://github.com/lucasditomase/Feriados/discussions](https://github.com/lucasditomase/Feriados/discussions)
+Para consultas, soporte o sugerencias, podés visitar: [https://github.com/lucasditomase/Feriados/discussions](https://github.com/lucasditomase/Feriados/discussions)
 
 **Feriados es un proyecto personal. Si me escribís, voy a leerte personalmente.**
