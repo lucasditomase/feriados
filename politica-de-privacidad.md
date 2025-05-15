@@ -32,6 +32,12 @@ Si decidís agregar un feriado a tu calendario, se guarda un evento puntual con 
 
 Feriados no utiliza servicios de terceros para análisis, publicidad ni almacenamiento de datos.
 
+## Envío de correos
+
+Si decidís contactarme por correo electrónico, estarás compartiendo tu dirección de email y el nombre que tengas configurado en tu cuenta (que puede incluir también tu apellido u otra información identificatoria).
+
+Esa información se usa únicamente para responder a tu consulta. **No la comparto con nadie y no la vendo bajo ninguna circunstancia.**
+
 ## Contacto
 
 Si tenés preguntas sobre esta política, podés comunicarte directamente a través de la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
