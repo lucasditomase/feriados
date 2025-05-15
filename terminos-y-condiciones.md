@@ -37,7 +37,7 @@ Funciones avanzadas están disponibles mediante una suscripción llamada **Feria
 - El pago se realiza a través de la cuenta de Apple ID utilizada para la compra.
 - Si se ofrece un **período de prueba gratuito**, se cobrará automáticamente al finalizar el mismo, salvo cancelación anticipada al menos 24 horas antes.
 - La gestión de la suscripción y la cancelación se realizan desde la configuración de tu cuenta en la App Store.
-- Los precios pueden variar según la región. Las suscripciones son gestionadas por Apple y cualquier solicitud de reembolso debe realizarse a través de la App Store.
+- **Los precios pueden variar según la región, la fecha en que se haya realizado la compra y otras condiciones que establezca Apple o yo como desarrollador.** Puedo actualizar los precios en el futuro, y en ese caso, se te notificará antes de la renovación automática para que decidas si querés continuar con la suscripción.
 
 ## Compartir en familia
 
