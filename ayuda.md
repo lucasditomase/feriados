@@ -44,7 +44,7 @@ Vas a estar compartiendo tu dirección de email y el nombre configurado en tu cu
 Es una suscripción opcional que podés activar o cancelar desde tu cuenta en la App Store. Incluye funciones avanzadas como recordatorios, agregar al calendario, estadísticas, filtros por comunidad, búsqueda avanzada, comparativas de feriados y vistas de calendario mejoradas.
 
 **¿Tengo un período de prueba?**  
-Sí. Tanto el plan mensual como el anual incluyen una prueba gratuita. **Importante:** recordá cancelar al menos 24 horas antes del final de la prueba si no querés que se te cobre.
+Sí. Tanto el plan mensual como el anual incluyen una prueba gratuita. **Importante:** recordá cancelar al menos *24 horas antes del final de la prueba* si no querés que se te cobre.
 
 **¿Puedo compartir mi suscripción con mi familia?**  
 Sí, mediante Apple Family Sharing, sin costo adicional, siempre que esté configurado en tu cuenta.
