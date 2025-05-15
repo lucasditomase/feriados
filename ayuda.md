@@ -1,6 +1,6 @@
 # Soporte para Feriados
 
-Gracias por usar Feriados. Si encontrás errores, tenés dudas o querés sugerir mejoras, podés escribirme o participar en este repositorio.
+Gracias por usar Feriados. Si encontrás errores, tenés dudas o querés sugerir mejoras, podés escribirme o participar en este repositorio.  
 Es un proyecto personal, así que cualquier aporte o comentario suma muchísimo.
 
 ## Reportar un problema
@@ -53,5 +53,5 @@ Sí, mediante Apple Family Sharing, sin costo adicional, siempre que esté confi
 
 Si querés comunicarte directamente o dejar un comentario abierto, podés participar en la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
 
-**Tu mensaje no se pierde.** Feriados es un proyecto personal, así que todos los mensajes y sugerencias los leo directamente yo.
+**Tu mensaje no se pierde.** Feriados es un proyecto personal, así que todos los mensajes y sugerencias los leo directamente yo.  
 Además, tu dirección de correo se usa solo para responderte.
