@@ -69,7 +69,7 @@ Este listado no es exhaustivo: pueden existir otros casos que justifiquen restri
 
 ## Responsabilidad
 
-El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollador (Lucas Ditomase) ni la app garantizan la disponibilidad continua ni la precisión absoluta del contenido, y no serán responsables por decisiones basadas en la información mostrada.**
+El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollador (Lucas Di Tomase) ni la app garantizan la disponibilidad continua ni la precisión absoluta del contenido, y no serán responsables por decisiones basadas en la información mostrada.**
 
 ## Privacidad
 
