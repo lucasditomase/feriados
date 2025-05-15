@@ -6,7 +6,7 @@
 
 ## Datos recopilados
 
-La app no solicita permisos innecesarios ni accede a datos sensibles.
+La app no solicita permisos innecesarios ni accede a datos sensibles.  
 Toda la información mostrada (feriados nacionales, turísticos y religiosos) es pública y se almacena localmente en el dispositivo del usuario.
 
 Las funciones adicionales de Feriados Pro, como las estadísticas y comparativas de feriados, se generan y procesan de forma local en tu dispositivo. No se envía ni almacena información en servidores externos.
@@ -19,10 +19,10 @@ Si hay un período de prueba disponible, podrás usar Feriados Pro sin costo dur
 
 ## Permisos opcionales
 
-**Notificaciones:**
+**Notificaciones:**  
 Se utilizan únicamente si activás recordatorios de feriados. Son notificaciones locales que se generan en el dispositivo, sin comunicación con servidores externos. Podés desactivarlas en cualquier momento desde la configuración de tu dispositivo.
 
-**Calendario:**
+**Calendario:**  
 Si decidís agregar un feriado a tu calendario, se guarda un evento puntual con tu confirmación. La app **no puede ver, leer ni modificar otros eventos** existentes.
 
 ## Terceros
