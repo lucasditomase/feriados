@@ -2,7 +2,9 @@
 
 **Última actualización: mayo 2025**
 
-Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Di Tomase**, destinada a consultar los feriados de Argentina. Al descargar o utilizar la app, aceptás estos términos. Se te concede una **licencia limitada, no exclusiva, intransferible y revocable** para usar la app con fines personales.
+*Al descargar o utilizar la app, aceptás estos términos.*
+
+Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Di Tomase**, destinada a consultar los feriados de Argentina. Se te concede una **licencia limitada, no exclusiva, intransferible y revocable** para usar la app con fines personales.
 
 ## Uso de la App
 
