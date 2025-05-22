@@ -4,6 +4,10 @@
 
 Ideal para planificar fines de semana largos, organizar vacaciones o simplemente aprovechar mejor tu tiempo.
 
+<p align="left">
+  <img src="images/icon.png" alt="Feriados App" width="100">
+</p>
+
 ## Funciones principales (gratis)
 
 • Cuenta regresiva al próximo feriado  
