@@ -41,7 +41,7 @@ Si tenés dudas, sugerencias o querés participar de la comunidad, podés abrir 
 *Feriados es un proyecto personal. Gracias por apoyar el desarrollo independiente.*
 
 <p align="left">
-  <a href="https://apps.apple.com/app/id1234567890">
+  <a href="https://apps.apple.com/app/id6744455042">
     <img src="images/download-badge.svg" alt="Descargar en App Store" width="180">
   </a>
 </p>
