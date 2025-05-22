@@ -30,7 +30,7 @@ Ideal para planificar fines de semana largos, organizar vacaciones o simplemente
 ## Política de privacidad y términos
 
 • [Política de privacidad](https://lucasditomase.github.io/feriados/privacidad)  
-• [Términos y condiciones](https://github.com/lucasditomase/Feriados/blob/main/terminos-y-condiciones.md)  
+• [Términos y condiciones](https://github.com/lucasditomase/Feriados/blob/main/terminos)  
 
 ## Soporte
 
