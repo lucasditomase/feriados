@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" alt="App Feriados" width="320">
+  <img src="images/icon.png" alt="App Feriados" width="200">
 </p>
 
 # Feriados
