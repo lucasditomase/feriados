@@ -1,10 +1,10 @@
+<img src="images/banner.png" alt="Feriados App">
+
 # Feriados
 
 **Feriados** es una aplicación para iOS que permite consultar de forma rápida y organizada todos los feriados nacionales, turísticos y religiosos de Argentina.
 
 Ideal para planificar fines de semana largos, organizar vacaciones o simplemente aprovechar mejor tu tiempo.
-
-<img src="images/banner.png" alt="Feriados App">
 
 ## Funciones principales (gratis)
 
