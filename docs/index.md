@@ -1,6 +1,4 @@
-<a href="https://apps.apple.com/app/id6744455042">
-  <img src="images/banner.png" alt="Feriados App" width="800">
-</a>
+[![Feriados App](images/banner.png)](https://apps.apple.com/app/id6744455042)
 
 # Feriados
 
@@ -46,6 +44,6 @@ Si tenés dudas, sugerencias o querés participar de la comunidad, podés abrir 
 
 <p align="left">
   <a href="https://apps.apple.com/app/id6744455042">
-    <img src="images/download-badge.svg" alt="Descargar en App Store" width="200">
+    <img src="images/download-badge.svg" alt="Descargar en App Store" height="60">
   </a>
 </p>
