@@ -1,42 +1,42 @@
-# Política de Privacidad
+# Privacy Policy
 
-**Última actualización: mayo 2025**
+**Last updated: May 2025**
 
-**Feriados es una aplicación que respeta tu privacidad:** *no recopila, almacena ni comparte información personal del usuario.*
+**Holidays is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*
 
-## Datos recopilados
+## Data Collection
 
-La app no solicita permisos innecesarios ni accede a datos sensibles.  
-Toda la información mostrada (feriados nacionales, turísticos y religiosos) es pública y se almacena localmente en el dispositivo del usuario.
+The app does not request unnecessary permissions or access sensitive data.  
+All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.
 
-Las funciones adicionales de Feriados Pro, como las estadísticas y comparativas de feriados, se generan y procesan de forma local en tu dispositivo. No se envía ni almacena información en servidores externos.
+The additional features in Holidays Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.
 
-## Compras dentro de la app y prueba gratuita
+## In-App Purchases and Free Trial
 
-La app ofrece suscripciones a través de la App Store. Todo el proceso de pago, prueba gratuita y gestión de la suscripción está manejado exclusivamente por Apple. **Feriados no accede a información personal, financiera ni de facturación en ningún momento.**
+The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Holidays does not access any personal, financial, or billing information at any time.**
 
-Si hay un período de prueba disponible, podrás usar Feriados Pro sin costo durante ese tiempo. El cobro se realiza automáticamente al finalizar dicho período, **a menos que canceles la suscripción al menos 24 horas antes**, desde tu cuenta en App Store.
+If a trial period is available, you may use Holidays Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.
 
-## Permisos opcionales
+## Optional Permissions
 
-**Notificaciones:**  
-Se utilizan únicamente si activás recordatorios de feriados. Son notificaciones locales que se generan en el dispositivo, sin comunicación con servidores externos. Podés desactivarlas en cualquier momento desde la configuración de tu dispositivo.
+**Notifications:**  
+Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.
 
-**Calendario:**  
-Si decidís agregar un feriado a tu calendario, se guarda un evento puntual con tu confirmación. La app **no puede ver, leer ni modificar otros eventos** existentes.
+**Calendar:**  
+If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**
 
-## Terceros
+## Third Parties
 
-Feriados no utiliza servicios de terceros para análisis, publicidad ni almacenamiento de datos.
+Holidays does not use any third-party services for analytics, advertising, or data storage.
 
-## Envío de correos
+## Email Contact
 
-Si decidís contactarme por correo electrónico, estarás compartiendo tu dirección de email y el nombre que tengas configurado en tu cuenta (que puede incluir también tu apellido u otra información identificatoria).
+If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).
 
-Esa información se usa únicamente para responder a tu consulta. **No la comparto con nadie y no la vendo bajo ninguna circunstancia.**
+This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**
 
-## Contacto
+## Contact
 
-Si tenés preguntas sobre esta política, podés comunicarte directamente a través de la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
+If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/Feriados/discussions) section.
 
-**Feriados es un proyecto personal. Todas las consultas son leídas y valoradas.**
+**Holidays is a personal project. All inquiries are read and appreciated.**
