@@ -1,49 +1,49 @@
-[![Feriados App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+[![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)
 
-# Feriados
+# Holidays
 
-**Feriados** es una aplicación para iOS que permite consultar de forma rápida y organizada todos los feriados nacionales, turísticos y religiosos de Argentina.
+**Holidays** is an iOS app that lets you quickly and clearly check all national, tourism-related, and religious holidays in Argentina.
 
-Ideal para planificar fines de semana largos, organizar vacaciones o simplemente aprovechar mejor tu tiempo.
+Perfect for planning long weekends, organizing vacations, or simply making better use of your time.
 
-## Funciones principales (gratis)
+## Main Features (Free)
 
-• Cuenta regresiva al próximo feriado  
-• Calendario completo: nacionales, turísticos y religiosos  
-• Filtros por tipo: inamovibles, trasladables, turísticos o no laborables  
-• Búsqueda por nombre o motivo del feriado  
-• Opción para ocultar feriados pasados y enfocarte en los próximos  
-• Agenda semanal para ver los feriados cercanos  
-• Interfaz moderna, clara y adaptable a todos los dispositivos  
+• Countdown to the next holiday  
+• Full calendar: national, tourism, and religious holidays  
+• Filters by type: fixed, movable, tourism-related, or non-working days  
+• Search by name or reason for the holiday  
+• Option to hide past holidays and focus on upcoming ones  
+• Weekly agenda to view nearby holidays  
+• Modern, clear interface adaptable to all devices  
 
-## Funciones avanzadas con Feriados Pro
+## Advanced Features with Holidays Pro
 
-• Agregar feriados a tu calendario personal  
-• Configurar recordatorios automáticos  
-• Filtros por comunidad (musulmana, judía, armenia)  
-• Estadísticas detalladas y gráficos interactivos  
-• Comparativas de feriados entre meses  
-• Visualización de fines de semana largos  
-• Búsqueda avanzada por días de la semana o meses  
-• Calendario completo con vista mensual y semanal  
+• Add holidays to your personal calendar  
+• Set automatic reminders  
+• Filters by community (Muslim, Jewish, Armenian)  
+• Detailed statistics and interactive graphs  
+• Monthly holiday comparisons  
+• Visualization of long weekends  
+• Advanced search by weekday or month  
+• Full calendar with monthly and weekly views  
 
-**Feriados Pro** ofrece una prueba gratuita. Si no querés que se te cobre, asegurate de cancelarla al menos 24 horas antes de que termine.
+**Holidays Pro** includes a free trial. To avoid charges, be sure to cancel at least 24 hours before the trial ends.
 
-## Política de privacidad y términos
+## Privacy Policy and Terms
 
-• [Política de privacidad](https://lucasditomase.github.io/Feriados/en/privacy-policy)  
-• [Términos y condiciones](https://lucasditomase.github.io/Feriados/en/terms-and-conditions)  
+• [Privacy Policy](https://lucasditomase.github.io/Feriados/en/privacy-policy)  
+• [Terms and Conditions](https://lucasditomase.github.io/Feriados/en/terms-and-conditions)  
 
-## Soporte
+## Support
 
-Si tenés dudas, sugerencias o querés participar de la comunidad, podés abrir una [discusión](https://github.com/lucasditomase/Feriados/discussions).
+If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/Feriados/discussions).
 
 ---
 
-*Feriados es un proyecto personal. Gracias por apoyar el desarrollo independiente.*
+*Holidays is a personal project. Thank you for supporting independent development.*
 
 <p align="left">
   <a href="https://apps.apple.com/app/id6744455042">
-    <img src="images/download-badge.svg" alt="Descargar en App Store" height="60">
+    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">
   </a>
 </p>
