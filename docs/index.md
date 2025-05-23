@@ -1,4 +1,6 @@
+<a href="https://apps.apple.com/app/id6744455042">
 <img src="images/banner.png" alt="Feriados App">
+</a>
 
 # Feriados
 
