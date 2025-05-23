@@ -1,84 +1,84 @@
-# Términos y Condiciones de Uso
+# Terms and Conditions of Use
 
-**Última actualización: mayo 2025**
+**Last updated: May 2025**
 
-*Al descargar o utilizar la app, aceptás estos términos.*
+*By downloading or using the app, you agree to these terms.*
 
-Estos términos regulan el uso de **Feriados**, una aplicación para iOS desarrollada por **Lucas Di Tomase**, destinada a consultar los feriados de Argentina. Se te concede una **licencia limitada, no exclusiva, intransferible y revocable** para usar la app con fines personales.
+These terms govern the use of **Holidays**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.
 
-## Uso de la App
+## Use of the App
 
-El uso de Feriados es **personal y no comercial**. Está destinada exclusivamente a fines privados y no puede utilizarse con fines de lucro, reventa o como parte de otro producto o servicio.
+Holidays is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.
 
-## Contenido
+## Content
 
-La información que muestra la app proviene de fuentes públicas y puede estar sujeta a cambios. Aunque se actualiza con regularidad, **no se garantiza la precisión, integridad o vigencia de los datos mostrados**.
+The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.
 
-## Funcionalidades y suscripciones
+## Features and Subscriptions
 
-Feriados ofrece funcionalidades básicas de forma gratuita, incluyendo:
+Holidays offers basic features for free, including:
 
-• Visualización de feriados nacionales, turísticos y religiosos.  
-• Filtros por tipo de feriado.  
-• Agenda semanal de feriados cercanos.  
-• Búsqueda por nombre o motivo.  
+• Display of national, tourism-related, and religious holidays  
+• Filtering by type of holiday  
+• Weekly agenda of upcoming holidays  
+• Search by name or reason  
 
-Funciones avanzadas están disponibles mediante una suscripción llamada **Feriados Pro**, que incluye:
+Advanced features are available through a subscription called **Holidays Pro**, which includes:
 
-• Filtros por comunidad (musulmana, judía, armenia).  
-• Agregado de feriados al calendario personal.  
-• Configuración de recordatorios automáticos.  
-• Estadísticas visuales y comparativas.  
-• Visualización de fines de semana largos.  
-• Búsqueda avanzada por días de la semana o meses.  
-• Vista de calendario mensual y semanal.  
+• Community-specific filters (Muslim, Jewish, Armenian)  
+• Add holidays to your personal calendar  
+• Set automatic reminders  
+• Visual statistics and comparisons  
+• Long weekend visualization  
+• Advanced search by weekday or month  
+• Monthly and weekly calendar views  
 
-## Suscripciones y prueba gratuita
+## Subscriptions and Free Trial
 
-• Las suscripciones a Feriados Pro **se renuevan automáticamente**, salvo que se cancelen al menos **24 horas antes** del final del período actual.  
-• El pago se realiza a través de la cuenta de Apple ID utilizada para la compra.  
-• Si se ofrece un **período de prueba gratuito**, se cobrará automáticamente al finalizar el mismo, salvo cancelación anticipada al menos 24 horas antes.  
-• La gestión de la suscripción y la cancelación se realizan desde la configuración de tu cuenta en la App Store.  
-• **Los precios pueden variar según la región, la fecha en que se haya realizado la compra y otras condiciones que establezca Apple o yo como desarrollador.** Puedo actualizar los precios en el futuro, y en ese caso, se te notificará antes de la renovación automática para que decidas si querés continuar con la suscripción.  
+• Subscriptions to Holidays Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
+• Payment is charged to the Apple ID account used for the purchase  
+• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
+• Subscription management and cancellation must be done through your App Store account settings  
+• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
 
-## Compartir en familia
+## Family Sharing
 
-Si formás parte de un grupo familiar de iCloud, podés compartir la suscripción con otros miembros, siempre que esta opción esté habilitada y configurada en tu cuenta de App Store. Esta funcionalidad depende del sistema operativo y de la configuración individual de cada usuario.
+If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.
 
-## Actualizaciones
+## Updates
 
-La app puede recibir actualizaciones periódicas con mejoras de rendimiento, corrección de errores o nuevas funcionalidades, sin previo aviso.
+The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.
 
-## Comentarios y sugerencias
+## Feedback and Suggestions
 
-Cualquier sugerencia, comentario o idea que envíes podrá ser utilizada para mejorar la app, sin obligación de compensación económica o atribución.
+Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.
 
-## Propiedad intelectual
+## Intellectual Property
 
-Todos los contenidos, interfaces, gráficos, código fuente y funcionalidades de Feriados son propiedad exclusiva de su desarrollador, salvo que se indique lo contrario. No se concede ningún derecho de propiedad intelectual al usuario por el uso de la app.
+All content, interfaces, graphics, source code, and features of Holidays are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.
 
-## Restricciones técnicas
+## Technical Restrictions
 
-Está prohibido:
+You are prohibited from:
 
-• Vender, transmitir, hospedar o explotar comercialmente la app sin autorización.  
-• Copiar o usar la app para cualquier fin que no sea personal y no comercial.  
-• Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.  
-• Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.  
-• Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos, conductas abusivas (como el spam en el soporte técnico), o si el dispositivo está modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas o herramientas que alteren el sistema de compras o cualquier otra funcionalidad).  
+• Selling, distributing, hosting, or commercially exploiting the app without authorization  
+• Copying or using the app for any purpose other than personal and non-commercial use  
+• Modifying, decompiling, reverse engineering, or attempting to access the source code  
+• Using automation, scripts, or other unauthorized methods to interact with the app  
+• I reserve the right to block access to the app, in whole or in part, if improper use is detected, including abusive behavior (such as spamming technical support), or if the device is modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores, or tools that alter the in-app purchase system or any other feature)  
 
-Este listado no es exhaustivo: pueden existir otros casos que justifiquen restricciones de acceso si comprometen la seguridad, integridad o el propósito original de la app.
+This list is not exhaustive. Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose.
 
-## Responsabilidad
+## Disclaimer
 
-El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollador (Lucas Di Tomase) ni la app garantizan la disponibilidad continua ni la precisión absoluta del contenido, y no serán responsables por decisiones basadas en la información mostrada.**
+The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**
 
-## Privacidad
+## Privacy
 
-Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://lucasditomase.github.io/Feriados/en/privacy-policy).
+Holidays does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/Feriados/en/privacy-policy).
 
-## Contacto
+## Contact
 
-Para consultas, soporte o sugerencias, podés visitar la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
+For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/Feriados/discussions) section.
 
-**Feriados es un proyecto personal. Si me escribís, voy a leerte personalmente.**
+**Holidays is a personal project. If you reach out, I will personally read your message.**
