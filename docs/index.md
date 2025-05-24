@@ -1,6 +1,4 @@
-• 🇺🇸 [English](en/index.md)
-
----
+## 🇺🇸 [English](en/index.md)
 
 [![Feriados App](images/banner.png)](https://apps.apple.com/app/id6744455042)
 
