@@ -1,4 +1,4 @@
-• 🇪🇸 [Español](/docs/index.md)
+• 🇪🇸 [Español](https://lucasditomase.github.io/Feriados)
 
 ---
 
