@@ -1,11 +1,11 @@
-# Holidays
-
 ---
 Title: Title
 Subtitle: Subtitle
 ---
 
 [![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+
+# Holidays
 
 **Holidays** is an iOS app that lets you quickly and clearly check all national, tourism-related, and religious holidays in Argentina.
 
