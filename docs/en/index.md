@@ -1,6 +1,5 @@
 ---
-Title: Title
-Subtitle: Subtitle
+Title: Title1
 ---
 
 [![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)
