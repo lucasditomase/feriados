@@ -1,6 +1,4 @@
-• 🇪🇸 [Español](https://lucasditomase.github.io/Feriados)
-
----
+## 🇪🇸 [Español](https://lucasditomase.github.io/Feriados)
 
 [![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)
 
