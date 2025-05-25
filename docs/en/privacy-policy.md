@@ -37,6 +37,6 @@ This information is used solely to respond to your inquiry. **It is never shared
 
 ## Contact
 
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/Feriados/discussions) section.
+If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.
 
 **Holidays is a personal project. All inquiries are read and appreciated.**

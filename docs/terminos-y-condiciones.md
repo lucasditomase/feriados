@@ -75,10 +75,10 @@ El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollado
 
 ## Privacidad
 
-Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://lucasditomase.github.io/Feriados/politica-de-privacidad).
+Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://lucasditomase.github.io/feriados/politica-de-privacidad).
 
 ## Contacto
 
-Para consultas, soporte o sugerencias, podés visitar la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
+Para consultas, soporte o sugerencias, podés visitar la sección de [Discusiones](https://github.com/lucasditomase/feriados/discussions).
 
 **Feriados es un proyecto personal. Si me escribís, voy a leerte personalmente.**

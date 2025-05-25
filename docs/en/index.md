@@ -31,12 +31,12 @@ Perfect for planning long weekends, organizing vacations, or simply making bette
 
 ## Privacy Policy and Terms
 
-• [Privacy Policy](https://lucasditomase.github.io/Feriados/en/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/Feriados/en/terms-and-conditions)  
+• [Privacy Policy](https://lucasditomase.github.io/feriados/en/privacy-policy)  
+• [Terms and Conditions](https://lucasditomase.github.io/feriados/en/terms-and-conditions)  
 
 ## Support
 
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/Feriados/discussions).
+If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).
 
 ---
 

@@ -7,7 +7,7 @@ Es un proyecto personal, así que cualquier aporte o comentario suma muchísimo.
 
 Podés abrir un "issue" en este repositorio describiendo el problema y los pasos para reproducirlo. Si es posible, adjuntá una captura de pantalla.
 
-[Crear un issue](https://github.com/lucasditomase/Feriados/issues)
+[Crear un issue](https://github.com/lucasditomase/feriados/issues)
 
 También podés escribirme por correo si preferís no usar GitHub. Desde la app, en la sección "Más información", vas a encontrar una opción para enviar un email con todos los datos técnicos ya preparados (modelo de dispositivo, idioma, sistema, etc.).
 
@@ -51,7 +51,7 @@ Sí, mediante Apple Family Sharing, sin costo adicional, siempre que esté confi
 
 ## Contacto
 
-Si querés comunicarte directamente o dejar un comentario abierto, podés participar en la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
+Si querés comunicarte directamente o dejar un comentario abierto, podés participar en la sección de [Discusiones](https://github.com/lucasditomase/feriados/discussions).
 
 **Tu mensaje no se pierde.** Feriados es un proyecto personal, así que todos los mensajes y sugerencias los leo directamente yo.  
 Además, tu dirección de correo se usa solo para responderte.

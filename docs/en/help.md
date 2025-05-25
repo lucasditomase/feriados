@@ -7,7 +7,7 @@ This is a personal project, so any feedback or contribution is highly appreciate
 
 You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.
 
-[Create an issue](https://github.com/lucasditomase/Feriados/issues/new?title=Problem%20with%20Holidays%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Holidays%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
 
 You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).
 
@@ -51,7 +51,7 @@ Yes, through Apple Family Sharing, at no additional cost, provided it is properl
 
 ## Contact
 
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/Feriados/discussions) section.
+If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.
 
 **Your message won’t be lost.** Holidays is a personal project, so I personally read all messages and suggestions.  
 Also, your email address is used only to respond to your inquiry.

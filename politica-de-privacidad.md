@@ -37,6 +37,6 @@ Esa información se usa únicamente para responder a tu consulta. **No la compar
 
 ## Contacto
 
-Si tenés preguntas sobre esta política, podés comunicarte directamente a través de la sección de [Discusiones](https://github.com/lucasditomase/Feriados/discussions).
+Si tenés preguntas sobre esta política, podés comunicarte directamente a través de la sección de [Discusiones](https://github.com/lucasditomase/feriados/discussions).
 
 **Feriados es un proyecto personal. Todas las consultas son leídas y valoradas.**

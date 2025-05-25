@@ -75,10 +75,10 @@ The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor 
 
 ## Privacy
 
-Holidays does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/Feriados/en/privacy-policy).
+Holidays does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/en/privacy-policy).
 
 ## Contact
 
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/Feriados/discussions) section.
+For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.
 
 **Holidays is a personal project. If you reach out, I will personally read your message.**
