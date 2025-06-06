@@ -18,28 +18,28 @@ As informações exibidas no aplicativo provêm de fontes públicas e podem sofr
 
 O Holidays oferece recursos básicos gratuitos, incluindo:
 
-• Exibição de feriados nacionais, turísticos e religiosos
-• Filtros por tipo de feriado
-• Agenda semanal dos próximos feriados
-• Busca por nome ou motivo
+• Exibição de feriados nacionais, turísticos e religiosos	
+• Filtros por tipo de feriado	
+• Agenda semanal dos próximos feriados	
+• Busca por nome ou motivo	
 
 Recursos avançados estão disponíveis por meio de uma assinatura chamada **Holidays Pro**, que inclui:
 
-• Filtros por comunidade específica (muçulmana, judaica, armênia)
-• Adicionar feriados ao seu calendário pessoal
-• Definir lembretes automáticos
-• Estatísticas visuais e comparações
-• Visualização de feriados prolongados
-• Busca avançada por dia da semana ou mês
-• Vistas mensais e semanais do calendário
+• Filtros por comunidade específica (muçulmana, judaica, armênia)	
+• Adicionar feriados ao seu calendário pessoal	
+• Definir lembretes automáticos	
+• Estatísticas visuais e comparações	
+• Visualização de feriados prolongados	
+• Busca avançada por dia da semana ou mês	
+• Vistas mensais e semanais do calendário	
 
 ## Assinaturas e período de teste
 
-• As assinaturas do Holidays Pro **renovam-se automaticamente** a menos que sejam canceladas **pelo menos 24 horas antes** do fim do período atual
-• O pagamento é cobrado do ID Apple utilizado na compra
-• Se houver **período de teste gratuito**, a assinatura começará automaticamente ao fim do teste, a menos que seja cancelada com 24 horas de antecedência
-• A gestão e o cancelamento da assinatura devem ser feitos nas configurações da sua conta da App Store
-• **Os preços podem variar** dependendo da região, data de compra e outras condições definidas pela Apple ou por mim como desenvolvedor. Os preços podem ser atualizados no futuro; nesse caso você será notificado antes da renovação automática para decidir se deseja continuar
+• As assinaturas do Holidays Pro **renovam-se automaticamente** a menos que sejam canceladas **pelo menos 24 horas antes** do fim do período atual	
+• O pagamento é cobrado do ID Apple utilizado na compra	
+• Se houver **período de teste gratuito**, a assinatura começará automaticamente ao fim do teste, a menos que seja cancelada com 24 horas de antecedência	
+• A gestão e o cancelamento da assinatura devem ser feitos nas configurações da sua conta da App Store	
+• **Os preços podem variar** dependendo da região, data de compra e outras condições definidas pela Apple ou por mim como desenvolvedor. Os preços podem ser atualizados no futuro; nesse caso você será notificado antes da renovação automática para decidir se deseja continuar	
 
 ## Compartilhamento familiar
 
@@ -61,11 +61,11 @@ Todo o conteúdo, interfaces, gráficos, código-fonte e recursos do Holidays s�
 
 É proibido:
 
-• Vender, distribuir, hospedar ou explorar comercialmente o aplicativo sem autorização
-• Copiar ou usar o aplicativo para qualquer finalidade que não seja o uso pessoal e não comercial
-• Modificar, descompilar, fazer engenharia reversa ou tentar acessar o código-fonte
-• Utilizar automações, scripts ou outros métodos não autorizados para interagir com o aplicativo
-• Reservo-me o direito de bloquear o acesso ao aplicativo, total ou parcial, se for detectado uso indevido, incluindo comportamento abusivo (como enviar spam ao suporte técnico) ou se o dispositivo for modificado de forma que afete o funcionamento normal do app (por exemplo, dispositivos com jailbreak, ambientes não autorizados, uso de lojas de terceiros ou ferramentas que alterem o sistema de compras internas ou qualquer outro recurso)
+• Vender, distribuir, hospedar ou explorar comercialmente o aplicativo sem autorização	
+• Copiar ou usar o aplicativo para qualquer finalidade que não seja o uso pessoal e não comercial	
+• Modificar, descompilar, fazer engenharia reversa ou tentar acessar o código-fonte	
+• Utilizar automações, scripts ou outros métodos não autorizados para interagir com o aplicativo	
+• Reservo-me o direito de bloquear o acesso ao aplicativo, total ou parcial, se for detectado uso indevido, incluindo comportamento abusivo (como enviar spam ao suporte técnico) ou se o dispositivo for modificado de forma que afete o funcionamento normal do app (por exemplo, dispositivos com jailbreak, ambientes não autorizados, uso de lojas de terceiros ou ferramentas que alterem o sistema de compras internas ou qualquer outro recurso)	
 
 Esta lista não é exaustiva. Outros casos também podem justificar restrições se comprometerem a segurança, a integridade ou o objetivo do aplicativo.
 
