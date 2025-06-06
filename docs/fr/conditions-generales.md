@@ -18,28 +18,28 @@ Les informations affichées dans l'application proviennent de sources publiques 
 
 Holidays offre gratuitement des fonctionnalités de base, notamment :
 
-• Affichage des jours fériés nationaux, touristiques et religieux	
-• Filtres par type de férié	
-• Agenda hebdomadaire des fériés à venir	
-• Recherche par nom ou motif	
+• Affichage des jours fériés nationaux, touristiques et religieux  
+• Filtres par type de férié  
+• Agenda hebdomadaire des fériés à venir  
+• Recherche par nom ou motif  
 
 Des fonctionnalités avancées sont disponibles via un abonnement appelé **Holidays Pro**, qui inclut :
 
-• Filtres par communauté spécifique (musulmane, juive, arménienne)	
-• Ajout des fériés à votre calendrier personnel	
-• Rappels automatiques	
-• Statistiques visuelles et comparaisons	
-• Visualisation des ponts	
-• Recherche avancée par jour de la semaine ou mois	
-• Vues mensuelles et hebdomadaires du calendrier	
+• Filtres par communauté spécifique (musulmane, juive, arménienne)  
+• Ajout des fériés à votre calendrier personnel  
+• Rappels automatiques  
+• Statistiques visuelles et comparaisons  
+• Visualisation des ponts  
+• Recherche avancée par jour de la semaine ou mois  
+• Vues mensuelles et hebdomadaires du calendrier  
 
 ## Abonnements et période d'essai
 
-• Les abonnements à Holidays Pro **se renouvellent automatiquement** sauf annulation **au moins 24 heures avant** la fin de la période en cours	
-• Le paiement est effectué via l'identifiant Apple utilisé pour l'achat	
-• Si une **période d'essai gratuite** est proposée, l'abonnement commencera automatiquement à la fin de celle-ci sauf annulation au moins 24 heures à l'avance	
-• La gestion et l'annulation de l'abonnement doivent être effectuées dans les réglages de votre compte App Store	
-• **Les prix peuvent varier** selon la région, la date d'achat et d'autres conditions définies par Apple ou par moi en tant que développeur. Les prix peuvent être mis à jour à l'avenir ; dans ce cas vous serez informé avant le renouvellement automatique pour décider de continuer ou non	
+• Les abonnements à Holidays Pro **se renouvellent automatiquement** sauf annulation **au moins 24 heures avant** la fin de la période en cours  
+• Le paiement est effectué via l'identifiant Apple utilisé pour l'achat  
+• Si une **période d'essai gratuite** est proposée, l'abonnement commencera automatiquement à la fin de celle-ci sauf annulation au moins 24 heures à l'avance  
+• La gestion et l'annulation de l'abonnement doivent être effectuées dans les réglages de votre compte App Store  
+• **Les prix peuvent varier** selon la région, la date d'achat et d'autres conditions définies par Apple ou par moi en tant que développeur. Les prix peuvent être mis à jour à l'avenir ; dans ce cas vous serez informé avant le renouvellement automatique pour décider de continuer ou non  
 
 ## Partage familial
 
@@ -61,11 +61,11 @@ Tout le contenu, les interfaces, les graphismes, le code source et les fonctionn
 
 Il est interdit :
 
-• De vendre, distribuer, héberger ou exploiter commercialement l'application sans autorisation	
-• De copier ou d'utiliser l'application à toute fin autre que l'usage personnel et non commercial	
-• De modifier, décompiler, faire de l'ingénierie inverse ou tenter d'accéder au code source	
-• D'utiliser des automatisations, scripts ou autres méthodes non autorisées pour interagir avec l'application	
-• Je me réserve le droit de bloquer l'accès à l'application, en tout ou en partie, en cas d'utilisation abusive, y compris un comportement agressif (par exemple l'envoi massif de courriels au support technique) ou si l'appareil est modifié de manière à affecter le fonctionnement normal de l'application (appareils jailbreakés, environnements non autorisés, utilisation de stores tiers ou d'outils modifiant les achats intégrés ou toute autre fonctionnalité)	
+• De vendre, distribuer, héberger ou exploiter commercialement l'application sans autorisation  
+• De copier ou d'utiliser l'application à toute fin autre que l'usage personnel et non commercial  
+• De modifier, décompiler, faire de l'ingénierie inverse ou tenter d'accéder au code source  
+• D'utiliser des automatisations, scripts ou autres méthodes non autorisées pour interagir avec l'application  
+• Je me réserve le droit de bloquer l'accès à l'application, en tout ou en partie, en cas d'utilisation abusive, y compris un comportement agressif (par exemple l'envoi massif de courriels au support technique) ou si l'appareil est modifié de manière à affecter le fonctionnement normal de l'application (appareils jailbreakés, environnements non autorisés, utilisation de stores tiers ou d'outils modifiant les achats intégrés ou toute autre fonctionnalité)  
 
 Cette liste n'est pas exhaustive. D'autres cas peuvent également justifier des restrictions s'ils compromettent la sécurité, l'intégrité ou l'objectif de l'application.
 
