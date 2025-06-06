@@ -1,4 +1,4 @@
-[![Feriados App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+[![Feriados App](es/images/banner.png)](https://apps.apple.com/app/id6744455042)
 
 # Feriados
 
@@ -31,8 +31,8 @@ Ideal para planificar fines de semana largos, organizar vacaciones o simplemente
 
 ## Política de privacidad y términos
 
-• [Política de privacidad](https://lucasditomase.github.io/feriados/politica-de-privacidad)  
-• [Términos y condiciones](https://lucasditomase.github.io/feriados/terminos-y-condiciones)  
+• [Política de privacidad](https://lucasditomase.github.io/feriados/es/politica-de-privacidad)
+• [Términos y condiciones](https://lucasditomase.github.io/feriados/es/terminos-y-condiciones)
 
 ## Soporte
 
@@ -44,6 +44,6 @@ Si tenés dudas, sugerencias o querés participar de la comunidad, podés abrir 
 
 <p align="left">
   <a href="https://apps.apple.com/app/id6744455042">
-    <img src="images/download-badge.svg" alt="Descargar en App Store" height="60">
+    <img src="es/images/download-badge.svg" alt="Descargar en App Store" height="60">
   </a>
 </p>

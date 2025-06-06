@@ -75,7 +75,7 @@ El uso de la app se realiza bajo tu propia responsabilidad. **Ni el desarrollado
 
 ## Privacidad
 
-Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://lucasditomase.github.io/feriados/politica-de-privacidad).
+Feriados no recopila datos personales ni utiliza servicios de terceros para análisis o publicidad. Para más información, podés consultar la [Política de Privacidad](https://lucasditomase.github.io/feriados/es/politica-de-privacidad).
 
 ## Contacto
 
