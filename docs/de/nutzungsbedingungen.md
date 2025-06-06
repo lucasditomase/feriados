@@ -18,28 +18,28 @@ Die angezeigten Informationen stammen aus öffentlichen Quellen und können sich
 
 Holidays bietet kostenlose Basisfunktionen, darunter:
 
-• Anzeige nationaler, touristischer und religiöser Feiertage
-• Filter nach Feiertagstyp
-• Wochenagenda bevorstehender Feiertage
-• Suche nach Name oder Anlass
+• Anzeige nationaler, touristischer und religiöser Feiertage	
+• Filter nach Feiertagstyp	
+• Wochenagenda bevorstehender Feiertage	
+• Suche nach Name oder Anlass	
 
 Erweiterte Funktionen sind über ein Abonnement namens **Holidays Pro** verfügbar und umfassen:
 
-• Gemeinschaftsspezifische Filter (muslimisch, jüdisch, armenisch)
-• Hinzufügen von Feiertagen zum persönlichen Kalender
-• Automatische Erinnerungen
-• Visuelle Statistiken und Vergleiche
-• Anzeige langer Wochenenden
-• Erweiterte Suche nach Wochentag oder Monat
-• Monats- und Wochenansichten des Kalenders
+• Gemeinschaftsspezifische Filter (muslimisch, jüdisch, armenisch)	
+• Hinzufügen von Feiertagen zum persönlichen Kalender	
+• Automatische Erinnerungen	
+• Visuelle Statistiken und Vergleiche	
+• Anzeige langer Wochenenden	
+• Erweiterte Suche nach Wochentag oder Monat	
+• Monats- und Wochenansichten des Kalenders	
 
 ## Abonnements und Testphase
 
-• Abonnements von Holidays Pro **verlängern sich automatisch**, sofern sie nicht **spätestens 24 Stunden vor** Ablauf der laufenden Periode gekündigt werden
-• Die Zahlung erfolgt über die Apple-ID, mit der der Kauf getätigt wurde
-• Wird eine **kostenlose Testphase** angeboten, beginnt das Abonnement automatisch nach deren Ende, sofern es nicht mindestens 24 Stunden vorher gekündigt wird
-• Verwaltung und Kündigung des Abonnements erfolgen in den Einstellungen deines App-Store-Kontos
-• **Preise können variieren** je nach Region, Kaufdatum und anderen von Apple oder mir als Entwickler festgelegten Bedingungen. Preise können zukünftig angepasst werden; in diesem Fall wirst du vor der automatischen Verlängerung informiert, um zu entscheiden, ob du fortfahren möchtest
+• Abonnements von Holidays Pro **verlängern sich automatisch**, sofern sie nicht **spätestens 24 Stunden vor** Ablauf der laufenden Periode gekündigt werden	
+• Die Zahlung erfolgt über die Apple-ID, mit der der Kauf getätigt wurde	
+• Wird eine **kostenlose Testphase** angeboten, beginnt das Abonnement automatisch nach deren Ende, sofern es nicht mindestens 24 Stunden vorher gekündigt wird	
+• Verwaltung und Kündigung des Abonnements erfolgen in den Einstellungen deines App-Store-Kontos	
+• **Preise können variieren** je nach Region, Kaufdatum und anderen von Apple oder mir als Entwickler festgelegten Bedingungen. Preise können zukünftig angepasst werden; in diesem Fall wirst du vor der automatischen Verlängerung informiert, um zu entscheiden, ob du fortfahren möchtest	
 
 ## Familienfreigabe
 
@@ -61,11 +61,11 @@ Sämtliche Inhalte, Oberflächen, Grafiken, Quellcodes und Funktionen von Holida
 
 Es ist untersagt:
 
-• Die App ohne Genehmigung zu verkaufen, zu vertreiben, zu hosten oder kommerziell zu nutzen
-• Die App zu kopieren oder anderweitig zu verwenden, außer für den persönlichen und nicht kommerziellen Gebrauch
-• Die App zu modifizieren, zu dekompilieren, Reverse Engineering durchzuführen oder zu versuchen, den Quellcode zu erlangen
-• Automatisierungen, Skripte oder andere nicht autorisierte Methoden zu verwenden, um mit der App zu interagieren
-• Ich behalte mir das Recht vor, den Zugriff auf die App ganz oder teilweise zu blockieren, wenn missbräuchliche Nutzung festgestellt wird, einschließlich belästigendem Verhalten (z. B. Spam an den Support) oder wenn das Gerät so verändert wird, dass die normale Funktionsweise der App beeinträchtigt wird (z. B. Jailbreak, nicht autorisierte Umgebungen, Nutzung von Drittanbieter-Stores oder Tools, die das In-App-Kaufsystem oder andere Funktionen verändern)
+• Die App ohne Genehmigung zu verkaufen, zu vertreiben, zu hosten oder kommerziell zu nutzen	
+• Die App zu kopieren oder anderweitig zu verwenden, außer für den persönlichen und nicht kommerziellen Gebrauch	
+• Die App zu modifizieren, zu dekompilieren, Reverse Engineering durchzuführen oder zu versuchen, den Quellcode zu erlangen	
+• Automatisierungen, Skripte oder andere nicht autorisierte Methoden zu verwenden, um mit der App zu interagieren	
+• Ich behalte mir das Recht vor, den Zugriff auf die App ganz oder teilweise zu blockieren, wenn missbräuchliche Nutzung festgestellt wird, einschließlich belästigendem Verhalten (z. B. Spam an den Support) oder wenn das Gerät so verändert wird, dass die normale Funktionsweise der App beeinträchtigt wird (z. B. Jailbreak, nicht autorisierte Umgebungen, Nutzung von Drittanbieter-Stores oder Tools, die das In-App-Kaufsystem oder andere Funktionen verändern)	
 
 Diese Liste ist nicht abschließend. Weitere Fälle können ebenfalls Einschränkungen rechtfertigen, wenn sie die Sicherheit, Integrität oder den Zweck der App gefährden.
 

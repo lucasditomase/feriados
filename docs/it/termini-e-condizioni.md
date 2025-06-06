@@ -18,28 +18,28 @@ Le informazioni visualizzate nell'app provengono da fonti pubbliche e possono su
 
 Holidays offre gratuitamente funzioni di base, tra cui:
 
-• Visualizzazione dei giorni festivi nazionali, turistici e religiosi
-• Filtri per tipo di festività
-• Agenda settimanale delle festività imminenti
-• Ricerca per nome o motivo
+• Visualizzazione dei giorni festivi nazionali, turistici e religiosi	
+• Filtri per tipo di festività	
+• Agenda settimanale delle festività imminenti	
+• Ricerca per nome o motivo	
 
 Funzioni avanzate sono disponibili tramite un abbonamento chiamato **Holidays Pro**, che include:
 
-• Filtri per comunità specifiche (musulmana, ebraica, armena)
-• Aggiunta dei festivi al tuo calendario personale
-• Promemoria automatici
-• Statistiche e confronti visivi
-• Visualizzazione dei ponti
-• Ricerca avanzata per giorno della settimana o mese
-• Viste mensili e settimanali del calendario
+• Filtri per comunità specifiche (musulmana, ebraica, armena)	
+• Aggiunta dei festivi al tuo calendario personale	
+• Promemoria automatici	
+• Statistiche e confronti visivi	
+• Visualizzazione dei ponti	
+• Ricerca avanzata per giorno della settimana o mese	
+• Viste mensili e settimanali del calendario	
 
 ## Abbonamenti e prova gratuita
 
-• Gli abbonamenti a Holidays Pro **si rinnovano automaticamente** a meno che non vengano cancellati **almeno 24 ore prima** della fine del periodo in corso
-• Il pagamento viene addebitato sull'ID Apple utilizzato per l'acquisto
-• Se è prevista una **prova gratuita**, l'abbonamento inizierà automaticamente al termine della prova a meno che non venga cancellato con almeno 24 ore di anticipo
-• La gestione e la cancellazione dell'abbonamento devono essere effettuate dalle impostazioni del tuo account App Store
-• **I prezzi possono variare** in base alla regione, alla data di acquisto e ad altre condizioni stabilite da Apple o da me come sviluppatore. I prezzi potranno essere aggiornati in futuro; in tal caso sarai avvisato prima del rinnovo automatico per decidere se continuare
+• Gli abbonamenti a Holidays Pro **si rinnovano automaticamente** a meno che non vengano cancellati **almeno 24 ore prima** della fine del periodo in corso	
+• Il pagamento viene addebitato sull'ID Apple utilizzato per l'acquisto	
+• Se è prevista una **prova gratuita**, l'abbonamento inizierà automaticamente al termine della prova a meno che non venga cancellato con almeno 24 ore di anticipo	
+• La gestione e la cancellazione dell'abbonamento devono essere effettuate dalle impostazioni del tuo account App Store	
+• **I prezzi possono variare** in base alla regione, alla data di acquisto e ad altre condizioni stabilite da Apple o da me come sviluppatore. I prezzi potranno essere aggiornati in futuro; in tal caso sarai avvisato prima del rinnovo automatico per decidere se continuare	
 
 ## Condivisione in famiglia
 
@@ -61,11 +61,11 @@ Tutti i contenuti, le interfacce, la grafica, il codice sorgente e le funzionali
 
 È vietato:
 
-• Vendere, distribuire, ospitare o sfruttare commercialmente l'app senza autorizzazione
-• Copiare o utilizzare l'app per scopi diversi dall'uso personale e non commerciale
-• Modificare, decompilare, fare reverse engineering o tentare di accedere al codice sorgente
-• Utilizzare automazioni, script o altri metodi non autorizzati per interagire con l'app
-• Mi riservo il diritto di bloccare l'accesso all'app, in tutto o in parte, se viene rilevato un uso improprio, compresi comportamenti abusivi (come lo spam al supporto tecnico) o se il dispositivo viene modificato in modo da compromettere il normale funzionamento dell'app (ad esempio dispositivi jailbroken, ambienti non autorizzati, utilizzo di store di terze parti o strumenti che alterano il sistema di acquisti in-app o altre funzioni)
+• Vendere, distribuire, ospitare o sfruttare commercialmente l'app senza autorizzazione	
+• Copiare o utilizzare l'app per scopi diversi dall'uso personale e non commerciale	
+• Modificare, decompilare, fare reverse engineering o tentare di accedere al codice sorgente	
+• Utilizzare automazioni, script o altri metodi non autorizzati per interagire con l'app	
+• Mi riservo il diritto di bloccare l'accesso all'app, in tutto o in parte, se viene rilevato un uso improprio, compresi comportamenti abusivi (come lo spam al supporto tecnico) o se il dispositivo viene modificato in modo da compromettere il normale funzionamento dell'app (ad esempio dispositivi jailbroken, ambienti non autorizzati, utilizzo di store di terze parti o strumenti che alterano il sistema di acquisti in-app o altre funzioni)	
 
 Questo elenco non è esaustivo. Altri casi potrebbero giustificare restrizioni se compromettono la sicurezza, l'integrità o lo scopo dell'app.
 
