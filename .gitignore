@@ -10,6 +10,9 @@
 xcuserdata/
 # Xcode user-specific data (schemes, settings), not needed in source control
 
+*.xcuserstate
+# Xcode project user state files, contain user-specific preferences
+
 DerivedData/
 # Xcode build products and intermediates, can be regenerated
 
