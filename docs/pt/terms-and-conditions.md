@@ -75,7 +75,7 @@ O uso do aplicativo é por sua conta e risco. **Nem o desenvolvedor (Lucas Di To
 
 ## Privacidade
 
-Holidays não coleta dados pessoais nem usa serviços de terceiros para análise ou publicidade. Para mais detalhes, consulte a [Política de privacidade](https://lucasditomase.github.io/feriados/pt/politica-de-privacidade).
+Holidays não coleta dados pessoais nem usa serviços de terceiros para análise ou publicidade. Para mais detalhes, consulte a [Política de privacidade](https://lucasditomase.github.io/feriados/pt/privacy-policy).
 
 ## Contato
 

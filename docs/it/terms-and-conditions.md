@@ -75,7 +75,7 @@ L'uso dell'app avviene a tuo rischio. **Né lo sviluppatore (Lucas Di Tomase) n�
 
 ## Privacy
 
-Holidays non raccoglie dati personali né utilizza servizi di terze parti per analisi o pubblicità. Per maggiori dettagli consulta l'[Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/informativa-sulla-privacy).
+Holidays non raccoglie dati personali né utilizza servizi di terze parti per analisi o pubblicità. Per maggiori dettagli consulta l'[Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/privacy-policy).
 
 ## Contatto
 
