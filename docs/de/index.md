@@ -31,8 +31,8 @@ Ideal, um lange Wochenenden zu planen, Urlaube zu organisieren oder einfach dein
 
 ## Datenschutz und Bedingungen
 
-• [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/datenschutzrichtlinie)  
-• [Nutzungsbedingungen](https://lucasditomase.github.io/feriados/de/nutzungsbedingungen)  
+• [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/privacy-policy)
+• [Nutzungsbedingungen](https://lucasditomase.github.io/feriados/de/terms-and-conditions)
 
 ## Unterstützung
 

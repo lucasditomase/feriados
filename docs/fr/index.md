@@ -31,8 +31,8 @@ Parfaite pour planifier les week-ends prolongés, organiser des vacances ou simp
 
 ## Politique de confidentialité et conditions
 
-• [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/politique-de-confidentialite)  
-• [Conditions générales](https://lucasditomase.github.io/feriados/fr/conditions-generales)  
+• [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/privacy-policy)
+• [Conditions générales](https://lucasditomase.github.io/feriados/fr/terms-and-conditions)
 
 ## Assistance
 

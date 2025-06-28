@@ -75,7 +75,7 @@ Die Nutzung der App erfolgt auf eigenes Risiko. **Weder der Entwickler (Lucas Di
 
 ## Datenschutz
 
-Holidays erhebt keine personenbezogenen Daten und verwendet keine Dienste Dritter für Analysen oder Werbung. Weitere Informationen findest du in der [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/datenschutzrichtlinie).
+Holidays erhebt keine personenbezogenen Daten und verwendet keine Dienste Dritter für Analysen oder Werbung. Weitere Informationen findest du in der [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/privacy-policy).
 
 ## Kontakt
 
