@@ -1,42 +1,41 @@
-# Privacy Policy  
-  
-**Last updated: May 2025**  
-  
-**Праздники is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
-  
-## Data Collection  
-  
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
-  
-The additional features in Праздники Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
-  
-## In-App Purchases and Free Trial  
-  
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Праздники does not access any personal, financial, or billing information at any time.**  
-  
-If a trial period is available, you may use Праздники Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
-  
-## Optional Permissions  
-  
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
-  
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
-  
-## Third Parties  
-  
-Праздники does not use any third-party services for analytics, advertising, or data storage.  
-  
-## Email Contact  
-  
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
-  
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
-  
-## Contact  
-  
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Праздники is a personal project. All inquiries are read and appreciated.**  
+# Политика конфиденциальности
+
+**Последнее обновление: май 2025 года**
+
+**«Праздники» — приложение, которое уважает вашу конфиденциальность:** *оно не собирает, не хранит и не передает персональные данные пользователей.*
+
+## Сбор данных
+
+Приложение не запрашивает ненужных разрешений и не обращается к конфиденциальным данным. Вся отображаемая информация (национальные, туристические и религиозные праздники) является общедоступной и хранится локально на устройстве пользователя.
+
+Дополнительные функции «Праздники Pro», такие как статистика праздников и сравнения, генерируются и обрабатываются локально на вашем устройстве. Никакая информация не отправляется и не сохраняется на внешних серверах.
+
+## Покупки в приложении и пробная версия
+
+Приложение предлагает подписки через App Store. Все платежи, бесплатный пробный период и управление подпиской выполняются исключительно Apple. **«Праздники» не получает доступа к каким-либо личным, финансовым или платежным данным.**
+
+Если предусмотрен пробный период, вы можете пользоваться «Праздники Pro» бесплатно в течение этого времени. Плата будет взиматься автоматически по его завершении, **если только вы не отмените подписку минимум за 24 часа до окончания** через ваш аккаунт в App Store.
+
+## Дополнительные разрешения
+
+**Уведомления:**
+Используются только при включении напоминаний о праздниках. Это локальные уведомления, создаваемые на устройстве без обращения к внешним серверам. Вы можете отключить их в настройках в любое время.
+
+**Календарь:**
+Если вы решите добавить праздник в календарь, создастся одно событие после вашего подтверждения. Приложение **не может просматривать, читать или изменять другие существующие события.**
+
+## Сторонние сервисы
+
+«Праздники» не использует сторонние сервисы для аналитики, рекламы или хранения данных.
+
+## Контакт по электронной почте
+
+Если вы решите связаться со мной по электронной почте, вы поделитесь своим адресом и именем, указанным в вашей учетной записи (возможно, включая фамилию или другую идентифицирующую информацию).
+
+Эта информация используется исключительно для ответа на ваш запрос. **Она никогда не передается третьим лицам и не продается ни при каких обстоятельствах.**
+
+## Контакт
+
+Если у вас есть вопросы об этой политике, пишите в раздел [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**«Праздники» — личный проект. Все обращения читаются и ценятся.**

@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **Праздники**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-Праздники is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-Праздники offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **Праздники Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to Праздники Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of Праздники are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-Праздники does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/ru/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Праздники is a personal project. If you reach out, I will personally read your message.**  
+# Условия использования
+
+**Последнее обновление: май 2025 года**
+
+*Скачивая или используя приложение, вы соглашаетесь с этими условиями.*
+
+Настоящие условия регулируют использование приложения **«Праздники»**, разработанного **Лукасом Ди Томасе** для отображения официальных праздников Аргентины. Вам предоставляется **ограниченная, неисключительная, непередаваемая и отзывная лицензия** на личное использование приложения.
+
+## Использование приложения
+
+«Праздники» предназначено только для **личного, некоммерческого использования**. Оно не может использоваться для получения прибыли, перепродажи или как часть другого продукта или сервиса.
+
+## Содержание
+
+Информация в приложении берётся из публичных источников и может изменяться. Хотя данные регулярно обновляются, **точность, полнота и актуальность информации не гарантируются.**
+
+## Функции и подписки
+
+«Праздники» предоставляет основные функции бесплатно, включая:
+
+• Отображение национальных, туристических и религиозных праздников
+• Фильтрацию по типу праздника
+• Недельную повестку предстоящих праздников
+• Поиск по названию или причине
+
+Расширенные функции доступны по подписке **Праздники Pro**, которая включает:
+
+• Фильтры по общине (мусульманской, еврейской, армянской)
+• Добавление праздников в личный календарь
+• Автоматические напоминания
+• Визуальную статистику и сравнения
+• Отображение длинных выходных
+• Расширенный поиск по дню недели или месяцу
+• Помесячный и понедельный виды календаря
+
+## Подписки и пробный период
+
+• Подписки Праздники Pro **продлеваются автоматически**, если их не отменить как минимум **за 24 часа до** окончания текущего периода
+• Плата взимается с Apple ID, использованного при покупке
+• Если предусмотрен **бесплатный пробный период**, подписка начнётся автоматически после его окончания, если её не отменить как минимум за 24 часа до конца
+• Управление подпиской и её отмена осуществляются в настройках вашей учётной записи App Store
+• **Цены могут различаться в зависимости от региона, даты покупки и других условий, установленных Apple или мной как разработчиком.** В будущем цены могут изменяться; в этом случае вы будете уведомлены до автоматического продления, чтобы решить, продолжать ли
+
+## Семейный доступ
+
+Если вы состоите в группе Family Sharing в iCloud, вы можете делиться подпиской с другими участниками, при условии, что эта опция включена и настроена в вашем аккаунте App Store. Возможность зависит от версии операционной системы и настроек аккаунта.
+
+## Обновления
+
+Приложение может периодически обновляться для повышения производительности, исправления ошибок или добавления новых функций без предварительного уведомления.
+
+## Отзывы и предложения
+
+Любые предложения, комментарии или идеи, которые вы отправляете, могут быть использованы для улучшения приложения без обязательств по компенсации или указанию авторства.
+
+## Интеллектуальная собственность
+
+Всё содержимое, интерфейсы, графика, исходный код и функции «Праздников» являются исключительной собственностью разработчика, если не указано иное. Пользователю не предоставляются никакие права на интеллектуальную собственность при использовании приложения.
+
+## Технические ограничения
+
+Запрещается:
+
+• Продавать, распространять, размещать или использовать приложение в коммерческих целях без разрешения
+• Копировать или использовать приложение для целей, отличных от личного и некоммерческого использования
+• Модифицировать, декомпилировать, производить обратную разработку или пытаться получить доступ к исходному коду
+• Использовать автоматизацию, скрипты или иные неавторизованные методы взаимодействия с приложением
+• Спамить службу поддержки рекламными, оскорбительными или бессмысленными сообщениями
+• Отправлять сообщения с отсутствующей или намеренно изменённой информацией
+• Писать в поддержку и затем игнорировать ответы разработчика
+• Использовать приложение на устройстве, модифицированном таким образом, что это влияет на его работу (например, jailbreak, сторонние магазины приложений)
+• Использовать инструменты, изменяющие систему покупок в приложении или другие функции
+
+**Этот список не исчерпывающий.** В других случаях ограничения также могут применяться, если они угрожают безопасности, целостности или назначению приложения. **Я оставляю за собой право ограничить доступ к приложению полностью или частично при обнаружении ненадлежащего использования или злоупотребления.**
+
+## Отказ от ответственности
+
+Использование приложения осуществляется на ваш страх и риск. **Разработчик (Лукас Ди Томасе) и приложение не гарантируют непрерывную доступность или абсолютную точность содержимого и не несут ответственности за решения, принятые на основе предоставленной информации.**
+
+## Конфиденциальность
+
+«Праздники» не собирает личных данных и не использует сторонние сервисы для аналитики или рекламы. Подробнее см. [Политику конфиденциальности](https://lucasditomase.github.io/feriados/ru/privacy-policy).
+
+## Контакт
+
+По вопросам, поддержке или предложениям заходите в раздел [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**«Праздники» — личный проект. Если вы напишете, я лично прочитаю ваше сообщение.**
