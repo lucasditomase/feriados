@@ -1,6 +1,6 @@
 # Điều Khoản và Điều Kiện Sử Dụng  
   
-**Cập nhật lần cuối: Tháng 5 năm 2025**  
+**Cập nhật lần cuối: Tháng 6 năm 2025**  
   
 *Bằng cách tải hoặc sử dụng ứng dụng, bạn đồng ý với các điều khoản này.*  
   

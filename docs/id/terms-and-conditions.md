@@ -1,6 +1,6 @@
 # Syarat dan Ketentuan Penggunaan  
   
-**Pembaruan terakhir: Mei 2025**  
+**Pembaruan terakhir: Juni 2025**  
   
 *Dengan mengunduh atau menggunakan aplikasi ini, kamu menyetujui syarat-syarat berikut.*  
   
