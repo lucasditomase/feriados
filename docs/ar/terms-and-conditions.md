@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **العطلات**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-العطلات is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-العطلات offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **العطلات Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to العطلات Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of العطلات are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-العطلات does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/ar/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**العطلات is a personal project. If you reach out, I will personally read your message.**  
+# الشروط والأحكام للاستخدام
+
+**آخر تحديث: مايو 2025**
+
+*بمجرد تنزيل التطبيق أو استخدامه، فإنك توافق على هذه الشروط.*
+
+تُحدد هذه الشروط استخدام تطبيق **العطلات**، وهو تطبيق لنظام iOS طوره **Lucas Di Tomase** لعرض العطلات الرسمية في الأرجنتين. يُمنح لك ترخيص **محدود وغير حصري وغير قابل للنقل وقابل للإلغاء** لاستخدام التطبيق للأغراض الشخصية.
+
+## استخدام التطبيق
+
+يُقصد بالعطلات للاستخدام **الشخصي وغير التجاري** فقط. لا يجوز استخدامه لتحقيق الربح أو لإعادة بيعه أو كجزء من منتج أو خدمة أخرى.
+
+## المحتوى
+
+المعلومات المعروضة في التطبيق مأخوذة من مصادر عامة وقد تخضع للتغيير. وعلى الرغم من تحديثها بشكل منتظم، **لا يمكن ضمان دقة أو اكتمال أو حداثة هذه المعلومات**.
+
+## الميزات والاشتراكات
+
+يوفر العطلات ميزات أساسية مجاناً، تشمل:
+
+• عرض العطلات الوطنية والسياحية والدينية
+• فلاتر حسب نوع العطلة
+• أجندة أسبوعية للعطلات القادمة
+• البحث حسب الاسم أو السبب
+
+تتوفر ميزات متقدمة عبر اشتراك يسمى **العطلات Pro**، ويتضمن:
+
+• فلاتر مخصّصة للمجتمع (مسلم، يهودي، أرمني)
+• إضافة العطلات إلى تقويمك الشخصي
+• ضبط تذكيرات تلقائية
+• إحصائيات مرئية ومقارنات
+• عرض عطلات نهاية الأسبوع الطويلة
+• بحث متقدم حسب يوم الأسبوع أو الشهر
+• عرض تقويم شهري وأسبوعي
+
+## الاشتراكات والفترة التجريبية
+
+• يتم **تجديد اشتراكات العطلات Pro تلقائياً** ما لم يتم إلغاؤها قبل **24 ساعة على الأقل** من نهاية الفترة الحالية
+• يتم خصم الدفع من حساب Apple ID المستخدم للشراء
+• إذا توفرت **فترة تجريبية مجانية**، سيبدأ الاشتراك تلقائياً عند انتهاء الفترة ما لم يتم الإلغاء قبل 24 ساعة على الأقل
+• يجب إدارة الاشتراك وإلغاؤه من إعدادات حسابك في App Store
+• **قد تختلف الأسعار بحسب المنطقة وتاريخ الشراء وشروط أخرى تحددها Apple أو أنا كمطور.** قد يتم تحديث الأسعار مستقبلاً، وفي هذه الحالة سيتم إخطارك قبل التجديد التلقائي لتقرر ما إذا كنت ترغب في المتابعة
+
+## المشاركة العائلية
+
+إذا كنت ضمن مجموعة iCloud Family Sharing، قد تتمكن من مشاركة اشتراكك مع بقية الأفراد ما دام هذا الخيار مفعَّلاً ومضبوطاً في حسابك على App Store. تعتمد هذه الميزة على نظام التشغيل وإعدادات كل حساب على حدة.
+
+## التحديثات
+
+قد يتلقى التطبيق تحديثات دورية لتحسين الأداء وإصلاح الأخطاء أو إضافة ميزات جديدة من دون إشعار مسبق.
+
+## التعليقات والاقتراحات
+
+قد يتم استخدام أي اقتراحات أو تعليقات أو أفكار ترسلها لتحسين التطبيق من دون أي التزام بالتعويض أو الإشارة إليك.
+
+## الملكية الفكرية
+
+جميع المحتوى والواجهات والرسومات والشفرة المصدرية وميزات العطلات هي ملك حصري للمطوّر ما لم يُذكر خلاف ذلك. لا تُمنح للمستخدم أي حقوق ملكية فكرية من خلال استخدام التطبيق.
+
+## القيود التقنية
+
+يُحظر عليك ما يلي:
+
+• بيع التطبيق أو توزيعه أو استضافته أو استغلاله تجارياً دون ترخيص
+• نسخ التطبيق أو استخدامه لأي غرض غير الاستخدام الشخصي وغير التجاري
+• تعديل أو فك تجميع أو إجراء هندسة عكسية أو محاولة الوصول إلى الشفرة المصدرية
+• استخدام الأتمتة أو السكربتات أو أي طرق غير مصرح بها للتفاعل مع التطبيق
+• إرسال رسائل ترويجية أو مسيئة أو عديمة المعنى إلى الدعم الفني
+• إرسال رسائل بمعلومات ناقصة أو معدلة عمداً
+• مراسلة الدعم الفني عبر البريد ثم تجاهل ردود المطوّر
+• استخدام التطبيق على جهاز تم تعديله بطريقة تؤثر في عمله الطبيعي (مثل الأجهزة المكسورة الحماية أو البيئات غير المصرح بها أو استخدام متاجر تطبيقات طرف ثالث)
+• استخدام أدوات تغيّر نظام المشتريات داخل التطبيق أو أي ميزة أخرى
+
+**هذه القائمة ليست شاملة.** قد توجد حالات أخرى تستدعي فرض قيود إذا ما عرّضت أمان التطبيق أو سلامته أو هدفه المقصود للخطر. **أحتفظ بالحق في حجب الوصول إلى التطبيق كلياً أو جزئياً إذا تم اكتشاف استخدام غير لائق أو سلوك مسيء.**
+
+## إخلاء المسؤولية
+
+استخدام التطبيق على مسؤوليتك الخاصة. **لا يضمن المطوّر (Lucas Di Tomase) ولا التطبيق توافر الخدمة بشكل مستمر أو دقة المحتوى بشكل مطلق، ولا يتحملان مسؤولية القرارات التي تُتخذ بناءً على المعلومات المقدّمة.**
+
+## الخصوصية
+
+لا يجمع العطلات بيانات شخصية ولا يستخدم خدمات طرف ثالث للتحليلات أو الإعلانات. للمزيد من التفاصيل يرجى الاطلاع على [سياسة الخصوصية](https://lucasditomase.github.io/feriados/ar/privacy-policy).
+
+## التواصل
+
+لأي أسئلة أو دعم أو اقتراحات، تفضل بزيارة قسم [المناقشات](https://github.com/lucasditomase/feriados/discussions).
+
+**العطلات مشروع شخصي. إذا تواصلت معي فسأقرأ رسالتك بنفسي.**
