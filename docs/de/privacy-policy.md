@@ -1,6 +1,6 @@
 # Datenschutzrichtlinie  
   
-**Letzte Aktualisierung: Mai 2025**  
+**Letzte Aktualisierung: Juni 2025**  
   
 **Feiertage ist eine App, die deine Privatsphäre respektiert:** *sie sammelt, speichert oder teilt keinerlei persönliche Nutzerdaten.*  
   

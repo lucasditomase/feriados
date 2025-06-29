@@ -1,6 +1,6 @@
 # Chính Sách Quyền Riêng Tư  
   
-**Cập nhật lần cuối: Tháng 5 năm 2025**  
+**Cập nhật lần cuối: Tháng 6 năm 2025**  
   
 **Ngày Nghỉ là ứng dụng tôn trọng quyền riêng tư của bạn:** *không thu thập, lưu trữ hay chia sẻ bất kỳ thông tin cá nhân nào của người dùng.*  
   

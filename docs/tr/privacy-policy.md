@@ -1,6 +1,6 @@
 # Gizlilik Politikası  
   
-**Son güncelleme: Mayıs 2025**  
+**Son güncelleme: Haziran 2025**  
   
 **Tatiller gizliliğinize saygı duyan bir uygulamadır:** *kullanıcıya ait hiçbir kişisel bilgiyi toplamaz, saklamaz veya paylaşmaz.*  
   

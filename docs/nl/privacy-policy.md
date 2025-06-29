@@ -1,6 +1,6 @@
 # Privacybeleid  
   
-**Laatst bijgewerkt: mei 2025**  
+**Laatst bijgewerkt: juni 2025**  
   
 **Feestdagen is een app die je privacy respecteert:** *er wordt geen persoonlijke gebruikersinformatie verzameld, opgeslagen of gedeeld.*  
   

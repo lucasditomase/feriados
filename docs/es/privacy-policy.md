@@ -1,6 +1,6 @@
 # Política de Privacidad  
   
-**Última actualización: mayo 2025**  
+**Última actualización: junio 2025**  
   
 **Feriados es una aplicación que respeta tu privacidad:** *no recopila, almacena ni comparte información personal del usuario.*  
   
