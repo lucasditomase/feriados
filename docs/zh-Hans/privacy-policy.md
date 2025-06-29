@@ -1,42 +1,42 @@
-# Privacy Policy  
-  
-**Last updated: May 2025**  
-  
-**节假日 is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
-  
-## Data Collection  
-  
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
-  
-The additional features in 节假日 Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
-  
-## In-App Purchases and Free Trial  
-  
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **节假日 does not access any personal, financial, or billing information at any time.**  
-  
-If a trial period is available, you may use 节假日 Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
-  
-## Optional Permissions  
-  
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
-  
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
-  
-## Third Parties  
-  
-节假日 does not use any third-party services for analytics, advertising, or data storage.  
-  
-## Email Contact  
-  
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
-  
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
-  
-## Contact  
-  
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**节假日 is a personal project. All inquiries are read and appreciated.**  
+# 隐私政策
+
+**最后更新：2025 年 5 月**
+
+**节假日是一款尊重您隐私的应用：** *不会收集、存储或共享任何个人信息。*
+
+## 数据收集
+
+应用不会请求不必要的权限，也不会访问敏感数据。
+显示的所有信息（国家、旅游和宗教节日）均来自公开资料，并存储在用户设备上。
+
+节假日 Pro 的其他功能，如节日统计和对比，均在您的设备上本地生成和处理，不会向外部服务器发送或存储任何信息。
+
+## 应用内购买与免费试用
+
+应用通过 App Store 提供订阅。所有付款处理、免费试用和订阅管理均由 Apple 独家负责。**节假日始终不会获取任何个人、财务或账单信息。**
+
+若提供试用期，您可在此期间免费使用节假日 Pro。**除非在试用结束前至少 24 小时取消订阅，否则将自动收费**，可在 App Store 账户中操作。
+
+## 可选权限
+
+**通知：**
+仅在您启用节日提醒时使用。这些都是在本地生成的通知，不与外部服务器通信。您可随时在设备设置中关闭。
+
+**日历：**
+若选择将节日添加到日历，确认后会保存单个事件。应用 **无法查看、读取或修改其他现有事件。**
+
+## 第三方
+
+节假日不使用任何第三方服务进行分析、广告或数据存储。
+
+## 邮件联系
+
+如果您选择通过电子邮件联系我，您将分享您的电子邮箱地址以及账户中配置的姓名（可能包含姓氏或其他身份信息）。
+
+这些信息仅用于回复您的咨询。**绝不会在任何情况下与第三方共享或出售。**
+
+## 联系方式
+
+如对本政策有疑问，欢迎通过[讨论区](https://github.com/lucasditomase/feriados/discussions)与我联系。
+
+**节假日是个人项目，所有咨询都会被阅读和重视。**
