@@ -1,6 +1,6 @@
 [![Feriados App](es/images/banner.png)](https://apps.apple.com/app/id6744455042)  
   
-# Feriados  
+# Feriados
   
 Feriados: tu tiempo libre, bien aprovechado.  
   
