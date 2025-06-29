@@ -65,12 +65,14 @@ Il est interdit :
 • De copier ou d'utiliser l'application à toute fin autre que l'usage personnel et non commercial  
 • De modifier, décompiler, faire de l'ingénierie inverse ou tenter d'accéder au code source  
 • D'utiliser des automatisations, scripts ou autres méthodes non autorisées pour interagir avec l'application  
-• Envoyer du spam au support technique, par exemple des messages sans sens, vides, avec des informations manquantes ou modifiées, ou en ignorant les réponses  
+• Envoyer du spam au support technique, par exemple des messages promotionnels, abusifs ou dénués de sens.
+• Envoyer des messages contenant des informations manquantes ou modifiées.
+• Envoyer des courriels au support technique puis ignorer les réponses du développeur.
 • Utiliser l'application sur un appareil modifié de manière à affecter son fonctionnement normal (appareils jailbreakés, environnements non autorisés, utilisation de stores tiers)  
 • Utiliser des outils modifiant les achats intégrés ou toute autre fonctionnalité  
-• Je me réserve le droit de bloquer l'accès à l'application, en tout ou en partie, en cas d'utilisation abusive  
 
-Cette liste n'est pas exhaustive. D'autres cas peuvent également justifier des restrictions s'ils compromettent la sécurité, l'intégrité ou l'objectif de l'application.
+**Cette liste n'est pas exhaustive.** D'autres cas peuvent également justifier des restrictions s'ils compromettent la sécurité, l'intégrité ou l'objectif de l'application.
+**Je me réserve le droit de bloquer l'accès à l'application, en tout ou en partie, en cas d'utilisation abusive.**
 
 ## Clause de non-responsabilité
 

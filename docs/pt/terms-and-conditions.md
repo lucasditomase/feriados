@@ -65,12 +65,14 @@ Todo o conteúdo, interfaces, gráficos, código-fonte e recursos do Holidays s�
 • Copiar ou usar o aplicativo para qualquer finalidade que não seja o uso pessoal e não comercial  
 • Modificar, descompilar, fazer engenharia reversa ou tentar acessar o código-fonte  
 • Utilizar automações, scripts ou outros métodos não autorizados para interagir com o aplicativo  
-• Enviar spam ao suporte técnico, por exemplo enviar mensagens sem sentido, vazias, com informações faltantes ou modificadas, ou ignorar as respostas  
+• Enviar spam ao suporte técnico, por exemplo enviar mensagens promocionais, abusivas ou sem sentido.
+• Enviar mensagens com informações faltantes ou modificadas.
+• Mandar emails para o suporte e depois ignorar as respostas do desenvolvedor.
 • Utilizar o aplicativo em um dispositivo modificado de forma que afete o funcionamento normal do app (por exemplo, dispositivos com jailbreak, ambientes não autorizados, uso de lojas de terceiros)  
 • Utilizar ferramentas que alterem o sistema de compras internas ou qualquer outro recurso  
-• Reservo-me o direito de bloquear o acesso ao aplicativo, total ou parcial, se for detectado uso indevido ou comportamento abusivo  
 
-Esta lista não é exaustiva. Outros casos também podem justificar restrições se comprometerem a segurança, a integridade ou o objetivo do aplicativo.
+**Esta lista não é exaustiva.** Outros casos também podem justificar restrições se comprometerem a segurança, a integridade ou o objetivo do aplicativo.
+**Reservo-me o direito de bloquear o acesso ao aplicativo, total ou parcial, se for detectado uso indevido ou comportamento abusivo.**
 
 ## Isenção de responsabilidade
 
