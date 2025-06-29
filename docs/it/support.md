@@ -13,9 +13,6 @@ Puoi anche contattarmi via email se preferisci non usare GitHub. Nell'app, nella
 
 ## Domande frequenti
 
-**Holidays richiede una connessione internet?**
-No. Tutti i dati sono salvati localmente sul dispositivo.
-
 **Posso aggiungere le festività al calendario?**
 Sì, con Holidays Pro puoi aggiungere qualsiasi festività direttamente al tuo calendario personale.
 

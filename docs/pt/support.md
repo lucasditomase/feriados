@@ -13,9 +13,6 @@ Você também pode me contatar por email se preferir não usar o GitHub. No app,
 
 ## Perguntas frequentes
 
-**O Holidays precisa de conexão com a internet?**
-Não. Todos os dados ficam armazenados localmente no dispositivo.
-
 **Posso adicionar os feriados ao meu calendário?**
 Sim, com o Holidays Pro você pode adicionar qualquer feriado diretamente ao seu calendário pessoal.
 

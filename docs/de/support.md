@@ -13,9 +13,6 @@ Du kannst mich auch per E-Mail kontaktieren, wenn du GitHub nicht verwenden möc
 
 ## Häufig gestellte Fragen
 
-**Benötigt Holidays eine Internetverbindung?**  
-Nein. Alle Daten werden lokal auf deinem Gerät gespeichert.
-
 **Kann ich Feiertage meinem Kalender hinzufügen?**  
 Ja, mit Holidays Pro kannst du jeden Feiertag direkt in deinen persönlichen Kalender eintragen.
 
