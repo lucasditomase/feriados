@@ -1,54 +1,54 @@
-# Support for วันหยุด  
-  
-Thank you for using วันหยุด. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20วันหยุด%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with วันหยุด Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, วันหยุด Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does วันหยุด Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-วันหยุด allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. วันหยุด does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does วันหยุด Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** วันหยุด is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# การสนับสนุนสำหรับ วันหยุด
+
+ขอบคุณที่ใช้ วันหยุด หากพบข้อบกพร่อง มีคำถาม หรืออยากเสนอแนะ สามารถติดต่อฉันหรือเข้าร่วมในรีโพนี้ได้
+นี่เป็นโปรเจกต์ส่วนตัว ดังนั้นคำติชมและการมีส่วนร่วมทุกอย่างยินดีอย่างยิ่ง
+
+## รายงานปัญหา
+
+คุณสามารถเปิด issue ในรีโพนี้โดยอธิบายปัญหาและขั้นตอนในการทำให้เกิด หากเป็นไปได้ กรุณาแนบภาพหน้าจอ
+
+[สร้าง issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20วันหยุด%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+คุณยังสามารถติดต่อทางอีเมลหากไม่สะดวกใช้ GitHub ในแอปภายใต้เมนู "ข้อมูลเพิ่มเติม" มีตัวเลือกส่งอีเมลพร้อมรายละเอียดทางเทคนิคทั้งหมด (รุ่นอุปกรณ์ ภาษา เวอร์ชันระบบปฏิบัติการ ฯลฯ)
+
+## คำถามที่พบบ่อย
+
+**ฉันสามารถเพิ่มวันหยุดลงในปฏิทินได้ไหม?**
+ได้ วันหยุด Pro ให้คุณเพิ่มวันหยุดใดก็ได้ลงในปฏิทินส่วนตัว
+
+**ฉันตั้งการเตือนวันหยุดได้หรือไม่?**
+ได้ วันหยุด Pro ช่วยให้คุณตั้งการแจ้งเตือนก่อนถึงวันหยุดแต่ละวัน
+
+**เวอร์ชันฟรีมีอะไรบ้าง?**
+ประกอบด้วยปฏิทินวันหยุดประจำชาติ ท่องเที่ยว และศาสนาเต็มรูปแบบ พร้อมตารางรายสัปดาห์ และตัวกรองพื้นฐานตามประเภทวันหยุด
+
+**เวอร์ชัน วันหยุด Pro มีฟีเจอร์อะไรเพิ่มบ้าง?**
+มีการแจ้งเตือน เพิ่มวันหยุดสู่ปฏิทิน สถิติเปรียบเทียบ ตัวกรองชุมชน การค้นหาขั้นสูง และมุมมองปฏิทินที่ปรับปรุงแล้ว
+
+**ทำไมถึงมีวันหยุดทางศาสนา?**
+วันหยุด สามารถกรองตามชุมชน (มุสลิม ยิว อาร์เมเนีย) เพื่อให้ผู้ใช้แต่ละคนเห็นวันที่ที่เกี่ยวข้องตามความต้องการ
+
+**วันหยุดมีการอัปเดตเสมอหรือไม่?**
+ข้อมูลมาจากแหล่งทางการและอัปเดตเป็นประจำ แต่อาจมีการเปลี่ยนแปลงโดยไม่คาดคิดจากการตัดสินใจของรัฐบาลหรือข้อผิดพลาดของมนุษย์
+
+**แอปเก็บข้อมูลส่วนตัวหรือไม่?**
+ไม่ วันหยุด ไม่เก็บหรือส่งข้อมูลผู้ใช้ใดๆ กิจกรรมทั้งหมดเกิดขึ้นบนอุปกรณ์ของคุณ
+
+**ถ้าส่งอีเมลจากในแอปจะเกิดอะไรขึ้น?**
+คุณจะส่งที่อยู่อีเมลและชื่อที่ตั้งค่าไว้ในบัญชี ข้อมูลนี้ใช้เพื่อตอบข้อความของคุณเท่านั้น **จะไม่ถูกแบ่งปันหรือขายต่อ**
+
+**วันหยุด Pro ทำงานอย่างไร?**
+เป็นการสมัครสมาชิกแบบเลือกได้ คุณสามารถเปิดหรือยกเลิกผ่านบัญชี App Store มีฟีเจอร์ขั้นสูง เช่น การแจ้งเตือน การเชื่อมปฏิทิน สถิติ ตัวกรองชุมชน การค้นหาขั้นสูง การเปรียบเทียบวันหยุด และมุมมองปฏิทินที่ดียิ่งขึ้น
+
+**มีช่วงทดลองใช้ฟรีหรือไม่?**
+มี ทั้งแผนรายเดือนและรายปีมีช่วงทดลองใช้ฟรี **สำคัญ:** อย่าลืมยกเลิก *อย่างน้อย 24 ชั่วโมงก่อนหมดช่วงทดลอง* หากไม่ต้องการถูกเรียกเก็บเงิน
+
+**ฉันแบ่งปันการสมัครกับครอบครัวได้หรือไม่?**
+ได้ ผ่านระบบ Family Sharing ของ Apple โดยไม่มีค่าใช้จ่ายเพิ่มเติมหากตั้งค่าไว้ในบัญชี App Store
+
+## ติดต่อ
+
+หากต้องการติดต่อโดยตรงหรือต้องการแสดงความคิดเห็นสาธารณะ สามารถเข้าร่วมได้ที่ส่วน [Discussions](https://github.com/lucasditomase/feriados/discussions)
+
+**ข้อความของคุณจะไม่สูญหาย** วันหยุด เป็นโปรเจกต์ส่วนตัว ฉันอ่านทุกข้อความและข้อเสนอแนะด้วยตนเอง
+อีเมลของคุณใช้เพียงเพื่อตอบกลับคำถามเท่านั้น

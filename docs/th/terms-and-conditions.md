@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **วันหยุด**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-วันหยุด is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-วันหยุด offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **วันหยุด Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to วันหยุด Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of วันหยุด are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-วันหยุด does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/th/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**วันหยุด is a personal project. If you reach out, I will personally read your message.**  
+# ข้อกำหนดและเงื่อนไขการใช้งาน
+
+**อัปเดตล่าสุด: พฤษภาคม 2025**
+
+*เมื่อดาวน์โหลดหรือใช้แอป ถือว่าคุณยอมรับข้อกำหนดเหล่านี้*
+
+ข้อกำหนดเหล่านี้ควบคุมการใช้งาน **วันหยุด** แอป iOS ที่พัฒนาโดย **Lucas Di Tomase** สำหรับแสดงวันหยุดทางการของอาร์เจนตินา คุณได้รับ**สิทธิ์การใช้งานแบบจำกัด ไม่ผูกขาด ไม่สามารถโอน และเพิกถอนได้** เพื่อใช้แอปเพื่อวัตถุประสงค์ส่วนตัว
+
+## การใช้แอป
+
+วันหยุด มีไว้สำหรับ**การใช้งานส่วนตัว ไม่ใช่เชิงพาณิชย์** เท่านั้น ห้ามนำไปใช้เพื่อแสวงหากำไร จำหน่ายต่อ หรือเป็นส่วนหนึ่งของผลิตภัณฑ์หรือบริการอื่น
+
+## เนื้อหา
+
+ข้อมูลที่แสดงในแอปมาจากแหล่งสาธารณะและอาจมีการเปลี่ยนแปลง แม้จะมีการอัปเดตเป็นประจำ แต่**ไม่รับประกันความถูกต้อง ครบถ้วน หรือทันเวลา**
+
+## ฟีเจอร์และการสมัครสมาชิก
+
+วันหยุด มีฟีเจอร์พื้นฐานให้ใช้ฟรี ได้แก่:
+
+• แสดงวันหยุดประจำชาติ ท่องเที่ยว และศาสนา
+• กรองตามประเภทวันหยุด
+• ตารางรายสัปดาห์ของวันหยุดที่จะมาถึง
+• ค้นหาตามชื่อหรือเหตุผล
+
+ฟีเจอร์ขั้นสูงสามารถใช้งานได้ผ่านการสมัครสมาชิก **วันหยุด Pro** ซึ่งประกอบด้วย:
+
+• ตัวกรองตามชุมชน (มุสลิม ยิว อาร์เมเนีย)
+• เพิ่มวันหยุดลงในปฏิทินส่วนตัว
+• ตั้งการเตือนอัตโนมัติ
+• สถิติและการเปรียบเทียบแบบภาพ
+• แสดงวันหยุดยาว
+• ค้นหาขั้นสูงตามวันในสัปดาห์หรือเดือน
+• มุมมองปฏิทินรายเดือนและรายสัปดาห์
+
+## การสมัครสมาชิกและช่วงทดลองใช้ฟรี
+
+• การสมัคร วันหยุด Pro **ต่ออายุอัตโนมัติ** เว้นแต่จะยกเลิกอย่างน้อย **24 ชั่วโมงก่อน** สิ้นสุดรอบปัจจุบัน
+• การชำระเงินจะถูกเรียกเก็บจากบัญชี Apple ID ที่ใช้ซื้อ
+• หากมี**ช่วงทดลองใช้ฟรี** การสมัครจะเริ่มโดยอัตโนมัติเมื่อสิ้นสุดช่วงทดลอง เว้นแต่คุณยกเลิกอย่างน้อย 24 ชั่วโมงล่วงหน้า
+• การจัดการและการยกเลิกการสมัครต้องทำผ่านการตั้งค่าบัญชี App Store ของคุณ
+• **ราคาสามารถเปลี่ยนแปลงได้** ตามภูมิภาค วันที่ซื้อ และเงื่อนไขอื่นๆ ที่กำหนดโดย Apple หรือโดยตัวฉันในฐานะผู้พัฒนา อาจมีการปรับราคาในอนาคต ซึ่งจะแจ้งให้คุณทราบก่อนการต่ออายุอัตโนมัติเพื่อให้ตัดสินใจได้ว่าจะดำเนินการต่อหรือไม่
+
+## การแชร์กับครอบครัว
+
+หากคุณอยู่ในกลุ่ม iCloud Family Sharing อาจสามารถแชร์การสมัครกับสมาชิกคนอื่นได้ หากเปิดใช้และกำหนดค่าไว้ในบัญชี App Store ทั้งนี้ขึ้นอยู่กับระบบปฏิบัติการและการตั้งค่าบัญชีของแต่ละคน
+
+## การอัปเดต
+
+แอปอาจได้รับการอัปเดตเป็นระยะเพื่อปรับปรุงประสิทธิภาพ แก้ไขข้อบกพร่อง หรือเพิ่มฟีเจอร์ใหม่โดยไม่ต้องแจ้งให้ทราบล่วงหน้า
+
+## ข้อเสนอแนะ
+
+ข้อเสนอแนะ ความคิดเห็น หรือไอเดียใดๆ ที่ส่งเข้ามา อาจถูกนำไปใช้ปรับปรุงแอปโดยไม่จำเป็นต้องให้ค่าตอบแทนหรือระบุที่มา
+
+## สิทธิ์ในทรัพย์สินทางปัญญา
+
+เนื้อหา อินเทอร์เฟซ กราฟิก ซอร์สโค้ด และฟีเจอร์ทั้งหมดของ วันหยุด เป็นทรัพย์สินแต่เพียงผู้เดียวของผู้พัฒนา เว้นแต่จะระบุไว้เป็นอย่างอื่น ไม่มีการมอบสิทธิ์ในทรัพย์สินทางปัญญาให้ผู้ใช้จากการใช้งานแอป
+
+## ข้อจำกัดทางเทคนิค
+
+ห้ามกระทำการต่อไปนี้:
+
+• ขาย แจกจ่าย โฮสต์ หรือหาประโยชน์เชิงพาณิชย์จากแอปโดยไม่ได้รับอนุญาต
+• คัดลอกหรือใช้แอปเพื่อวัตถุประสงค์อื่นนอกเหนือจากการใช้งานส่วนตัวและไม่ใช่เชิงพาณิชย์
+• แก้ไข ดิคอมไพล์ รีเวิร์สเอนจิเนียร์ หรือพยายามเข้าถึงซอร์สโค้ด
+• ใช้งานระบบอัตโนมัติ สคริปต์ หรือวิธีที่ไม่ได้รับอนุญาตในการโต้ตอบกับแอป
+• ส่งสแปมไปยังฝ่ายสนับสนุน เช่น ข้อความเชิงโฆษณา ก้าวร้าว หรือไร้สาระ
+• ส่งข้อความที่เจตนาละข้อมูลหรือบิดเบือนข้อมูล
+• ส่งอีเมลหาฝ่ายสนับสนุนแล้วไม่ตอบกลับจากนักพัฒนา
+• ใช้งานแอปบนอุปกรณ์ที่ถูกดัดแปลงจนมีผลต่อการทำงานปกติของแอป (เช่น อุปกรณ์ที่เจลเบรก ใช้งานสภาพแวดล้อมที่ไม่ได้รับอนุญาต หรือร้านแอปของบุคคลที่สาม)
+• ใช้เครื่องมือที่เปลี่ยนแปลงระบบซื้อภายในแอปหรือฟีเจอร์อื่นใด
+
+**รายการนี้อาจไม่ได้ครอบคลุมทั้งหมด** กรณีอื่นๆ อาจถูกจำกัดหากกระทบต่อความปลอดภัย ความสมบูรณ์ หรือวัตถุประสงค์ของแอป **ฉันขอสงวนสิทธิ์ในการปิดกั้นการเข้าถึงแอปทั้งหมดหรือบางส่วน หากตรวจพบการใช้งานที่ไม่เหมาะสมหรือพฤติกรรมที่เป็นการละเมิด**
+
+## ข้อปฏิเสธความรับผิด
+
+การใช้แอปเป็นความเสี่ยงของคุณเอง **ทั้งผู้พัฒนา (Lucas Di Tomase) และตัวแอปไม่รับประกันความพร้อมใช้งานอย่างต่อเนื่องหรือความถูกต้องสมบูรณ์ของข้อมูล และไม่รับผิดชอบต่อการตัดสินใจใดๆ ที่ทำจากข้อมูลในแอป**
+
+## ความเป็นส่วนตัว
+
+วันหยุด ไม่เก็บข้อมูลส่วนตัวหรือใช้บริการของบุคคลที่สามเพื่อวิเคราะห์หรือโฆษณา ดูรายละเอียดได้ที่ [นโยบายความเป็นส่วนตัว](https://lucasditomase.github.io/feriados/th/privacy-policy)
+
+## ติดต่อ
+
+หากมีคำถาม ต้องการความช่วยเหลือ หรือข้อเสนอแนะ สามารถเข้าไปที่ส่วน [Discussions](https://github.com/lucasditomase/feriados/discussions)
+
+**วันหยุด เป็นโปรเจกต์ส่วนตัว หากคุณติดต่อมา ฉันจะอ่านข้อความของคุณด้วยตนเอง**
