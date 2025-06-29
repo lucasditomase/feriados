@@ -61,14 +61,14 @@ Todos los contenidos, interfaces, gráficos, código fuente y funcionalidades de
 
 Está prohibido:
 
-• Vender, transmitir, hospedar o explotar comercialmente la app sin autorización.  
-• Copiar o usar la app para cualquier fin que no sea personal y no comercial.  
-• Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.  
-• Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.  
-• Enviar spam en el soporte técnico, por ejemplo mandar mensajes sin sentido, vacíos, con información faltante o modificada, o ignorar las respuestas.
-• Utilizar la app en un dispositivo modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas).
-• Utilizar herramientas que alteren el sistema de compras o cualquier otra funcionalidad.
-• Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos o conductas abusivas.
+• Vender, transmitir, hospedar o explotar comercialmente la app sin autorización  
+• Copiar o usar la app para cualquier fin que no sea personal y no comercial  
+• Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente  
+• Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app  
+• Enviar spam en el soporte técnico, por ejemplo mandar mensajes sin sentido, vacíos, con información faltante o modificada, o ignorar las respuestas  
+• Utilizar la app en un dispositivo modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas)  
+• Utilizar herramientas que alteren el sistema de compras o cualquier otra funcionalidad  
+• Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos o conductas abusivas  
 
 Este listado no es exhaustivo: pueden existir otros casos que justifiquen restricciones de acceso si comprometen la seguridad, integridad o el propósito original de la app.
 
