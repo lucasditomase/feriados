@@ -1,54 +1,52 @@
-# Support for 공휴일  
-  
-Thank you for using 공휴일. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20공휴일%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with 공휴일 Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, 공휴일 Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does 공휴일 Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-공휴일 allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. 공휴일 does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does 공휴일 Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** 공휴일 is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# 공휴일 지원
+
+공휴일을 사용해 주셔서 감사합니다. 버그를 발견했거나 궁금한 점 또는 개선 제안이 있다면 언제든지 연락 주시거나 이 저장소에 참여해 주세요. 개인 프로젝트이므로 여러분의 피드백과 기여는 큰 도움이 됩니다.
+
+## 문제 신고
+
+문제를 발견하셨다면 이 저장소에 이슈를 생성하여 재현 방법과 함께 설명해 주세요. 가능하다면 스크린샷도 첨부해 주시기 바랍니다.
+
+[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20공휴일%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+GitHub 사용이 불편하시다면 이메일로도 연락하실 수 있습니다. 앱의 "추가 정보" 섹션에는 기기 모델, 언어, OS 버전 등 기술 정보를 자동으로 포함하여 메일을 보낼 수 있는 옵션이 있습니다.
+
+## 자주 묻는 질문
+
+**휴일을 내 캘린더에 추가할 수 있나요?**
+네, 공휴일 Pro를 이용하면 원하는 휴일을 개인 캘린더에 바로 추가할 수 있습니다.
+
+**휴일 알림을 설정할 수 있나요?**
+네, 공휴일 Pro에서는 각 휴일 전에 알림을 받을 수 있습니다.
+
+**무료 버전에는 어떤 기능이 포함되나요?**
+국가 공휴일, 관광 휴일, 종교 휴일을 모두 볼 수 있는 전체 달력과 주간 일정, 기본적인 휴일 유형별 필터 기능을 제공합니다.
+
+**공휴일 Pro에는 어떤 추가 기능이 있나요?**
+알림 기능, 캘린더에 휴일 추가, 통계 비교, 공동체별 필터, 고급 검색, 향상된 달력 보기 등을 제공합니다.
+
+**종교 휴일이 포함된 이유는 무엇인가요?**
+공휴일에서는 이용자의 선호에 따라 각 공동체(이슬람, 유대교, 아르메니아)를 선택해 관련 휴일만 볼 수 있습니다.
+
+**휴일 정보는 항상 최신인가요?**
+정보는 공식 공개 자료를 기반으로 정기적으로 업데이트되지만, 정부 결정이나 인적 오류로 예기치 못한 변경이 발생할 수 있습니다.
+
+**앱이 개인정보를 수집하나요?**
+아니요. 공휴일은 어떠한 사용자 데이터도 저장하거나 전송하지 않으며, 모든 활동은 기기 내에서 이루어집니다.
+
+**앱에서 이메일을 보내면 어떻게 되나요?**
+이메일을 보내면 계정에 설정된 이름과 이메일 주소가 전달됩니다. 이 정보는 문의에 답변하기 위한 용도로만 사용되며 **어떠한 경우에도 공유되거나 판매되지 않습니다.**
+
+**공휴일 Pro는 어떻게 동작하나요?**
+선택적으로 구독할 수 있으며, App Store 계정에서 활성화하거나 취소할 수 있습니다. 알림, 캘린더 연동, 통계, 공동체 필터, 고급 검색, 휴일 비교, 개선된 달력 보기 등의 고급 기능을 제공합니다.
+
+**무료 체험 기간이 있나요?**
+네, 월간 및 연간 요금제 모두 무료 체험 기간이 제공됩니다. **중요:** 결제를 원하지 않으시면 *체험 종료 24시간 이전*에 구독을 취소하세요.
+
+**구독을 가족과 공유할 수 있나요?**
+네, App Store 계정에서 적절히 설정되어 있다면 Apple의 패밀리 공유 기능을 통해 추가 비용 없이 구독을 공유할 수 있습니다.
+
+## 연락하기
+
+직접 연락하시거나 공개적으로 의견을 남기고 싶다면 [Discussions](https://github.com/lucasditomase/feriados/discussions) 섹션에 참여해 주세요.
+
+**여러분의 메시지는 소중히 다루어집니다.** 공휴일은 개인 프로젝트이므로 모든 메시지와 제안을 직접 읽습니다. 또한 여러분의 이메일 주소는 문의에 답변하는 데에만 사용됩니다.
