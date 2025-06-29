@@ -65,10 +65,10 @@ Tutti i contenuti, le interfacce, la grafica, il codice sorgente e le funzionali
 • Copiare o utilizzare l'app per scopi diversi dall'uso personale e non commerciale  
 • Modificare, decompilare, fare reverse engineering o tentare di accedere al codice sorgente  
 • Utilizzare automazioni, script o altri metodi non autorizzati per interagire con l'app  
-• Inviare spam al supporto tecnico, ad esempio inviando messaggi senza senso, vuoti, con informazioni mancanti o modificate, o ignorando le risposte.
-• Utilizzare l'app su un dispositivo modificato in modo da compromettere il normale funzionamento dell'app (ad esempio dispositivi jailbroken, ambienti non autorizzati, utilizzo di store di terze parti).
-• Utilizzare strumenti che alterano il sistema di acquisti in-app o altre funzioni.
-• Mi riservo il diritto di bloccare l'accesso all'app, in tutto o in parte, se viene rilevato un uso improprio o comportamenti abusivi.
+• Inviare spam al supporto tecnico, ad esempio inviando messaggi senza senso, vuoti, con informazioni mancanti o modificate, o ignorando le risposte  
+• Utilizzare l'app su un dispositivo modificato in modo da compromettere il normale funzionamento dell'app (ad esempio dispositivi jailbroken, ambienti non autorizzati, utilizzo di store di terze parti)  
+• Utilizzare strumenti che alterano il sistema di acquisti in-app o altre funzioni  
+• Mi riservo il diritto di bloccare l'accesso all'app, in tutto o in parte, se viene rilevato un uso improprio o comportamenti abusivi  
 
 Questo elenco non è esaustivo. Altri casi potrebbero giustificare restrizioni se compromettono la sicurezza, l'integrità o lo scopo dell'app.
 
