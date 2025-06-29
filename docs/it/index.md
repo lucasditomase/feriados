@@ -2,9 +2,14 @@
 
 # Holidays
 
-**Holidays** è un'app per iOS che ti permette di consultare in modo rapido e chiaro tutte le festività nazionali, turistiche e religiose dell'Argentina.
+Holidays: il tuo tempo libero, ben sfruttato.
 
-Perfetta per pianificare i ponti, organizzare le vacanze o semplicemente sfruttare meglio il tuo tempo.
+Il modo più semplice, chiaro e potente per consultare le festività in Argentina.
+Con un design moderno e funzioni pensate per la vita di tutti i giorni, Holidays ti aiuta a programmare gite, vacanze o semplicemente a goderti di più i fine settimana.
+
+Controlla in pochi secondi quando è la prossima festività, esplora il calendario completo e filtra i giorni non lavorativi in base ai tuoi interessi, credenze o stile di vita.
+
+Ideale per studenti, lavoratori, famiglie e chiunque voglia sfruttare meglio i propri giorni liberi.
 
 ## Funzioni principali (gratuite)
 
@@ -12,22 +17,22 @@ Perfetta per pianificare i ponti, organizzare le vacanze o semplicemente sfrutta
 • Calendario completo: festività nazionali, turistiche e religiose  
 • Filtri per tipo: fisse, mobili, turistiche o non lavorative  
 • Ricerca per nome o motivo della festività  
-• Opzione per nascondere le festività passate e concentrarti su quelle future  
+• Opzione per nascondere le festività passate
 • Agenda settimanale per vedere le festività vicine  
 • Interfaccia moderna e chiara adattabile a tutti i dispositivi  
 
 ## Funzionalità avanzate con Holidays Pro
 
 • Aggiungi le festività al tuo calendario personale  
-• Imposta promemoria automatici  
+• Ricevi notifiche prima di ogni festività
 • Filtri per comunità (musulmana, ebraica, armena)  
 • Statistiche dettagliate e grafici interattivi  
 • Confronti mensili delle festività  
 • Visualizzazione dei ponti  
 • Ricerca avanzata per giorno della settimana o mese  
-• Calendario completo con viste mensile e settimanale  
+• Vista mensile e settimanale dettagliata del calendario
 
-**Holidays Pro** include una prova gratuita. Per evitare l'addebito, assicurati di annullarla almeno 24 ore prima della scadenza.
+**Holidays Pro** include una prova gratuita. Annullala almeno 24 ore prima della fine se non vuoi che ti venga addebitato nulla.
 
 ## Informativa sulla privacy e termini
 

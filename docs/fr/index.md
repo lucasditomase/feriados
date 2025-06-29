@@ -2,9 +2,14 @@
 
 # Holidays
 
-**Holidays** est une application iOS qui vous permet de consulter rapidement et clairement tous les jours fériés nationaux, touristiques et religieux d'Argentine.
+Holidays : votre temps libre, bien utilisé.
 
-Parfaite pour planifier les week-ends prolongés, organiser des vacances ou simplement mieux gérer votre temps.
+La façon la plus simple, claire et puissante de consulter les jours fériés en Argentine.
+Avec un design moderne et des fonctionnalités pensées pour le quotidien, Holidays vous aide à planifier des escapades, des vacances ou simplement à mieux profiter de vos week-ends.
+
+Consultez en quelques secondes la date du prochain férié, explorez le calendrier complet et filtrez les jours non travaillés selon vos intérêts, croyances ou mode de vie.
+
+Idéal pour les étudiants, les travailleurs, les familles et toute personne souhaitant mieux profiter de ses jours libres.
 
 ## Fonctionnalités principales (gratuites)
 
@@ -12,22 +17,22 @@ Parfaite pour planifier les week-ends prolongés, organiser des vacances ou simp
 • Calendrier complet : fériés nationaux, touristiques et religieux  
 • Filtres par type : fixes, mobiles, touristiques ou jours non travaillés  
 • Recherche par nom ou motif du férié  
-• Option pour masquer les fériés passés et se concentrer sur les prochains  
+• Option pour masquer les fériés passés
 • Agenda hebdomadaire pour voir les fériés proches  
 • Interface moderne et claire adaptée à tous les appareils  
 
 ## Fonctionnalités avancées avec Holidays Pro
 
 • Ajoutez les fériés à votre calendrier personnel  
-• Programmez des rappels automatiques  
+• Recevez des notifications avant chaque férié
 • Filtres par communauté (musulmane, juive, arménienne)  
 • Statistiques détaillées et graphiques interactifs  
 • Comparaisons mensuelles des fériés  
 • Visualisation des ponts  
 • Recherche avancée par jour de la semaine ou par mois  
-• Calendrier complet avec vues mensuelle et hebdomadaire  
+• Vue mensuelle et hebdomadaire détaillée du calendrier
 
-**Holidays Pro** comprend une période d'essai gratuite. Pour éviter les frais, veillez à annuler au moins 24 heures avant la fin de l'essai.
+**Holidays Pro** comprend une période d'essai gratuite. Annulez au moins 24 heures avant la fin si vous ne souhaitez pas être facturé.
 
 ## Politique de confidentialité et conditions
 
