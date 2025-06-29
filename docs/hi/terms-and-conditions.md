@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
+# उपयोग की शर्तें और नियम  
   
-**Last updated: May 2025**  
+**अंतिम अपडेट: मई 2025**  
   
-*By downloading or using the app, you agree to these terms.*  
+*ऐप डाउनलोड या उपयोग करके, आप इन शर्तों से सहमत होते हैं.*  
   
-These terms govern the use of **छुट्टियाँ**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+ये शर्तें **छुट्टियाँ** के उपयोग को नियंत्रित करती हैं, जो **Lucas Di Tomase** द्वारा विकसित एक iOS ऐप है और अर्जेंटीना के आधिकारिक अवकाश दिखाने के लिए बनाया गया है। आपको व्यक्तिगत उपयोग के लिए ऐप की **सीमित, अनन्य नहीं, हस्तांतरणीय नहीं और रद्द की जा सकने वाली** लाइसेंस प्रदान की जाती है।  
   
-## Use of the App  
+## ऐप का उपयोग  
   
-छुट्टियाँ is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+छुट्टियाँ केवल **व्यक्तिगत, गैर-व्यावसायिक उपयोग** के लिए है। इसे लाभ कमाने, पुन: बिक्री या किसी अन्य उत्पाद या सेवा के हिस्से के रूप में उपयोग नहीं किया जा सकता।  
   
-## Content  
+## सामग्री  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+ऐप में दिखाई गई जानकारी सार्वजनिक स्रोतों से आती है और इसमें परिवर्तन हो सकते हैं। इसे नियमित रूप से अपडेट किया जाता है, फिर भी **जानकारी की सटीकता, पूर्णता या ताजगी की गारंटी नहीं दी जा सकती।**  
   
-## Features and Subscriptions  
+## सुविधाएँ और सदस्यताएँ  
   
-छुट्टियाँ offers basic features for free, including:  
+छुट्टियाँ कुछ बुनियादी सुविधाएँ निःशुल्क प्रदान करता है, जिनमें शामिल हैं:  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• राष्ट्रीय, पर्यटन संबंधी और धार्मिक अवकाश का प्रदर्शन  
+• अवकाश के प्रकार के अनुसार फ़िल्टरिंग  
+• आगामी अवकाश की साप्ताहिक सूची  
+• नाम या कारण से खोज  
   
-Advanced features are available through a subscription called **छुट्टियाँ Pro**, which includes:  
+उन्नत सुविधाएँ **छुट्टियाँ Pro** नामक सदस्यता के माध्यम से उपलब्ध हैं, जिसमें शामिल है:  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• समुदाय-विशिष्ट फ़िल्टर (मुस्लिम, यहूदी, आर्मेनियाई)  
+• अपने व्यक्तिगत कैलेंडर में अवकाश जोड़ें  
+• स्वचालित रिमाइंडर सेट करें  
+• दृश्य आँकड़े और तुलनाएँ  
+• लंबे सप्ताहांत का दृश्य  
+• सप्ताह के दिन या महीने के अनुसार उन्नत खोज  
+• मासिक और साप्ताहिक कैलेंडर दृश्य  
   
-## Subscriptions and Free Trial  
+## सदस्यताएँ और निःशुल्क परीक्षण  
   
-• Subscriptions to छुट्टियाँ Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• छुट्टियाँ Pro की सदस्यताएँ **स्वचालित रूप से नवीनीकृत होती हैं**, जब तक कि आप मौजूदा अवधि के समाप्त होने से कम से कम **24 घंटे पहले** उन्हें रद्द न करें  
+• भुगतान उस Apple ID खाते से लिया जाता है जिसका उपयोग खरीदारी के लिए किया गया है  
+• यदि **निःशुल्क परीक्षण अवधि** प्रदान की जाती है, तो परीक्षण समाप्त होने पर सदस्यता स्वचालित रूप से शुरू हो जाएगी, जब तक कि आप कम से कम 24 घंटे पहले रद्द न करें  
+• सदस्यता प्रबंधन और रद्दीकरण आपके App Store खाते की सेटिंग्स के माध्यम से किया जाना चाहिए  
+• **कीमतें क्षेत्र, खरीदारी की तारीख और Apple या मेरे द्वारा निर्धारित अन्य शर्तों पर निर्भर कर सकती हैं।** भविष्य में कीमतें बदली जा सकती हैं, ऐसी स्थिति में स्वचालित नवीनीकरण से पहले आपको सूचित किया जाएगा ताकि आप जारी रखने का निर्णय ले सकें  
   
-## Family Sharing  
+## फैमिली शेयरिंग  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+यदि आप iCloud Family Sharing समूह का हिस्सा हैं, तो आप अपनी सदस्यता अन्य सदस्यों के साथ साझा कर सकते हैं, बशर्ते यह विकल्प आपके App Store खाते में सक्षम और कॉन्फ़िगर हो। यह सुविधा आपके ऑपरेटिंग सिस्टम और व्यक्तिगत अकाउंट सेटिंग्स पर निर्भर करती है।  
   
-## Updates  
+## अपडेट  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+ऐप को समय-समय पर प्रदर्शन सुधार, बग फिक्स या नई सुविधाओं के साथ अपडेट मिल सकते हैं, जिनकी पूर्व सूचना नहीं दी जाएगी।  
   
-## Feedback and Suggestions  
+## फीडबैक और सुझाव  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+आप द्वारा दिए गए किसी भी सुझाव, टिप्पणी या विचार का उपयोग ऐप को बेहतर बनाने के लिए किया जा सकता है, और इसके लिए कोई मुआवज़ा या श्रेय देने की बाध्यता नहीं होगी।  
   
-## Intellectual Property  
+## बौद्धिक संपदा  
   
-All content, interfaces, graphics, source code, and features of छुट्टियाँ are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+सभी कंटेंट, इंटरफेस, ग्राफ़िक्स, सोर्स कोड और सुविधाएँ छुट्टियाँ के डेवलपर की विशिष्ट संपत्ति हैं, जब तक अन्यथा न कहा गया हो। ऐप के उपयोग के माध्यम से उपयोगकर्ता को कोई भी बौद्धिक संपदा अधिकार प्रदान नहीं किए जाते।  
   
-## Technical Restrictions  
+## तकनीकी प्रतिबंध  
   
-You are prohibited from:  
+आप निम्न करने से प्रतिबंधित हैं:  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• ऐप को बिना अनुमति बेचना, वितरित करना, होस्ट करना या व्यावसायिक रूप से प्रयोग करना  
+• ऐप की प्रतिलिपि बनाना या इसे व्यक्तिगत और गैर-व्यावसायिक उपयोग के अलावा किसी अन्य उद्देश्य से इस्तेमाल करना  
+• सोर्स कोड को संशोधित, डीकोम्पाइल, रिवर्स इंजीनियर या एक्सेस करने का प्रयास करना  
+• ऐप के साथ इंटरैक्ट करने के लिए ऑटोमेशन, स्क्रिप्ट या अन्य अनधिकृत तरीकों का उपयोग करना  
+• तकनीकी समर्थन को प्रमोशनल, अपमानजनक या अर्थहीन संदेश भेजकर स्पैम करना  
+• जानबूझकर अधूरी या बदली हुई जानकारी वाले संदेश भेजना  
+• तकनीकी समर्थन को ईमेल भेजकर डेवलपर की प्रतिक्रियाओं को नज़रअंदाज़ करना  
+• ऐसे डिवाइस पर ऐप का उपयोग करना जिसे इस तरह बदला गया हो कि ऐप के सामान्य कामकाज पर असर पड़े (जैसे जेलब्रेक किए गए डिवाइस, अनधिकृत वातावरण, थर्ड-पार्टी ऐप स्टोर का उपयोग)  
+• इन-ऐप खरीद प्रणाली या किसी अन्य सुविधा को बदलने वाले टूल्स का उपयोग करना  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+**यह सूची संपूर्ण नहीं है।** यदि ऐप की सुरक्षा, अखंडता या उद्देश्य प्रभावित होता है तो अन्य स्थितियों में भी प्रतिबंध लागू किए जा सकते हैं। **अनुचित उपयोग या दुरुपयोग का पता चलने पर मैं ऐप तक पहुँच पूरी या आंशिक रूप से बंद करने का अधिकार रखता हूँ।**  
   
-## Disclaimer  
+## अस्वीकरण  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+ऐप का उपयोग आपके स्वयं के जोखिम पर है। **न तो डेवलपर (Lucas Di Tomase) और न ही ऐप निरंतर उपलब्धता या सामग्री की पूर्ण सटीकता की गारंटी देता है, और प्रदान की गई जानकारी के आधार पर लिए गए निर्णयों के लिए जिम्मेदार नहीं होगा।**  
   
-## Privacy  
+## गोपनीयता  
   
-छुट्टियाँ does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/hi/privacy-policy).  
+छुट्टियाँ कोई व्यक्तिगत डेटा एकत्र नहीं करता और न ही विश्लेषण या विज्ञापन के लिए तृतीय-पक्ष सेवाओं का उपयोग करता है। अधिक जानकारी के लिए कृपया [गोपनीयता नीति](https://lucasditomase.github.io/feriados/hi/privacy-policy) देखें।  
   
-## Contact  
+## संपर्क  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+प्रश्न, सहायता या सुझावों के लिए, [Discussions](https://github.com/lucasditomase/feriados/discussions) अनुभाग पर जाएँ।  
   
-**छुट्टियाँ is a personal project. If you reach out, I will personally read your message.**  
+**छुट्टियाँ एक व्यक्तिगत प्रोजेक्ट है। यदि आप संपर्क करते हैं, तो मैं स्वयं आपका संदेश पढ़ूँगा।**  

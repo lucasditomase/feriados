@@ -2,50 +2,50 @@
   
 # 节假日  
   
-节假日: your free time, well spent.  
+节假日：让你的空闲时间更有价值。  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, 节假日 helps you plan getaways, vacations or simply enjoy your weekends more.  
+这是一款最简单、最清晰且功能强大的阿根廷节假日查询工具。  
+凭借现代化的设计和日常功能，节假日帮助你规划周末出游、假期或更好地享受周末。  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+几秒钟内即可查看下一个节日，探索完整日历，并根据兴趣、信仰或生活方式筛选非工作日。  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+适合学生、上班族、家庭以及任何想充分利用休息日的人。  
   
-## Main Features (Free)  
+## 主要功能（免费）  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• 下一个节日倒计时  
+• 完整日历：国家、旅游和宗教节日  
+• 按类型筛选：固定、可移动、旅游相关或非工作日  
+• 按节日名称或原因搜索  
+• 可隐藏已过去的节日  
+• 每周议程查看临近节日  
+• 现代、清晰的界面，适配所有设备  
   
-## Advanced Features with 节假日 Pro  
+## 节假日 Pro 高级功能  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• 将节日添加到个人日历  
+• 在每个节日前收到提醒  
+• 按社区筛选（穆斯林、犹太、亚美尼亚）  
+• 详细统计和交互式图表  
+• 月度节日对比  
+• 长周末可视化  
+• 按星期或月份高级搜索  
+• 详细的月视图和周视图  
   
-**节假日 Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**节假日 Pro** 包含免费试用。如不希望被收费，请至少在试用结束前24小时取消。  
   
-## Privacy Policy and Terms  
+## 隐私政策与条款  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/zh-Hans/terms-and-conditions)  
+• [隐私政策](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy)  
+• [服务条款](https://lucasditomase.github.io/feriados/zh-Hans/terms-and-conditions)  
   
-## Support  
+## 支持  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+如果你有问题、建议或想加入社区，欢迎在[讨论区](https://github.com/lucasditomase/feriados/discussions)留言。  
   
 ---  
   
-*节假日 is a personal project. Thank you for supporting independent development.*  
+*节假日是一个个人项目。感谢你对独立开发的支持。*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  

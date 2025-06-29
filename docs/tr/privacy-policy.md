@@ -1,42 +1,50 @@
-# Privacy Policy  
+# Gizlilik Politikası  
   
-**Last updated: May 2025**  
+**Son güncelleme: Haziran 2025**  
   
-**Tatiller is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**Tatiller gizliliğinize saygı duyan bir uygulamadır:** *kullanıcıya ait hiçbir kişisel bilgiyi toplamaz, saklamaz veya paylaşmaz.*  
   
-## Data Collection  
+## Veri Toplama  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+Uygulama gereksiz izinler istemez veya hassas verilere erişmez.  
+Görüntülenen tüm bilgiler (ulusal, turizm amaçlı ve dini tatiller) herkese açıktır ve kullanıcının cihazında yerel olarak saklanır.  
   
-The additional features in Tatiller Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+Tatiller Pro'daki ek özellikler, örneğin tatil istatistikleri ve karşılaştırmalar, tamamen cihazınızda oluşturulur ve işlenir.  
+Dış sunuculara herhangi bir bilgi gönderilmez veya depolanmaz.  
   
-## In-App Purchases and Free Trial  
+## Uygulama İçi Satın Alımlar ve Ücretsiz Deneme  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Tatiller does not access any personal, financial, or billing information at any time.**  
+Uygulama, App Store üzerinden abonelikler sunar.  
+Tüm ödeme işlemleri, ücretsiz deneme süreleri ve abonelik yönetimi yalnızca Apple tarafından gerçekleştirilir.  
+**Tatiller hiçbir zaman kişisel, finansal veya faturalama bilgilerine erişmez.**  
   
-If a trial period is available, you may use Tatiller Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+Deneme süresi varsa, bu sürede Tatiller Pro'yu ücretsiz kullanabilirsiniz.  
+Deneme bitiminde, **aboneliği en az 24 saat önceden iptal etmediğiniz takdirde** ücret otomatik olarak tahsil edilir.  
   
-## Optional Permissions  
+## İsteğe Bağlı İzinler  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**Bildirimler:**  
+Sadece tatil hatırlatmalarını etkinleştirirseniz kullanılır.  
+Bunlar cihazınızda yerel olarak oluşturulan bildirimlerdir; dış sunucularla iletişim kurulmaz.  
+Dilediğiniz zaman cihaz ayarlarından devre dışı bırakabilirsiniz.  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**Takvim:**  
+Bir tatili takviminize eklemeyi seçerseniz, yalnızca onayınızla tek bir etkinlik kaydedilir.  
+Uygulama **mevcut diğer etkinlikleri görüntüleyemez, okuyamaz veya değiştiremez.**  
   
-## Third Parties  
+## Üçüncü Taraflar  
   
-Tatiller does not use any third-party services for analytics, advertising, or data storage.  
+Tatiller, analiz, reklam veya veri depolama için hiçbir üçüncü taraf hizmeti kullanmaz.  
   
-## Email Contact  
+## E-posta İletişimi  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+Benimle e-posta yoluyla iletişime geçmeyi seçerseniz, e-posta adresiniz ve hesabınızda ayarlı ad (soyadınız veya diğer tanımlayıcı bilgiler dahil olabilir) paylaşılmış olur.  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+Bu bilgiler yalnızca sorunuza yanıt vermek için kullanılır.  
+**Hiçbir koşulda üçüncü taraflarla paylaşılmaz veya satılmaz.**  
   
-## Contact  
+## İletişim  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Bu politika hakkında sorularınız varsa, [Discussions](https://github.com/lucasditomase/feriados/discussions) bölümünden benimle iletişime geçebilirsiniz.  
   
-**Tatiller is a personal project. All inquiries are read and appreciated.**  
+**Tatiller kişisel bir projedir. Tüm sorular okunur ve değerlendirilir.**  

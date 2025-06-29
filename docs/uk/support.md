@@ -1,54 +1,54 @@
-# Support for Свята  
+# Підтримка Свята  
   
-Thank you for using Свята. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+Дякую, що користуєтесь Свята. Якщо ви знайшли помилки, маєте запитання або хочете запропонувати покращення, не соромтеся зв'язатися зі мною чи взяти участь у цьому репозиторії.  
+Це особистий проєкт, тому будь-який відгук або внесок дуже цінний.  
   
-## Report a Problem  
+## Повідомити про проблему  
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+Ви можете відкрити issue у цьому репозиторії, описавши проблему та кроки для її відтворення. Якщо можливо, додайте скриншот.  
   
 [Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Свята%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+Ви також можете зв'язатися зі мною електронною поштою, якщо не хочете користуватися GitHub. У додатку, в розділі "Більше інформації" є опція надіслати листа з усіма технічними даними (модель пристрою, мова, версія ОС тощо).  
   
-## Frequently Asked Questions  
+## Часті запитання  
   
-**Can I add holidays to my calendar?**  
-Yes, with Свята Pro you can add any holiday directly to your personal calendar.  
+**Чи можу я додати свята до свого календаря?**  
+Так, із Свята Pro ви можете додавати будь-яке свято безпосередньо до особистого календаря.  
   
-**Can I set reminders for holidays?**  
-Yes, Свята Pro lets you create reminders to get notified before each holiday.  
+**Чи можу я встановлювати нагадування про свята?**  
+Так, Свята Pro дозволяє створювати нагадування, щоб отримувати сповіщення перед кожним святом.  
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**Що входить у безкоштовну версію?**  
+Вона містить повний календар національних, туристичних і релігійних свят, щотижневий огляд і базові фільтри за типом свята.  
   
-**What extra features does Свята Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**Які додаткові функції є в Свята Pro?**  
+У ньому є нагадування, додавання свят до календаря, порівняльна статистика, фільтри за спільнотою, розширений пошук і покращені види календаря.  
   
-**Why are there religious holidays?**  
-Свята allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**Чому в додатку є релігійні свята?**  
+Свята дозволяє фільтрувати за спільнотами (мусульманською, єврейською, вірменською), щоб кожен користувач міг бачити відповідні дати залежно від своїх уподобань.  
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**Чи завжди свята актуальні?**  
+Інформація надходить з офіційних публічних джерел і регулярно оновлюється. Проте можуть траплятися непередбачені зміни через рішення уряду або людські помилки.  
   
-**Does the app collect personal data?**  
-No. Свята does not store or transmit any user data. All activity happens locally on your device.  
+**Чи збирає додаток особисті дані?**  
+Ні. Свята не зберігає й не передає жодних даних користувача. Вся діяльність відбувається локально на вашому пристрої.  
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**Що відбувається, якщо я надсилаю електронного листа з додатку?**  
+Ви надішлете свою електронну адресу та ім'я, вказане у вашому обліковому записі. Ця інформація використовується лише для відповіді на ваше повідомлення. **Вона ніколи не передається й не продається.**  
   
-**How does Свята Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
+**Як працює Свята Pro?**  
+Це необов'язкова підписка, яку можна активувати або скасувати у своєму обліковому записі App Store. Вона містить розширені функції, такі як нагадування, інтеграція з календарем, статистика, фільтри спільнот, розширений пошук, порівняння свят та покращені види календаря.  
   
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
+**Чи є безкоштовний пробний період?**  
+Так. У місячному та річному планах передбачено безкоштовний пробний період. **Важливо:** не забудьте скасувати підписку принаймні за 24 години до його завершення, якщо не бажаєте оплачувати.  
   
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
+**Чи можу я поділитися підпискою з родиною?**  
+Так, через Apple Family Sharing без додаткових витрат, якщо ця опція налаштована у вашому обліковому записі App Store.  
   
-## Contact  
+## Контакт  
   
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Якщо хочете зв'язатися напряму або залишити публічний коментар, приєднуйтеся до розділу [Обговорення](https://github.com/lucasditomase/feriados/discussions).  
   
-**Your message won’t be lost.** Свята is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+**Ваше повідомлення не загубиться.** Свята — особистий проєкт, тому я особисто читаю всі повідомлення і пропозиції.  
+Також ваша електронна адреса використовується лише для відповіді на ваш запит.  

@@ -1,6 +1,6 @@
 # Informativa sulla privacy  
   
-**Ultimo aggiornamento: maggio 2025**  
+**Ultimo aggiornamento: giugno 2025**  
   
 **Festività è un'app che rispetta la tua privacy:** *non raccoglie, conserva né condivide informazioni personali degli utenti.*  
   

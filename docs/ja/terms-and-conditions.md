@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
+# 利用規約  
   
-**Last updated: May 2025**  
+**最終更新：2025年5月**  
   
-*By downloading or using the app, you agree to these terms.*  
+*アプリをダウンロードまたは使用することで、本規約に同意したものとみなされます。*  
   
-These terms govern the use of **祝日**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+本規約は、アルゼンチンの公式な祝日を表示する iOS アプリ **祝日**（開発者：**Lucas Di Tomase**）の利用に適用されます。個人利用に限り、**限定的かつ非独占的で譲渡不可、取り消し可能なライセンス**が付与されます。  
   
-## Use of the App  
+## アプリの利用  
   
-祝日 is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+祝日は**個人的かつ非営利目的**での利用に限られます。営利目的や再販、他製品・サービスの一部として使用することはできません。  
   
-## Content  
+## コンテンツ  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+アプリに表示される情報は公開情報に基づいており、変更される場合があります。定期的に更新していますが、**その正確性・完全性・最新性を保証するものではありません。**  
   
-## Features and Subscriptions  
+## 機能とサブスクリプション  
   
-祝日 offers basic features for free, including:  
+祝日では以下の基本機能を無料で提供しています：  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• 国民の祝日、観光関連、宗教関連の表示  
+• 祝日の種類によるフィルタリング  
+• 近づいた祝日を確認できる週間アジェンダ  
+• 名称や由来での検索  
   
-Advanced features are available through a subscription called **祝日 Pro**, which includes:  
+高度な機能は **祝日 Pro** というサブスクリプションで利用でき、次の内容が含まれます：  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• コミュニティ別フィルター（イスラム教、ユダヤ教、アルメニア）  
+• 個人カレンダーへの祝日追加  
+• 自動リマインダー設定  
+• 視覚的な統計と比較  
+• 連休の表示  
+• 曜日や月による高度な検索  
+• 月間および週間カレンダー表示  
   
-## Subscriptions and Free Trial  
+## サブスクリプションと無料トライアル  
   
-• Subscriptions to 祝日 Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• 祝日 Pro のサブスクリプションは、現在の期間終了の**24時間前まで**に解約しない限り自動更新されます  
+• 支払いは購入に使用した Apple ID アカウントに請求されます  
+• **無料トライアル期間**がある場合、期間終了の少なくとも24時間前までに解約しない限り、自動的にサブスクリプションが開始されます  
+• サブスクリプションの管理と解約は App Store アカウント設定から行う必要があります  
+• **価格は地域や購入日、Apple または開発者が定めるその他の条件により変動する場合があります。** 将来価格が変更される場合、自動更新前に通知されますので、継続するかどうかを判断できます  
   
-## Family Sharing  
+## ファミリー共有  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+iCloud ファミリー共有グループに参加している場合、App Store アカウントでこのオプションが有効かつ設定されていれば、他のメンバーとサブスクリプションを共有できることがあります。この機能の利用可否は OS やアカウント設定によって異なります。  
   
-## Updates  
+## アップデート  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+アプリは予告なく、パフォーマンス改善やバグ修正、新機能追加などのアップデートを定期的に受ける場合があります。  
   
-## Feedback and Suggestions  
+## フィードバックと提案  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+お寄せいただいた提案、コメント、アイデアはアプリ改善のために利用されることがありますが、報酬やクレジットをお約束するものではありません。  
   
-## Intellectual Property  
+## 知的財産  
   
-All content, interfaces, graphics, source code, and features of 祝日 are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+特に記載のない限り、祝日のコンテンツ、インターフェース、グラフィック、ソースコード、機能などはすべて開発者の専有財産です。アプリの利用によりユーザーへ知的財産権が付与されることはありません。  
   
-## Technical Restrictions  
+## 技術的制限  
   
-You are prohibited from:  
+次の行為を禁止します：  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• 許可なくアプリを販売、配布、ホスティング、または商業的に利用すること  
+• 個人的かつ非商業的利用以外の目的でアプリをコピーまたは使用すること  
+• アプリを改変、逆コンパイル、リバースエンジニアリングしたり、ソースコードにアクセスしようとすること  
+• 自動化ツールやスクリプト、その他の許可されていない方法でアプリを操作すること  
+• サポート窓口に宣伝目的や暴言、無意味なメッセージを送信すること  
+• 情報を欠落させたり改ざんしたメッセージを意図的に送信すること  
+• 開発者からの返信を無視したままサポートにメールを送ること  
+• 脱獄などアプリの正常動作に影響を与える改造を施したデバイスでアプリを使用すること（非公式環境やサードパーティ製ストアの利用を含む）  
+• アプリ内課金システムやその他の機能を改変するツールを使用すること  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+**このリストは例示であり、** アプリのセキュリティや目的を損なう場合にはその他の行為についても制限を設けることがあります。**不適切または悪質な利用が確認された場合、アプリへのアクセスを全部または一部制限する権利を留保します。**  
   
-## Disclaimer  
+## 免責事項  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+本アプリの利用は自己責任で行ってください。**開発者（Lucas Di Tomase）およびアプリは、サービスの継続的な提供や内容の完全な正確性を保証せず、提供された情報に基づく判断について責任を負いません。**  
   
-## Privacy  
+## プライバシー  
   
-祝日 does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/ja/privacy-policy).  
+祝日は個人データを収集せず、分析や広告のためのサードパーティサービスも使用しません。詳細は[プライバシーポリシー](https://lucasditomase.github.io/feriados/ja/privacy-policy)をご覧ください。  
   
-## Contact  
+## お問い合わせ  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+ご質問・サポート・ご提案については、[Discussions](https://github.com/lucasditomase/feriados/discussions) セクションをご利用ください。  
   
-**祝日 is a personal project. If you reach out, I will personally read your message.**  
+**祝日は個人プロジェクトです。ご連絡いただいたメッセージには必ず目を通します。**  

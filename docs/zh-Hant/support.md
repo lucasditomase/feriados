@@ -1,54 +1,53 @@
-# Support for 假期  
+# 假期支援  
   
-Thank you for using 假期. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+感謝你使用 假期。若發現錯誤、疑問或想提供改進意見，歡迎與我聯繫或參與此專案。這是一個個人計畫，因此任何回饋或貢獻都非常感謝。  
   
-## Report a Problem  
+## 回報問題  
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+你可以在此儲存庫開啟 issue 描述問題及重現步驟。如有截圖請一併附上。  
   
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20假期%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
+[建立 Issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20假期%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+如果你不想使用 GitHub，也可以透過電子郵件聯繫我。在應用程式的「更多資訊」中有寄送郵件的選項，會自動包含所有技術細節（裝置型號、語言、系統版本等）。  
   
-## Frequently Asked Questions  
+## 常見問題  
   
-**Can I add holidays to my calendar?**  
-Yes, with 假期 Pro you can add any holiday directly to your personal calendar.  
+**我可以把節日新增到行事曆嗎？**  
+可以，透過 假期 Pro 你可以將任何節日直接加入個人行事曆。  
   
-**Can I set reminders for holidays?**  
-Yes, 假期 Pro lets you create reminders to get notified before each holiday.  
+**我可以為節日設定提醒嗎？**  
+可以，假期 Pro 讓你在每個節日前收到通知。  
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**免費版包含哪些功能？**  
+它包含國定、旅遊及宗教節日的完整日曆、一週行程以及基本的節日類型篩選。  
   
-**What extra features does 假期 Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**假期 Pro 提供哪些額外功能？**  
+包括提醒、加入行事曆、比較統計、社群篩選、進階搜尋及強化的日曆檢視。  
   
-**Why are there religious holidays?**  
-假期 allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**為什麼會有宗教節日？**  
+假期允許以社群（穆斯林、猶太、亞美尼亞）進行篩選，讓每位使用者都能查看符合其偏好的日期。  
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**節日資訊會隨時更新嗎？**  
+資訊來自官方公開來源，並會定期更新。但政府決定或人為失誤可能導致不可預期的變化。  
   
-**Does the app collect personal data?**  
-No. 假期 does not store or transmit any user data. All activity happens locally on your device.  
+**應用程式會收集個人資料嗎？**  
+不會。假期不會儲存或傳送任何使用者資料。所有操作皆在你的裝置上本地進行。  
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**從應用程式發送郵件會發生什麼事？**  
+你會分享你的電子郵件地址以及帳號所設定的名稱。此資訊僅用於回覆你的訊息，**絕不會以任何形式分享或出售。**  
   
-**How does 假期 Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
+**假期 Pro 如何運作？**  
+這是一項可選訂閱，你可以在 App Store 帳號中啟用或取消。它包含提醒、行事曆整合、統計資料、社群篩選、進階搜尋、節日比較及改良的日曆檢視等進階功能。  
   
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
+**是否提供免費試用？**  
+提供。月租與年費方案皆含免費試用。**重要：** 若不想被收費，請記得在試用結束前至少 24 小時取消。  
   
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
+**我可以與家人共享訂閱嗎？**  
+可以，只要透過 Apple 家庭共享並於你的 App Store 帳號中正確設定，即可免費共享。  
   
-## Contact  
+## 聯繫方式  
   
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+若想直接聯繫或留下公開留言，你可以加入 [討論區](https://github.com/lucasditomase/feriados/discussions)。  
   
-**Your message won’t be lost.** 假期 is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+**你的訊息不會被忽略。** 假期是個人專案，因此我會親自閱讀所有訊息與建議。  
+另外，你的電子郵件只會用於回覆你的詢問。  

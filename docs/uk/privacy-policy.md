@@ -1,42 +1,42 @@
-# Privacy Policy  
+# Політика конфіденційності  
   
-**Last updated: May 2025**  
+**Останнє оновлення: червень 2025 року**  
   
-**Свята is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**Свята — додаток, що поважає вашу приватність:** *він не збирає, не зберігає та не передає жодних персональних даних користувача.*  
   
-## Data Collection  
+## Збирання даних  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+Додаток не запитує непотрібних дозволів і не має доступу до конфіденційних даних.  
+Вся інформація (національні, туристичні та релігійні свята) є публічною і зберігається локально на пристрої користувача.  
   
-The additional features in Свята Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+Додаткові функції Свята Pro, як-от статистика та порівняння свят, створюються та обробляються локально на вашому пристрої. Жодні дані не надсилаються на зовнішні сервери і не зберігаються там.  
   
-## In-App Purchases and Free Trial  
+## Покупки в додатку та безкоштовний пробний період  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Свята does not access any personal, financial, or billing information at any time.**  
+Додаток пропонує підписки через App Store. Усі платежі, пробні періоди та керування підписками здійснюються виключно Apple. **Свята ніколи не отримує доступу до ваших особистих, фінансових чи платіжних даних.**  
   
-If a trial period is available, you may use Свята Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+Якщо доступний пробний період, ви можете користуватися Свята Pro безкоштовно впродовж цього часу. Оплата буде стягнута автоматично після завершення пробного періоду, **якщо ви не скасуєте підписку принаймні за 24 години до його закінчення** у своєму обліковому записі App Store.  
   
-## Optional Permissions  
+## Додаткові дозволи  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**Сповіщення:**  
+Використовуються лише якщо ви активуєте нагадування про свята. Це локальні сповіщення, що генеруються на вашому пристрої без передачі даних на зовнішні сервери. Ви можете вимкнути їх у налаштуваннях пристрою.  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**Календар:**  
+Якщо ви вирішите додати свято до свого календаря, за вашого підтвердження зберігається одна подія. Додаток **не може переглядати, читати чи змінювати інші події.**  
   
-## Third Parties  
+## Сторонні сервіси  
   
-Свята does not use any third-party services for analytics, advertising, or data storage.  
+Свята не використовує сторонні сервіси для аналітики, реклами або зберігання даних.  
   
-## Email Contact  
+## Контакт електронною поштою  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+Якщо ви вирішите зв'язатися зі мною електронною поштою, ви надішлете свою адресу та ім'я, вказане у вашому обліковому записі (можливо з прізвищем чи іншою інформацією, що дозволяє ідентифікацію).  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+Ця інформація використовується лише для відповіді на ваше звернення. **Вона ніколи не передається третім сторонам і не продається.**  
   
-## Contact  
+## Контакти  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Якщо у вас є запитання щодо цієї політики, звертайтеся через розділ [Обговорення](https://github.com/lucasditomase/feriados/discussions).  
   
-**Свята is a personal project. All inquiries are read and appreciated.**  
+**Свята — особистий проєкт. Усі повідомлення читаються та вітаються.**  

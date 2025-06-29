@@ -1,42 +1,42 @@
-# Privacy Policy  
+# Polityka prywatności  
   
-**Last updated: May 2025**  
+**Ostatnia aktualizacja: czerwiec 2025**  
   
-**Święta is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**Święta to aplikacja, która szanuje Twoją prywatność:** *nie zbiera, nie przechowuje ani nie udostępnia żadnych danych osobowych użytkowników.*  
   
-## Data Collection  
+## Gromadzenie danych  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+Aplikacja nie prosi o niepotrzebne uprawnienia ani nie uzyskuje dostępu do wrażliwych danych.  
+Wszystkie prezentowane informacje (święta narodowe, turystyczne i religijne) są publiczne i przechowywane lokalnie na urządzeniu użytkownika.  
   
-The additional features in Święta Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+Dodatkowe funkcje Święta Pro, takie jak statystyki i porównania świąt, są generowane i przetwarzane lokalnie na Twoim urządzeniu. Żadne dane nie są wysyłane ani przechowywane na zewnętrznych serwerach.  
   
-## In-App Purchases and Free Trial  
+## Zakupy w aplikacji i okres próbny  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Święta does not access any personal, financial, or billing information at any time.**  
+Aplikacja oferuje subskrypcje za pośrednictwem App Store. Cały proces płatności, darmowego okresu próbnego i zarządzania subskrypcją obsługiwany jest wyłącznie przez Apple. **Święta nie ma dostępu do żadnych danych osobowych, finansowych ani rozliczeniowych.**  
   
-If a trial period is available, you may use Święta Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+Jeśli dostępny jest okres próbny, możesz korzystać ze Święta Pro bez opłat w tym czasie. Opłata zostanie naliczona automatycznie po zakończeniu okresu próbnego, **chyba że anulujesz subskrypcję co najmniej 24 godziny wcześniej** za pośrednictwem swojego konta App Store.  
   
-## Optional Permissions  
+## Uprawnienia opcjonalne  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**Powiadomienia:**  
+Używane tylko, jeśli włączysz przypomnienia o świętach. Są to lokalne powiadomienia generowane na Twoim urządzeniu, bez komunikacji z zewnętrznymi serwerami. Możesz je wyłączyć w każdej chwili w ustawieniach urządzenia.  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**Kalendarz:**  
+Jeśli zdecydujesz się dodać święto do kalendarza, pojedyncze wydarzenie zostanie zapisane po Twoim potwierdzeniu. Aplikacja **nie może przeglądać, odczytywać ani modyfikować innych istniejących wydarzeń.**  
   
-## Third Parties  
+## Podmioty trzecie  
   
-Święta does not use any third-party services for analytics, advertising, or data storage.  
+Święta nie korzysta z żadnych usług stron trzecich do analityki, reklam ani przechowywania danych.  
   
-## Email Contact  
+## Kontakt e-mail  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+Jeśli zdecydujesz się skontaktować ze mną e-mailem, udostępnisz swój adres e-mail i nazwę skonfigurowaną w swoim koncie (która może zawierać Twoje nazwisko lub inne dane identyfikujące).  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+Informacje te są używane wyłącznie w celu odpowiedzi na Twoje zapytanie. **Nigdy nie są udostępniane osobom trzecim ani sprzedawane.**  
   
-## Contact  
+## Kontakt  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Jeśli masz pytania dotyczące tej polityki, napisz w sekcji [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Święta is a personal project. All inquiries are read and appreciated.**  
+**Święta to projekt osobisty. Wszystkie wiadomości są czytane i mile widziane.**  

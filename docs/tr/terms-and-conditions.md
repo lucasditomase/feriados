@@ -1,88 +1,97 @@
-# Terms and Conditions of Use  
+# Kullanım Şartları  
   
-**Last updated: May 2025**  
+**Son güncelleme: Mayıs 2025**  
   
-*By downloading or using the app, you agree to these terms.*  
+*Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.*  
   
-These terms govern the use of **Tatiller**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+Bu şartlar, resmi Arjantin tatillerini gösteren bir iOS uygulaması olan **Tatiller**'in geliştiricisi **Lucas Di Tomase** tarafından belirlenmiştir.  
+Uygulamayı kişisel amaçlarla kullanmanız için size **sınırlı, münhasır olmayan, devredilemez ve iptal edilebilir** bir lisans verilmektedir.  
   
-## Use of the App  
+## Uygulamanın Kullanımı  
   
-Tatiller is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+Tatiller yalnızca **kişisel, ticari olmayan kullanım** içindir.  
+Kar amaçlı, yeniden satış veya başka bir ürünün parçası olarak kullanılamaz.  
   
-## Content  
+## İçerik  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+Uygulamada gösterilen bilgiler kamu kaynaklarından alınır ve değişikliğe tabidir.  
+Düzenli olarak güncellense de **bilgilerin doğruluğu, eksiksizliği veya güncelliği garanti edilemez.**  
   
-## Features and Subscriptions  
+## Özellikler ve Abonelikler  
   
-Tatiller offers basic features for free, including:  
+Tatiller aşağıdaki temel özellikleri ücretsiz sunar:  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• Ulusal, turistik ve dini tatillerin gösterimi  
+• Tatil türüne göre filtreleme  
+• Yaklaşan tatiller için haftalık ajanda  
+• İsim veya nedene göre arama  
   
-Advanced features are available through a subscription called **Tatiller Pro**, which includes:  
+**Tatiller Pro** adlı abonelikle sunulan gelişmiş özellikler:  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• Topluluğa özel filtreler (Müslüman, Yahudi, Ermeni)  
+• Tatilleri kişisel takviminize ekleme  
+• Otomatik hatırlatıcılar kurma  
+• Görsel istatistikler ve karşılaştırmalar  
+• Uzun hafta sonu görselleştirmesi  
+• Haftanın gününe veya aya göre gelişmiş arama  
+• Aylık ve haftalık takvim görünümleri  
   
-## Subscriptions and Free Trial  
+## Abonelikler ve Ücretsiz Deneme  
   
-• Subscriptions to Tatiller Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• Tatiller Pro abonelikleri, mevcut dönem bitmeden **en az 24 saat önce** iptal edilmediği sürece **otomatik olarak yenilenir**  
+• Ödeme, satın alma sırasında kullanılan Apple ID hesabına yansıtılır  
+• Bir **ücretsiz deneme süresi** sunuluyorsa, süre sonunda iptal edilmediği takdirde abonelik otomatik olarak başlar  
+• Abonelik yönetimi ve iptali App Store hesabı ayarlarından yapılmalıdır  
+• **Fiyatlar bölgeye, satın alma tarihine ve Apple veya geliştirici tarafından belirlenen diğer koşullara göre değişiklik gösterebilir.** Gelecekte fiyatlar güncellenirse, otomatik yenilemeden önce bilgilendirilirsiniz ve devam edip etmeyeceğinize karar verebilirsiniz  
   
-## Family Sharing  
+## Aile Paylaşımı  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+Bir iCloud Aile Paylaşımı grubundaysanız ve bu seçenek etkinleştirilmişse, aboneliğinizi diğer üyelerle paylaşabilirsiniz.  
+Bu özellik işletim sisteminize ve hesap ayarlarınıza bağlıdır.  
   
-## Updates  
+## Güncellemeler  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+Uygulama, önceden bildirimde bulunmaksızın performans iyileştirmeleri, hata düzeltmeleri veya yeni özellikler içeren güncellemeler alabilir.  
   
-## Feedback and Suggestions  
+## Geri Bildirim ve Öneriler  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+İlettiğiniz herhangi bir öneri, yorum veya fikir uygulamanın geliştirilmesinde kullanılabilir;  
+herhangi bir tazminat veya atıf zorunluluğu yoktur.  
   
-## Intellectual Property  
+## Fikri Mülkiyet  
   
-All content, interfaces, graphics, source code, and features of Tatiller are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+Tatiller'in tüm içeriği, arayüzleri, grafikleri, kaynak kodu ve özellikleri geliştiriciye aittir (aksi belirtilmedikçe).  
+Uygulamayı kullanmanız size herhangi bir fikri mülkiyet hakkı kazandırmaz.  
   
-## Technical Restrictions  
+## Teknik Kısıtlamalar  
   
-You are prohibited from:  
+Şunları yapmanız yasaktır:  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• Uygulamayı yetki olmadan satmak, dağıtmak, barındırmak veya ticari olarak kullanmak  
+• Uygulamayı kişisel ve ticari olmayan kullanım dışında kopyalamak veya kullanmak  
+• Kaynak koda erişmeye çalışmak, değiştirmek, decompile etmek veya tersine mühendislik yapmak  
+• Uygulama ile etkileşime geçmek için otomasyon, komut dosyaları veya başka yetkisiz yöntemler kullanmak  
+• Teknik desteği promosyonel, kötüye kullanıma yönelik veya anlamsız mesajlarla spamlemek  
+• Bilerek eksik veya değiştirilmiş bilgiler içeren mesajlar göndermek  
+• Geliştiriciden gelen yanıtları görmezden gelerek teknik destekle e-posta yoluyla iletişime geçmek  
+• Uygulamayı normal çalışmasını etkileyen şekilde değiştirilmiş bir cihazda kullanmak (örn. jailbreak yapılmış cihazlar, yetkisiz ortamlar, üçüncü taraf uygulama mağazaları)  
+• Uygulama içi satın alma sistemini veya diğer herhangi bir özelliği değiştiren araçlar kullanmak  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+**Bu liste tam değildir.** Uygulamanın güvenliğini, bütünlüğünü veya amacını tehlikeye atan diğer durumlar da kısıtlamaları haklı kılabilir.  
+**Uygulamayı uygunsuz kullanım veya kötüye kullanım tespit edilirse tamamen veya kısmen engelleme hakkını saklı tutarım.**  
   
-## Disclaimer  
+## Feragatname  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+Uygulama kendi sorumluluğunuzdadır.  
+**Ne geliştirici (Lucas Di Tomase) ne de uygulama, içeriğin kesintisiz kullanılabilirliğini veya tam doğruluğunu garanti eder; sağlanan bilgilere dayanarak alınan kararlardan sorumlu tutulamaz.**  
   
-## Privacy  
+## Gizlilik  
   
-Tatiller does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/tr/privacy-policy).  
+Tatiller kişisel veri toplamaz ve analiz veya reklam amacıyla üçüncü taraf hizmetler kullanmaz.  
+Ayrıntılar için [Gizlilik Politikası](https://lucasditomase.github.io/feriados/tr/privacy-policy) sayfasına bakın.  
   
-## Contact  
+## İletişim  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Sorularınız, destek talepleriniz veya önerileriniz için [Discussions](https://github.com/lucasditomase/feriados/discussions) bölümünü ziyaret etmekten çekinmeyin.  
   
-**Tatiller is a personal project. If you reach out, I will personally read your message.**  
+**Tatiller kişisel bir projedir. Bana ulaşırsanız mesajınızı bizzat okurum.**  

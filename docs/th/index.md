@@ -2,53 +2,53 @@
   
 # วันหยุด  
   
-วันหยุด: your free time, well spent.  
+วันหยุด: ใช้เวลาว่างของคุณให้คุ้มค่า  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, วันหยุด helps you plan getaways, vacations or simply enjoy your weekends more.  
+วิธีที่ง่าย ชัดเจน และทรงพลังที่สุดในการตรวจสอบวันหยุดของอาร์เจนตินา  
+ด้วยการออกแบบสมัยใหม่และฟังก์ชันสำหรับการใช้งานประจำวัน วันหยุด ช่วยคุณวางแผนทริปสั้นๆ วันหยุดยาว หรือเพียงแค่สนุกกับสุดสัปดาห์ได้มากขึ้น  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+ตรวจสอบได้ภายในไม่กี่วินาทีว่าวันหยุดถัดไปคือเมื่อใด สำรวจปฏิทินฉบับเต็มและกรองวันหยุดตามความสนใจ ความเชื่อ หรือไลฟ์สไตล์ของคุณ  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+เหมาะสำหรับนักเรียน คนทำงาน ครอบครัว และทุกคนที่ต้องการใช้วันหยุดให้คุ้มค่าที่สุด  
   
-## Main Features (Free)  
+## คุณสมบัติหลัก (ฟรี)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• นับถอยหลังสู่วันหยุดถัดไป  
+• ปฏิทินครบถ้วน: วันหยุดประจำชาติ ท่องเที่ยว และศาสนา  
+• กรองตามประเภท: วันหยุดคงที่ เลื่อนย้ายได้ เกี่ยวกับการท่องเที่ยว หรือวันหยุดราชการ  
+• ค้นหาตามชื่อหรือเหตุผลของวันหยุด  
+• ตัวเลือกซ่อนวันหยุดที่ผ่านมาแล้ว  
+• ตารางประจำสัปดาห์เพื่อดูวันหยุดที่ใกล้จะมาถึง  
+• อินเทอร์เฟซทันสมัยและชัดเจน ใช้ได้กับทุกอุปกรณ์  
   
-## Advanced Features with วันหยุด Pro  
+## ฟีเจอร์ขั้นสูงกับ วันหยุด Pro  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• เพิ่มวันหยุดในปฏิทินส่วนตัวของคุณ  
+• รับการแจ้งเตือนก่อนถึงวันหยุด  
+• กรองตามชุมชน (มุสลิม ยิว อาร์เมเนีย)  
+• สถิติละเอียดและกราฟเชิงโต้ตอบ  
+• เปรียบเทียบวันหยุดรายเดือน  
+• แสดงวันหยุดยาว  
+• ค้นหาขั้นสูงตามวันในสัปดาห์หรือเดือน  
+• มุมมองปฏิทินรายเดือนและรายสัปดาห์แบบละเอียด  
   
-**วันหยุด Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**วันหยุด Pro** มีช่วงทดลองใช้ฟรี โปรดยกเลิกอย่างน้อย 24 ชั่วโมงก่อนหมดช่วงทดลองหากไม่ต้องการถูกเรียกเก็บเงิน  
   
-## Privacy Policy and Terms  
+## นโยบายความเป็นส่วนตัวและข้อกำหนด  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/th/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/th/terms-and-conditions)  
+• [นโยบายความเป็นส่วนตัว](https://lucasditomase.github.io/feriados/th/privacy-policy)  
+• [ข้อกำหนดและเงื่อนไข](https://lucasditomase.github.io/feriados/th/terms-and-conditions)  
   
-## Support  
+## การสนับสนุน  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+หากคุณมีคำถาม ข้อเสนอแนะ หรืออยากเข้าร่วมชุมชน สามารถเริ่มต้น [การสนทนา](https://github.com/lucasditomase/feriados/discussions) ได้เลย  
   
 ---  
   
-*วันหยุด is a personal project. Thank you for supporting independent development.*  
+*วันหยุด เป็นโปรเจกต์ส่วนตัว ขอบคุณที่สนับสนุนนักพัฒนาอิสระ*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
+    <img src="images/download-badge.svg" alt="ดาวน์โหลดบน App Store" height="60">  
   </a>  
 </p>  

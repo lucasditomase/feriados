@@ -1,54 +1,52 @@
-# Support for Праздники  
+# Поддержка «Праздников»  
   
-Thank you for using Праздники. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+Спасибо, что пользуетесь «Праздниками». Если вы нашли ошибки, у вас есть вопросы или предложения, смело связывайтесь со мной или участвуйте в этом репозитории. Это личный проект, поэтому любая обратная связь или вклад очень ценны.  
   
-## Report a Problem  
+## Сообщить о проблеме  
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+Вы можете открыть issue в этом репозитории, описав проблему и шаги для её воспроизведения. По возможности приложите скриншот.  
   
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Праздники%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
+[Создать issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Праздники%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+Также вы можете связаться со мной по электронной почте, если не хотите использовать GitHub. В приложении в разделе «Больше информации» есть возможность отправить письмо со всеми техническими данными (модель устройства, язык, версия ОС и т. д.).  
   
-## Frequently Asked Questions  
+## Часто задаваемые вопросы  
   
-**Can I add holidays to my calendar?**  
-Yes, with Праздники Pro you can add any holiday directly to your personal calendar.  
+**Могу ли я добавить праздники в свой календарь?**  
+Да, с «Праздники Pro» вы можете добавить любой праздник прямо в личный календарь.  
   
-**Can I set reminders for holidays?**  
-Yes, Праздники Pro lets you create reminders to get notified before each holiday.  
+**Могу ли я установить напоминания о праздниках?**  
+Да, «Праздники Pro» позволяет создавать напоминания, чтобы получать уведомления перед каждым праздником.  
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**Что входит в бесплатную версию?**  
+Полный календарь национальных, туристических и религиозных праздников, недельная повестка и базовые фильтры по типу праздника.  
   
-**What extra features does Праздники Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**Какие дополнительные функции есть в Праздники Pro?**  
+Напоминания, добавление праздников в календарь, сравнительная статистика, фильтры по общине, расширенный поиск и улучшенные виды календаря.  
   
-**Why are there religious holidays?**  
-Праздники allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**Зачем отображаются религиозные праздники?**  
+«Праздники» позволяет фильтровать даты по общине (мусульманской, еврейской, армянской), чтобы каждый пользователь видел актуальные даты по своим предпочтениям.  
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**Всегда ли праздники актуальны?**  
+Информация берётся из официальных публичных источников и регулярно обновляется. Однако возможны изменения из-за решений правительства или ошибок.  
   
-**Does the app collect personal data?**  
-No. Праздники does not store or transmit any user data. All activity happens locally on your device.  
+**Собирает ли приложение личные данные?**  
+Нет. «Праздники» не хранит и не передаёт никаких пользовательских данных. Вся работа происходит локально на вашем устройстве.  
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**Что происходит, если я отправляю письмо из приложения?**  
+Вы делитесь своим адресом электронной почты и именем, указанным в аккаунте. Эта информация используется только для ответа на ваше сообщение. **Никогда не передаётся и не продаётся.**  
   
-**How does Праздники Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
+**Как работает Праздники Pro?**  
+Это необязательная подписка, которую можно активировать или отменить через ваш аккаунт App Store. Она включает продвинутые функции, такие как напоминания, интеграцию с календарём, статистику, фильтры по общинам, расширенный поиск, сравнения праздников и улучшенные виды календаря.  
   
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
+**Есть ли пробный период?**  
+Да. И месячный, и годовой планы включают бесплатный пробный период. **Важно:** помните отменить подписку *как минимум за 24 часа до окончания пробного периода*, если не хотите оплаты.  
   
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
+**Могу ли я поделиться подпиской с семьёй?**  
+Да, через Apple Family Sharing без дополнительной платы, если функция правильно настроена в вашем аккаунте App Store.  
   
-## Contact  
+## Контакт  
   
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Если хотите связаться напрямую или оставить публичный комментарий, присоединяйтесь к разделу [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Your message won’t be lost.** Праздники is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+**Ваше сообщение не потеряется.** «Праздники» — личный проект, поэтому я лично читаю все сообщения и предложения. Ваш адрес электронной почты используется только для ответа на запрос.  

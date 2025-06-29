@@ -2,50 +2,50 @@
   
 # العطلات  
   
-العطلات: your free time, well spent.  
+العطلات: وقت فراغك مستغلّ بأفضل شكل.  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, العطلات helps you plan getaways, vacations or simply enjoy your weekends more.  
+أسهل وأوضح وأقوى طريقة للاطلاع على العطلات في الأرجنتين.  
+بفضل تصميم عصري ووظائف يومية، تساعدك العطلات على التخطيط للرحلات والإجازات أو ببساطة الاستمتاع أكثر بعطلات نهاية الأسبوع.  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+تحقق خلال ثوانٍ من موعد العطلة التالية، واستكشف التقويم الكامل وفلتر الأيام غير العمل وفقاً لاهتماماتك أو معتقداتك أو أسلوب حياتك.  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+مثالي للطلاب والعاملين والعائلات وكل من يرغب في استغلال أيام العطلة لأقصى حد.  
   
-## Main Features (Free)  
+## الميزات الرئيسية (مجاناً)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• عدّ تنازلي حتى العطلة التالية  
+• تقويم كامل: العطلات الوطنية والسياحية والدينية  
+• فلاتر حسب النوع: ثابتة، متحركة، سياحية أو أيام غير عمل  
+• البحث حسب اسم العطلة أو سببها  
+• خيار لإخفاء العطلات الماضية  
+• أجندة أسبوعية لعرض العطلات القريبة  
+• واجهة عصرية وواضحة قابلة للتكيّف مع جميع الأجهزة  
   
-## Advanced Features with العطلات Pro  
+## ميزات متقدمة مع العطلات Pro  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• إضافة العطلات إلى تقويمك الشخصي  
+• الحصول على إشعارات قبل كل عطلة  
+• فلاتر حسب المجتمع (مسلم، يهودي، أرمني)  
+• إحصائيات مفصّلة ورسوم بيانية تفاعلية  
+• مقارنات شهرية للعطلات  
+• عرض فترات عطلة نهاية الأسبوع الطويلة  
+• بحث متقدم بحسب يوم الأسبوع أو الشهر  
+• عرض تقويم شهري وأسبوعي مفصل  
   
-**العطلات Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**العطلات Pro** يتضمن فترة تجريبية مجانية. ألغِ الاشتراك قبل 24 ساعة على الأقل من انتهائها إذا كنت لا ترغب في الدفع.  
   
-## Privacy Policy and Terms  
+## سياسة الخصوصية والشروط  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/ar/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/ar/terms-and-conditions)  
+• [سياسة الخصوصية](https://lucasditomase.github.io/feriados/ar/privacy-policy)  
+• [الشروط والأحكام](https://lucasditomase.github.io/feriados/ar/terms-and-conditions)  
   
-## Support  
+## الدعم  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+إذا كانت لديك أسئلة أو اقتراحات أو كنت ترغب في الانضمام إلى المجتمع، لا تتردد في بدء [نقاش](https://github.com/lucasditomase/feriados/discussions).  
   
 ---  
   
-*العطلات is a personal project. Thank you for supporting independent development.*  
+*العطلات مشروع شخصي. شكراً لدعمك التطوير المستقل.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  

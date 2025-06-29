@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
+# Умови використання  
   
-**Last updated: May 2025**  
+**Останнє оновлення: травень 2025 року**  
   
-*By downloading or using the app, you agree to these terms.*  
+*Завантажуючи або використовуючи додаток, ви погоджуєтеся з цими умовами.*  
   
-These terms govern the use of **Свята**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+Ці умови регулюють використання **Свята**, iOS-додатка, розробленого **Лукасом Ді Томасе**, призначеного для відображення офіційних свят в Аргентині. Вам надається **обмежена, невиключна, не передавана та відклична ліцензія** на використання додатка для особистих цілей.  
   
-## Use of the App  
+## Використання додатка  
   
-Свята is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+Свята призначена лише для **особистого, некомерційного використання**. Вона не може використовуватися для отримання прибутку, перепродажу чи як частина іншого продукту або сервісу.  
   
-## Content  
+## Контент  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+Інформація в додатку отримується з публічних джерел і може змінюватися. Хоча дані регулярно оновлюються, **точність, повнота чи актуальність інформації не гарантується**.  
   
-## Features and Subscriptions  
+## Функції та підписки  
   
-Свята offers basic features for free, including:  
+Свята безкоштовно пропонує базові функції, серед яких:  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• Відображення національних, туристичних і релігійних свят  
+• Фільтрація за типом свята  
+• Щотижневий огляд майбутніх свят  
+• Пошук за назвою чи причиною  
   
-Advanced features are available through a subscription called **Свята Pro**, which includes:  
+Розширені функції доступні за підпискою **Свята Pro**, яка включає:  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• Фільтри за спільнотою (мусульманською, єврейською, вірменською)  
+• Додавання свят до особистого календаря  
+• Встановлення автоматичних нагадувань  
+• Візуальна статистика та порівняння  
+• Відображення довгих вихідних  
+• Розширений пошук за днем тижня або місяцем  
+• Перегляди календаря по місяцях і тижнях  
   
-## Subscriptions and Free Trial  
+## Підписки та безкоштовний пробний період  
   
-• Subscriptions to Свята Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• Підписки на Свята Pro **автоматично поновлюються**, якщо їх не скасувати принаймні **за 24 години** до завершення поточного періоду  
+• Платіж стягується з Apple ID, використаного для покупки  
+• Якщо надається **безкоштовний пробний період**, підписка почнеться автоматично після його завершення, якщо не скасувати принаймні за 24 години до цього  
+• Керування підпискою та її скасування здійснюються у налаштуваннях вашого облікового запису App Store  
+• **Ціни можуть відрізнятися залежно від регіону, дати покупки та інших умов, встановлених Apple або мною як розробником.** У майбутньому ціни можуть змінюватися, і в разі такого оновлення вас повідомлять до автоматичного поновлення, щоб ви могли вирішити, чи продовжувати.  
   
-## Family Sharing  
+## Сімейний доступ  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+Якщо ви входите до групи Family Sharing в iCloud, можливо, ви зможете ділитися підпискою з іншими учасниками, за умови, що ця опція активована і налаштована у вашому обліковому записі App Store. Ця функція залежить від вашої операційної системи та індивідуальних налаштувань.  
   
-## Updates  
+## Оновлення  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+Додаток може періодично отримувати оновлення з поліпшеннями продуктивності, виправленнями помилок або новими функціями без попереднього повідомлення.  
   
-## Feedback and Suggestions  
+## Відгуки та пропозиції  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+Будь-які пропозиції, коментарі чи ідеї, які ви надсилаєте, можуть бути використані для покращення додатка без зобов'язань щодо компенсації чи авторства.  
   
-## Intellectual Property  
+## Інтелектуальна власність  
   
-All content, interfaces, graphics, source code, and features of Свята are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+Увесь контент, інтерфейси, графіка, вихідний код і функції Свята є виключною власністю розробника, якщо не зазначено інше. Жодні права інтелектуальної власності не передаються користувачу внаслідок використання додатка.  
   
-## Technical Restrictions  
+## Технічні обмеження  
   
-You are prohibited from:  
+Забороняється:  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• Продавати, розповсюджувати, розміщувати чи комерційно використовувати додаток без дозволу  
+• Копіювати або використовувати додаток з будь-якою метою, окрім особистого і некомерційного використання  
+• Модифікувати, декомпілювати, здійснювати реверс-інжиніринг чи намагатися отримати доступ до вихідного коду  
+• Використовувати автоматизацію, скрипти чи інші несанкціоновані методи для взаємодії з додатком  
+• Надсилати спам технічній підтримці (рекламні, образливі чи беззмістовні повідомлення)  
+• Навмисно надсилати повідомлення з відсутньою або спотвореною інформацією  
+• Надсилати листи до технічної підтримки та ігнорувати відповіді розробника  
+• Використовувати додаток на пристрої, що був модифікований, що впливає на нормальну роботу додатка (наприклад, jailbreak, несанкціоновані середовища, використання сторонніх магазинів додатків)  
+• Використовувати інструменти, що змінюють систему покупок у додатку або будь-яку іншу функцію  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+**Цей список не є вичерпним.** Інші випадки також можуть бути підставою для обмежень, якщо вони ставлять під загрозу безпеку, цілісність чи призначення додатка. **Я залишаю за собою право блокувати доступ до додатка повністю або частково у разі виявлення неналежного використання чи зловживань.**  
   
-## Disclaimer  
+## Відмова від відповідальності  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+Ви використовуєте додаток на власний ризик. **Ні розробник (Lucas Di Tomase), ні додаток не гарантують безперервну доступність чи абсолютну точність контенту і не несуть відповідальності за рішення, прийняті на основі наданої інформації.**  
   
-## Privacy  
+## Конфіденційність  
   
-Свята does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/uk/privacy-policy).  
+Свята не збирає особисті дані і не використовує сторонні сервіси для аналітики чи реклами. Докладніше дивіться у [Політиці конфіденційності](https://lucasditomase.github.io/feriados/uk/privacy-policy).  
   
-## Contact  
+## Контакт  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+З питаннями, підтримкою чи пропозиціями звертайтеся до розділу [Обговорення](https://github.com/lucasditomase/feriados/discussions).  
   
-**Свята is a personal project. If you reach out, I will personally read your message.**  
+**Свята — особистий проєкт. Якщо ви напишете, я особисто прочитаю ваше повідомлення.**  

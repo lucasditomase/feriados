@@ -1,54 +1,56 @@
-# Support for Tatiller  
+# Tatiller İçin Destek  
   
-Thank you for using Tatiller. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+Tatiller'i kullandığınız için teşekkürler. Hata bulursanız, sorularınız varsa veya geliştirme önerileriniz olursa, benimle iletişime geçmekten veya bu depoya katkıda bulunmaktan çekinmeyin.  
+Bu kişisel bir projedir, bu yüzden her türlü geri bildirim ve katkı çok değerlidir.  
   
-## Report a Problem  
+## Bir Sorunu Bildir  
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+Bu depoda bir sorun açarak problemi ve yeniden oluşturma adımlarını açıklayabilirsiniz.  
+Mümkünse ekran görüntüsü ekleyin.  
   
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Tatiller%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
+[Bir sorun oluşturun](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Tatiller%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+GitHub kullanmak istemiyorsanız e-posta ile de iletişime geçebilirsiniz.  
+Uygulamada "Daha fazla bilgi" bölümünde, teknik ayrıntıları (cihaz modeli, dil, iOS sürümü vb.) otomatik olarak ekleyen bir e-posta gönderme seçeneği bulunur.  
   
-## Frequently Asked Questions  
+## Sıkça Sorulan Sorular  
   
-**Can I add holidays to my calendar?**  
-Yes, with Tatiller Pro you can add any holiday directly to your personal calendar.  
+**Tatil günlerini takvimime ekleyebilir miyim?**  
+Evet, Tatiller Pro ile istediğiniz tatili kişisel takviminize ekleyebilirsiniz.  
   
-**Can I set reminders for holidays?**  
-Yes, Tatiller Pro lets you create reminders to get notified before each holiday.  
+**Tatil günleri için hatırlatıcı ayarlayabilir miyim?**  
+Evet, Tatiller Pro her tatilden önce bildirim oluşturmanıza olanak tanır.  
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**Ücretsiz sürüm neleri içeriyor?**  
+Ulusal, turistik ve dini tatillerin tam takvimini, haftalık ajandayı ve tatil türüne göre temel filtreleri içerir.  
   
-**What extra features does Tatiller Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**Tatiller Pro ekstra olarak neler sunuyor?**  
+Hatırlatmalar, tatilleri takvime ekleme, karşılaştırmalı istatistikler, topluluk filtreleri, gelişmiş arama ve iyileştirilmiş takvim görünümleri sunar.  
   
-**Why are there religious holidays?**  
-Tatiller allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**Neden dini tatiller var?**  
+Tatiller, her kullanıcının tercihine göre (Müslüman, Yahudi, Ermeni) filtreleme yapmasına olanak tanır.  
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**Tatil bilgileri her zaman güncel mi?**  
+Bilgiler resmi kaynaklardan alınır ve düzenli olarak güncellenir. Ancak hükümet kararları veya insan hatası gibi öngörülemeyen değişiklikler olabilir.  
   
-**Does the app collect personal data?**  
-No. Tatiller does not store or transmit any user data. All activity happens locally on your device.  
+**Uygulama kişisel veri topluyor mu?**  
+Hayır. Tatiller hiçbir kullanıcı verisini saklamaz veya iletmez. Tüm işlemler cihazınızda gerçekleşir.  
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**Uygulamadan e-posta gönderirsem ne olur?**  
+E-posta adresiniz ve hesabınızda tanımlı ad paylaşılır. Bu bilgiler yalnızca mesajınıza cevap vermek için kullanılır. **Hiçbir şekilde paylaşılmaz veya satılmaz.**  
   
-**How does Tatiller Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
+**Tatiller Pro nasıl çalışır?**  
+App Store hesabınız üzerinden etkinleştirebileceğiniz veya iptal edebileceğiniz isteğe bağlı bir aboneliktir. Hatırlatmalar, takvim entegrasyonu, istatistikler, topluluk filtreleri, gelişmiş arama, tatil karşılaştırmaları ve geliştirilmiş takvim görünümleri gibi özellikleri içerir.  
   
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
+**Ücretsiz deneme var mı?**  
+Evet. Hem aylık hem yıllık planlarda ücretsiz deneme bulunur. **Önemli:** Ücretlendirilmeyi istemiyorsanız deneme bitmeden *en az 24 saat önce* iptal etmeyi unutmayın.  
   
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
+**Aboneliğimi ailemle paylaşabilir miyim?**  
+Evet, Apple Aile Paylaşımı ile, doğru şekilde yapılandırıldığı sürece, ek ücret olmadan paylaşabilirsiniz.  
   
-## Contact  
+## İletişim  
   
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Doğrudan benimle iletişime geçmek veya herkese açık bir yorum bırakmak isterseniz, [Discussions](https://github.com/lucasditomase/feriados/discussions) bölümüne katılabilirsiniz.  
   
-**Your message won’t be lost.** Tatiller is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+**Mesajınız kaybolmaz.** Tatiller kişisel bir projedir, bu yüzden tüm mesajları ve önerileri bizzat okurum.  
+Ayrıca e-posta adresiniz yalnızca sorunuza yanıt vermek için kullanılır.  

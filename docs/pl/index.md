@@ -2,53 +2,57 @@
   
 # Święta  
   
-Święta: your free time, well spent.  
+Święta: twój wolny czas dobrze wykorzystany.  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Święta helps you plan getaways, vacations or simply enjoy your weekends more.  
+Najprostszy, najczytelniejszy i najpotężniejszy sposób, aby sprawdzić święta w Argentynie.  
+Dzięki nowoczesnemu designowi i funkcjom na co dzień Święta pomaga planować wyjazdy,  
+wakacje lub po prostu cieszyć się weekendami.  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+Sprawdź w kilka sekund, kiedy wypada następne święto, przeglądaj pełny kalendarz i filtruj dni wolne  
+zgodnie ze swoimi zainteresowaniami, wierzeniami lub stylem życia.  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+Idealna dla studentów, pracowników, rodzin i wszystkich, którzy chcą w pełni wykorzystać dni wolne.  
   
-## Main Features (Free)  
+## Główne funkcje (darmowe)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• Odliczanie do następnego święta  
+• Pełny kalendarz: święta państwowe, turystyczne i religijne  
+• Filtry według rodzaju: stałe, ruchome, turystyczne lub dni wolne od pracy  
+• Wyszukiwanie po nazwie lub powodzie święta  
+• Opcja ukrywania minionych świąt  
+• Tygodniowa agenda z nadchodzącymi świętami  
+• Nowoczesny, przejrzysty interfejs dostosowany do wszystkich urządzeń  
   
-## Advanced Features with Święta Pro  
+## Zaawansowane funkcje w Święta Pro  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• Dodawanie świąt do osobistego kalendarza  
+• Otrzymywanie powiadomień przed każdym świętem  
+• Filtry według społeczności (muzułmańskiej, żydowskiej, ormiańskiej)  
+• Szczegółowe statystyki i interaktywne wykresy  
+• Porównania świąt między miesiącami  
+• Wizualizacja długich weekendów  
+• Zaawansowane wyszukiwanie według dnia tygodnia lub miesiąca  
+• Szczegółowy widok kalendarza miesięcznego i tygodniowego  
   
-**Święta Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**Święta Pro** oferuje bezpłatny okres próbny. Anuluj co najmniej 24 godziny przed jego zakończeniem,  
+jeśli nie chcesz ponosić opłat.  
   
-## Privacy Policy and Terms  
+## Polityka prywatności i regulamin  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/pl/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/pl/terms-and-conditions)  
+• [Polityka prywatności](https://lucasditomase.github.io/feriados/pl/privacy-policy)  
+• [Regulamin](https://lucasditomase.github.io/feriados/pl/terms-and-conditions)  
   
-## Support  
+## Wsparcie  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+Jeśli masz pytania, sugestie lub chcesz dołączyć do społeczności, rozpocznij  
+[dyskusję](https://github.com/lucasditomase/feriados/discussions).  
   
 ---  
   
-*Święta is a personal project. Thank you for supporting independent development.*  
+*Święta to projekt osobisty. Dziękuję za wspieranie niezależnego rozwoju.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
+    <img src="images/download-badge.svg" alt="Pobierz z App Store" height="60">  
   </a>  
 </p>  

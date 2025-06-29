@@ -1,6 +1,6 @@
 # Privacy Policy  
   
-**Last updated: May 2025**  
+**Last updated: June 2025**  
   
 **Holidays is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
   

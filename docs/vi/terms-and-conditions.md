@@ -1,88 +1,89 @@
-# Terms and Conditions of Use  
+# Điều Khoản và Điều Kiện Sử Dụng  
   
-**Last updated: May 2025**  
+**Cập nhật lần cuối: Tháng 5 năm 2025**  
   
-*By downloading or using the app, you agree to these terms.*  
+*Bằng cách tải hoặc sử dụng ứng dụng, bạn đồng ý với các điều khoản này.*  
   
-These terms govern the use of **Ngày Nghỉ**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+Các điều khoản này điều chỉnh việc sử dụng **Ngày Nghỉ**, một ứng dụng iOS do **Lucas Di Tomase** phát triển, dùng để hiển thị các ngày nghỉ chính thức tại Argentina. Bạn được cấp **giấy phép giới hạn, không độc quyền, không chuyển nhượng và có thể thu hồi** để sử dụng ứng dụng cho mục đích cá nhân.  
   
-## Use of the App  
+## Sử Dụng Ứng Dụng  
   
-Ngày Nghỉ is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+Ngày Nghỉ chỉ dành cho **mục đích cá nhân, phi thương mại**. Ứng dụng không được sử dụng để thu lợi, bán lại hoặc làm một phần của sản phẩm hay dịch vụ khác.  
   
-## Content  
+## Nội Dung  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+Thông tin hiển thị trong ứng dụng lấy từ các nguồn công khai và có thể thay đổi. Mặc dù được cập nhật thường xuyên, **không thể đảm bảo tuyệt đối về độ chính xác, đầy đủ hay kịp thời của thông tin**.  
   
-## Features and Subscriptions  
+## Tính Năng và Đăng Ký  
   
-Ngày Nghỉ offers basic features for free, including:  
+Ngày Nghỉ cung cấp các tính năng cơ bản miễn phí, bao gồm:  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• Hiển thị các ngày nghỉ quốc gia, du lịch và tôn giáo  
+• Lọc theo loại ngày nghỉ  
+• Lịch biểu tuần cho các ngày nghỉ sắp tới  
+• Tìm kiếm theo tên hoặc lý do  
   
-Advanced features are available through a subscription called **Ngày Nghỉ Pro**, which includes:  
+Các tính năng nâng cao có sẵn thông qua gói đăng ký **Ngày Nghỉ Pro**, bao gồm:  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• Bộ lọc riêng cho từng cộng đồng (Hồi giáo, Do Thái, Armenia)  
+• Thêm ngày nghỉ vào lịch cá nhân  
+• Đặt nhắc nhở tự động  
+• Thống kê và so sánh trực quan  
+• Hiển thị kỳ nghỉ dài ngày  
+• Tìm kiếm nâng cao theo thứ trong tuần hoặc tháng  
+• Chế độ xem lịch tháng và tuần  
   
-## Subscriptions and Free Trial  
+## Đăng Ký và Thời Gian Dùng Thử  
   
-• Subscriptions to Ngày Nghỉ Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• Đăng ký Ngày Nghỉ Pro **tự động gia hạn** trừ khi bạn hủy ít nhất **24 giờ trước** khi kết thúc chu kỳ hiện tại  
+• Thanh toán được tính vào tài khoản Apple ID dùng để mua hàng  
+• Nếu có **thời gian dùng thử miễn phí**, gói đăng ký sẽ bắt đầu tự động khi kết thúc giai đoạn dùng thử trừ khi bạn hủy trước ít nhất 24 giờ  
+• Việc quản lý và hủy đăng ký phải thực hiện trong phần cài đặt tài khoản App Store của bạn  
+• **Giá có thể thay đổi tùy khu vực, ngày mua và các điều kiện khác do Apple hoặc tôi, với tư cách nhà phát triển, quyết định.** Giá có thể được cập nhật trong tương lai; khi đó bạn sẽ được thông báo trước khi gia hạn tự động để quyết định có tiếp tục hay không  
   
-## Family Sharing  
+## Chia Sẻ Gia Đình  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+Nếu bạn thuộc nhóm Chia Sẻ Gia Đình của iCloud, bạn có thể chia sẻ gói đăng ký của mình với các thành viên khác, miễn là tùy chọn này được bật và cấu hình trong tài khoản App Store. Tính năng này phụ thuộc vào hệ điều hành và cài đặt tài khoản của từng người.  
   
-## Updates  
+## Cập Nhật  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+Ứng dụng có thể nhận các bản cập nhật định kỳ nhằm cải thiện hiệu năng, sửa lỗi hoặc thêm tính năng mới mà không cần thông báo trước.  
   
-## Feedback and Suggestions  
+## Phản Hồi và Đề Xuất  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+Mọi đề xuất, bình luận hay ý tưởng bạn gửi có thể được dùng để cải thiện ứng dụng mà không có nghĩa vụ phải bồi thường hay ghi nhận.  
   
-## Intellectual Property  
+## Quyền Sở Hữu Trí Tuệ  
   
-All content, interfaces, graphics, source code, and features of Ngày Nghỉ are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+Tất cả nội dung, giao diện, đồ họa, mã nguồn và tính năng của Ngày Nghỉ là tài sản độc quyền của nhà phát triển trừ khi có chỉ định khác. Người dùng không được cấp bất kỳ quyền sở hữu trí tuệ nào thông qua việc sử dụng ứng dụng.  
   
-## Technical Restrictions  
+## Hạn Chế Kỹ Thuật  
   
-You are prohibited from:  
+Bạn bị cấm:  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• Bán, phân phối, lưu trữ hoặc khai thác thương mại ứng dụng khi chưa được phép  
+• Sao chép hoặc sử dụng ứng dụng cho mục đích nào khác ngoài sử dụng cá nhân và phi thương mại  
+• Sửa đổi, dịch ngược, đảo ngược mã hay cố gắng truy cập mã nguồn  
+• Sử dụng tự động hóa, script hay phương thức trái phép để tương tác với ứng dụng  
+• Gửi tin nhắn hỗ trợ kỹ thuật mang tính quảng cáo, lạm dụng hoặc vô nghĩa  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+• Cố tình gửi tin nhắn thiếu hoặc thay đổi thông tin  
+• Gửi email đến hỗ trợ kỹ thuật rồi bỏ qua phản hồi từ nhà phát triển  
+• Sử dụng ứng dụng trên thiết bị đã bị chỉnh sửa ảnh hưởng đến hoạt động bình thường của ứng dụng (ví dụ, thiết bị đã jailbreak, môi trường không được phép, dùng kho ứng dụng của bên thứ ba)  
+• Sử dụng công cụ can thiệp hệ thống mua trong ứng dụng hoặc bất kỳ tính năng nào khác  
   
-## Disclaimer  
+**Danh sách này không đầy đủ.** Những trường hợp khác cũng có thể bị hạn chế nếu làm ảnh hưởng đến bảo mật, tính toàn vẹn hoặc mục đích của ứng dụng. **Tôi có quyền chặn truy cập ứng dụng, toàn bộ hoặc một phần, nếu phát hiện sử dụng sai mục đích hoặc hành vi lạm dụng.**  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+## Tuyên Bố Miễn Trừ Trách Nhiệm  
   
-## Privacy  
+Việc sử dụng ứng dụng là rủi ro của bạn. **Cả nhà phát triển (Lucas Di Tomase) lẫn ứng dụng không bảo đảm khả năng truy cập liên tục hoặc độ chính xác tuyệt đối của nội dung và không chịu trách nhiệm cho các quyết định được đưa ra dựa trên thông tin cung cấp.**  
   
-Ngày Nghỉ does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/vi/privacy-policy).  
+## Quyền Riêng Tư  
   
-## Contact  
+Ngày Nghỉ không thu thập dữ liệu cá nhân hay sử dụng dịch vụ bên thứ ba cho phân tích hoặc quảng cáo. Để biết thêm chi tiết, vui lòng xem [Chính Sách Quyền Riêng Tư](https://lucasditomase.github.io/feriados/vi/privacy-policy).  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+## Liên Hệ  
   
-**Ngày Nghỉ is a personal project. If you reach out, I will personally read your message.**  
+Nếu bạn có câu hỏi, cần hỗ trợ hay góp ý, hãy truy cập mục [Thảo luận](https://github.com/lucasditomase/feriados/discussions).  
+  
+**Ngày Nghỉ là dự án cá nhân. Nếu bạn liên hệ, tôi sẽ đích thân đọc tin nhắn của bạn.**  

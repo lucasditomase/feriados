@@ -1,42 +1,42 @@
-# Privacy Policy  
+# سياسة الخصوصية  
   
-**Last updated: May 2025**  
+**آخر تحديث: يونيو 2025**  
   
-**العطلات is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**العطلات تطبيق يحترم خصوصيتك:** *لا يجمع أو يخزن أو يشارك أي معلومات شخصية للمستخدم.*  
   
-## Data Collection  
+## جمع البيانات  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+لا يطلب التطبيق أذونات غير ضرورية ولا يصل إلى بيانات حساسة.  
+جميع المعلومات المعروضة (العطلات الوطنية والسياحية والدينية) عامة ويتم تخزينها محلياً على جهاز المستخدم.  
   
-The additional features in العطلات Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+الميزات الإضافية في العطلات Pro، مثل إحصائيات العطلات والمقارنات، يتم إنشاؤها ومعالجتها محلياً على جهازك ولا تُرسل أي معلومات أو تُخزن على خوادم خارجية.  
   
-## In-App Purchases and Free Trial  
+## المشتريات داخل التطبيق والفترة التجريبية  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **العطلات does not access any personal, financial, or billing information at any time.**  
+يقدّم التطبيق اشتراكات عبر متجر التطبيقات. تتم معالجة جميع المدفوعات وفترات التجربة وإدارة الاشتراك حصرياً بواسطة Apple. **العطلات لا يصل إلى أي معلومات شخصية أو مالية أو بيانات الفوترة في أي وقت.**  
   
-If a trial period is available, you may use العطلات Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+إذا كانت هناك فترة تجريبية متاحة، يمكنك استخدام العطلات Pro مجاناً خلال تلك المدة. سيتم تحصيل الرسوم تلقائياً عند انتهاء الفترة ما لم تُلغِ الاشتراك قبل 24 ساعة على الأقل عبر حسابك في متجر التطبيقات.  
   
-## Optional Permissions  
+## الأذونات الاختيارية  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**الإشعارات:**  
+تُستخدم فقط إذا فعّلت تذكيرات العطلات. هي إشعارات محلية تُنشأ على جهازك دون أي اتصال بخوادم خارجية. يمكنك تعطيلها في أي وقت من إعدادات الجهاز.  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**التقويم:**  
+إذا اخترت إضافة عطلة إلى تقويمك، يتم حفظ حدث واحد بعد تأكيدك. التطبيق **لا يمكنه عرض أو قراءة أو تعديل أي أحداث أخرى موجودة.**  
   
-## Third Parties  
+## الأطراف الثالثة  
   
-العطلات does not use any third-party services for analytics, advertising, or data storage.  
+لا يستخدم العطلات أي خدمات من أطراف ثالثة للتحليلات أو الإعلانات أو تخزين البيانات.  
   
-## Email Contact  
+## التواصل عبر البريد الإلكتروني  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+إذا اخترت التواصل معي عبر البريد الإلكتروني، ستشارك عنوان بريدك واسمك المسجل في حسابك (والذي قد يتضمن اسم العائلة أو معلومات تعريفية أخرى).  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+تُستخدم هذه المعلومات فقط للرد على استفسارك، **ولا يتم مشاركتها مع أي طرف ثالث أو بيعها تحت أي ظرف.**  
   
-## Contact  
+## التواصل  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+إذا كانت لديك أسئلة حول هذه السياسة، يمكنك التواصل عبر قسم [المناقشات](https://github.com/lucasditomase/feriados/discussions).  
   
-**العطلات is a personal project. All inquiries are read and appreciated.**  
+**العطلات مشروع شخصي. يتم قراءة جميع الاستفسارات وتقديرها.**  

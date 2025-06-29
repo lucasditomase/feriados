@@ -1,42 +1,42 @@
-# Privacy Policy  
+# गोपनीयता नीति  
   
-**Last updated: May 2025**  
+**अंतिम अपडेट: जून 2025**  
   
-**छुट्टियाँ is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**छुट्टियाँ एक ऐसा ऐप है जो आपकी निजता का सम्मान करता है:** *यह किसी भी उपयोगकर्ता की व्यक्तिगत जानकारी एकत्र, संग्रहीत या साझा नहीं करता।*  
   
-## Data Collection  
+## डेटा संग्रह  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+एप अनावश्यक अनुमतियां नहीं मांगता और न ही संवेदनशील डेटा तक पहुंचता है।  
+दिखाई गई सभी जानकारी (राष्ट्रीय, पर्यटन संबंधी और धार्मिक अवकाश) सार्वजनिक है और उपयोगकर्ता के डिवाइस पर स्थानीय रूप से संग्रहीत रहती है।  
   
-The additional features in छुट्टियाँ Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+छुट्टियाँ Pro की अतिरिक्त सुविधाएँ, जैसे अवकाश आँकड़े और तुलनाएँ, आपके डिवाइस पर ही तैयार और संसाधित होती हैं। कोई भी जानकारी बाहरी सर्वरों पर नहीं भेजी या संग्रहीत की जाती।  
   
-## In-App Purchases and Free Trial  
+## इन-ऐप खरीदारी और निःशुल्क परीक्षण  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **छुट्टियाँ does not access any personal, financial, or billing information at any time.**  
+ऐप स्टोर के माध्यम से एप सदस्यताएँ प्रदान करता है। सभी भुगतान प्रक्रियाएँ, निःशुल्क परीक्षण और सदस्यता प्रबंधन पूरी तरह से Apple द्वारा संभाले जाते हैं। **छुट्टियाँ किसी भी व्यक्तिगत, वित्तीय या बिलिंग जानकारी तक कभी पहुंच नहीं रखता।**  
   
-If a trial period is available, you may use छुट्टियाँ Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+यदि परीक्षण अवधि उपलब्ध है, तो उस दौरान आप बिना किसी लागत के छुट्टियाँ Pro का उपयोग कर सकते हैं। परीक्षण अवधि समाप्त होने पर आपको स्वचालित रूप से शुल्क लिया जाएगा, **जब तक कि आप अपनी App Store खाते से कम से कम 24 घंटे पहले सदस्यता रद्द नहीं कर देते।**  
   
-## Optional Permissions  
+## वैकल्पिक अनुमतियाँ  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**सूचनाएँ:**  
+इनका उपयोग तभी होता है जब आप अवकाश रिमाइंडर सक्षम करते हैं। ये आपके डिवाइस पर ही स्थानीय रूप से बनाई जाती हैं और किसी बाहरी सर्वर से कोई संपर्क नहीं होता। आप इन्हें अपने डिवाइस की सेटिंग्स में कभी भी निष्क्रिय कर सकते हैं।  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**कैलेंडर:**  
+यदि आप किसी अवकाश को अपने कैलेंडर में जोड़ना चुनते हैं, तो आपकी पुष्टि के साथ एक इवेंट सहेजा जाता है। ऐप **अन्य मौजूदा इवेंट को देख या पढ़ या संशोधित नहीं कर सकता।**  
   
-## Third Parties  
+## तृतीय पक्ष  
   
-छुट्टियाँ does not use any third-party services for analytics, advertising, or data storage.  
+छुट्टियाँ विश्लेषण, विज्ञापन या डेटा भंडारण के लिए किसी भी तृतीय-पक्ष सेवा का उपयोग नहीं करता।  
   
-## Email Contact  
+## ईमेल संपर्क  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+यदि आप मुझसे ईमेल के माध्यम से संपर्क करते हैं, तो आप अपना ईमेल पता और आपके खाते में दर्ज नाम (जिसमें आपका उपनाम या अन्य पहचान जानकारी शामिल हो सकती है) साझा करेंगे।  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+इस जानकारी का उपयोग केवल आपके सवाल का जवाब देने के लिए किया जाता है। **इसे किसी भी स्थिति में तृतीय पक्ष के साथ साझा या बेचा नहीं जाता।**  
   
-## Contact  
+## संपर्क  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+यदि आपको इस नीति के बारे में प्रश्न हैं, तो [Discussions](https://github.com/lucasditomase/feriados/discussions) अनुभाग के माध्यम से बेझिझक संपर्क करें।  
   
-**छुट्टियाँ is a personal project. All inquiries are read and appreciated.**  
+**छुट्टियाँ एक व्यक्तिगत प्रोजेक्ट है। आपकी सभी पूछताछ पढ़ी और सराही जाएगी.**  

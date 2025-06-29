@@ -1,42 +1,42 @@
-# Privacy Policy  
+# 隱私政策  
   
-**Last updated: May 2025**  
+**最後更新日期：2025 年 6 月**  
   
-**假期 is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**假期是一款重視隱私的應用程式：** *不會收集、儲存或分享任何使用者個人資訊。*  
   
-## Data Collection  
+## 資料收集  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+本應用不會要求不必要的權限，也不會存取敏感資料。  
+所顯示的所有資訊（國定、旅遊及宗教節日）皆為公開資料，並儲存於使用者裝置中。  
   
-The additional features in 假期 Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+在 假期 Pro 中的額外功能，如節日統計和比較，亦在你的裝置上本地產生與處理，沒有任何資料會傳送或儲存至外部伺服器。  
   
-## In-App Purchases and Free Trial  
+## 應用內購買與免費試用  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **假期 does not access any personal, financial, or billing information at any time.**  
+本應用透過 App Store 提供訂閱服務。所有付款流程、免費試用及訂閱管理均由 Apple 完全處理。**假期 在任何時刻都不會取得任何個人、財務或帳單資訊。**  
   
-If a trial period is available, you may use 假期 Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+若提供試用期，你可在此期間免費使用 假期 Pro。試用結束後將自動收費，**除非你至少提前 24 小時在 App Store 帳號中取消訂閱。**  
   
-## Optional Permissions  
+## 選用權限  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**通知：**  
+僅在你啟用節日提醒時使用。這些為本機通知，不會與外部伺服器通信。你可隨時於裝置設定中停用。  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**行事曆：**  
+若你選擇將節日加入行事曆，將在確認後儲存單一事件。應用程式**無法檢視、讀取或修改其他既有事件。**  
   
-## Third Parties  
+## 第三方服務  
   
-假期 does not use any third-party services for analytics, advertising, or data storage.  
+假期不使用任何第三方服務進行分析、廣告或資料儲存。  
   
-## Email Contact  
+## 電子郵件聯繫  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+若你選擇透過電子郵件與我聯絡，你將分享你的電子郵件地址及帳號中設定的姓名（可能包含姓氏或其他識別資訊）。  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+此資訊僅用於回覆你的詢問，**絕不會在任何情況下與第三方分享或出售。**  
   
-## Contact  
+## 聯繫方式  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+若你對本政策有任何疑問，歡迎在 [討論區](https://github.com/lucasditomase/feriados/discussions) 中留言。  
   
-**假期 is a personal project. All inquiries are read and appreciated.**  
+**假期 是個人專案，所有來信都會被閱讀並深表感謝。**  

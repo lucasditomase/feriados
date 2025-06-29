@@ -1,42 +1,42 @@
-# Privacy Policy  
+# นโยบายความเป็นส่วนตัว  
   
-**Last updated: May 2025**  
+**อัปเดตล่าสุด: มิถุนายน 2025**  
   
-**วันหยุด is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**วันหยุด เป็นแอปที่เคารพความเป็นส่วนตัวของคุณ:** *ไม่เก็บ บันทึก หรือแบ่งปันข้อมูลส่วนตัวของผู้ใช้*  
   
-## Data Collection  
+## การเก็บข้อมูล  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+แอปจะไม่ขอสิทธิ์ที่ไม่จำเป็นหรือเข้าถึงข้อมูลที่มีความละเอียดอ่อน  
+ข้อมูลทั้งหมดที่แสดง (วันหยุดประจำชาติ ท่องเที่ยว และศาสนา) เป็นข้อมูลสาธารณะและถูกเก็บไว้ในอุปกรณ์ของผู้ใช้  
   
-The additional features in วันหยุด Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+ฟีเจอร์เพิ่มเติมใน วันหยุด Pro เช่น สถิติและการเปรียบเทียบวันหยุด ถูกสร้างและประมวลผลภายในอุปกรณ์ของคุณ ไม่มีข้อมูลใดถูกส่งหรือบันทึกบนเซิร์ฟเวอร์ภายนอก  
   
-## In-App Purchases and Free Trial  
+## การซื้อภายในแอปและช่วงทดลองใช้ฟรี  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **วันหยุด does not access any personal, financial, or billing information at any time.**  
+แอปมีการสมัครสมาชิกผ่าน App Store การชำระเงิน ช่วงทดลองใช้ฟรี และการจัดการการสมัครสมาชิก ดำเนินการโดย Apple เท่านั้น **วันหยุด จะไม่เข้าถึงข้อมูลส่วนตัว การเงิน หรือข้อมูลการเรียกเก็บเงินของคุณ**  
   
-If a trial period is available, you may use วันหยุด Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+หากมีช่วงทดลองใช้งาน คุณสามารถใช้ วันหยุด Pro ได้โดยไม่เสียค่าใช้จ่ายในช่วงนั้น ระบบจะคิดค่าบริการอัตโนมัติเมื่อหมดช่วงทดลอง **เว้นแต่คุณยกเลิกการสมัครอย่างน้อย 24 ชั่วโมงล่วงหน้า** ผ่านบัญชี App Store ของคุณ  
   
-## Optional Permissions  
+## สิทธิ์การเข้าถึงแบบเลือกได้  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**การแจ้งเตือน:**  
+ใช้เฉพาะเมื่อคุณเปิดการเตือนวันหยุด การแจ้งเตือนเหล่านี้ถูกสร้างในเครื่องและไม่มีการสื่อสารกับเซิร์ฟเวอร์ภายนอก คุณสามารถปิดได้ทุกเมื่อในตั้งค่าของอุปกรณ์  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**ปฏิทิน:**  
+หากคุณเลือกเพิ่มวันหยุดลงในปฏิทิน จะมีการบันทึกเหตุการณ์เดียวหลังจากคุณยืนยัน แอป **ไม่สามารถดู อ่าน หรือแก้ไขเหตุการณ์อื่นๆ ได้**  
   
-## Third Parties  
+## บุคคลที่สาม  
   
-วันหยุด does not use any third-party services for analytics, advertising, or data storage.  
+วันหยุด ไม่ใช้บริการของบุคคลที่สามเพื่อวิเคราะห์ โฆษณา หรือจัดเก็บข้อมูล  
   
-## Email Contact  
+## การติดต่อทางอีเมล  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+หากคุณเลือกติดต่อฉันทางอีเมล คุณจะส่งที่อยู่อีเมลและชื่อที่ตั้งค่าไว้ในบัญชีของคุณ (ซึ่งอาจรวมถึงนามสกุลหรือข้อมูลระบุตัวตนอื่นๆ)  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+ข้อมูลนี้ใช้เพื่อตอบคำถามของคุณเท่านั้น **จะไม่ถูกแบ่งปันกับบุคคลที่สามหรือขายต่อในทุกกรณี**  
   
-## Contact  
+## ติดต่อ  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+หากมีคำถามเกี่ยวกับนโยบายนี้ สามารถติดต่อได้ผ่านส่วน [Discussions](https://github.com/lucasditomase/feriados/discussions)  
   
-**วันหยุด is a personal project. All inquiries are read and appreciated.**  
+**วันหยุด เป็นโปรเจกต์ส่วนตัว ข้อความทุกฉบับจะถูกอ่านและให้ความสำคัญ**  

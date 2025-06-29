@@ -1,42 +1,41 @@
-# Privacy Policy  
+# Chính Sách Quyền Riêng Tư  
   
-**Last updated: May 2025**  
+**Cập nhật lần cuối: Tháng 6 năm 2025**  
   
-**Ngày Nghỉ is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**Ngày Nghỉ là ứng dụng tôn trọng quyền riêng tư của bạn:** *không thu thập, lưu trữ hay chia sẻ bất kỳ thông tin cá nhân nào của người dùng.*  
   
-## Data Collection  
+## Thu Thập Dữ Liệu  
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+Ứng dụng không yêu cầu quyền truy cập không cần thiết hay truy cập dữ liệu nhạy cảm. Tất cả thông tin hiển thị (các ngày nghỉ quốc gia, du lịch và tôn giáo) đều là công khai và được lưu trữ cục bộ trên thiết bị của bạn.  
   
-The additional features in Ngày Nghỉ Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+Các tính năng bổ sung trong Ngày Nghỉ Pro, như thống kê và so sánh ngày nghỉ, được tạo và xử lý cục bộ trên thiết bị của bạn. Không có thông tin nào được gửi tới hay lưu trên máy chủ bên ngoài.  
   
-## In-App Purchases and Free Trial  
+## Mua Trong Ứng Dụng và Thời Gian Dùng Thử  
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **Ngày Nghỉ does not access any personal, financial, or billing information at any time.**  
+Ứng dụng cung cấp các gói đăng ký qua App Store. Tất cả việc xử lý thanh toán, thời gian dùng thử và quản lý đăng ký đều do Apple thực hiện. **Ngày Nghỉ không truy cập bất kỳ thông tin cá nhân, tài chính hay thanh toán nào.**  
   
-If a trial period is available, you may use Ngày Nghỉ Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+Nếu có thời gian dùng thử, bạn có thể sử dụng Ngày Nghỉ Pro miễn phí trong thời gian đó. Bạn sẽ bị tính phí tự động khi kết thúc thời gian dùng thử, **trừ khi bạn hủy đăng ký ít nhất 24 giờ trước đó** thông qua tài khoản App Store của mình.  
   
-## Optional Permissions  
+## Quyền Tùy Chọn  
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+**Thông báo:**  
+Chỉ sử dụng nếu bạn bật nhắc nhở ngày nghỉ. Đây là thông báo cục bộ được tạo trên thiết bị của bạn, không gửi dữ liệu ra bên ngoài. Bạn có thể tắt bất kỳ lúc nào trong cài đặt thiết bị.  
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+**Lịch:**  
+Nếu bạn chọn thêm ngày nghỉ vào lịch, một sự kiện duy nhất sẽ được lưu khi bạn xác nhận. Ứng dụng **không thể xem, đọc hay chỉnh sửa các sự kiện khác.**  
   
-## Third Parties  
+## Bên Thứ Ba  
   
-Ngày Nghỉ does not use any third-party services for analytics, advertising, or data storage.  
+Ngày Nghỉ không sử dụng bất kỳ dịch vụ bên thứ ba nào cho phân tích, quảng cáo hay lưu trữ dữ liệu.  
   
-## Email Contact  
+## Liên Hệ Qua Email  
   
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
+Nếu bạn chọn liên hệ qua email, bạn sẽ chia sẻ địa chỉ email và tên được cấu hình trong tài khoản của mình (có thể bao gồm họ hoặc thông tin nhận dạng khác).  
   
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
+Thông tin này chỉ được dùng để trả lời yêu cầu của bạn. **Không bao giờ chia sẻ hoặc bán cho bên thứ ba trong bất kỳ trường hợp nào.**  
   
-## Contact  
+## Liên Hệ  
   
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Nếu bạn có thắc mắc về chính sách này, hãy liên hệ qua phần [Thảo luận](https://github.com/lucasditomase/feriados/discussions).  
   
-**Ngày Nghỉ is a personal project. All inquiries are read and appreciated.**  
+**Ngày Nghỉ là dự án cá nhân. Mọi thắc mắc đều được đọc và trân trọng.**  

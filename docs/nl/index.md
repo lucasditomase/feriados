@@ -2,50 +2,50 @@
   
 # Feestdagen  
   
-Feestdagen: your free time, well spent.  
+Feestdagen: je vrije tijd, optimaal benut.  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Feestdagen helps you plan getaways, vacations or simply enjoy your weekends more.  
+De eenvoudigste, duidelijkste en krachtigste manier om de feestdagen van Argentinië te raadplegen.  
+Met een modern ontwerp en functies voor alledag helpt Feestdagen je uitstapjes, vakanties of gewoon je weekenden beter te plannen.  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+Bekijk binnen enkele seconden wanneer de volgende feestdag is, verken de volledige kalender en filter de niet‑werkdagen op basis van je interesses, overtuigingen of levensstijl.  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+Ideaal voor studenten, werknemers, gezinnen en iedereen die het meeste uit zijn vrije dagen wil halen.  
   
-## Main Features (Free)  
+## Belangrijkste functies (gratis)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• Aftellen tot de volgende feestdag  
+• Volledige kalender: nationale, toeristische en religieuze feestdagen  
+• Filters op type: vast, verplaatsbaar, toeristisch of niet‑werkdagen  
+• Zoeken op naam of reden van de feestdag  
+• Mogelijkheid om voorbije feestdagen te verbergen  
+• Wekelijkse agenda met nabije feestdagen  
+• Moderne, duidelijke interface die zich aan alle apparaten aanpast  
   
-## Advanced Features with Feestdagen Pro  
+## Geavanceerde functies met Feestdagen Pro  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• Voeg feestdagen toe aan je persoonlijke agenda  
+• Ontvang meldingen vóór elke feestdag  
+• Filters per gemeenschap (moslim, joods, Armeens)  
+• Gedetailleerde statistieken en interactieve grafieken  
+• Maandelijkse vergelijkingen van feestdagen  
+• Visualisatie van lange weekenden  
+• Geavanceerd zoeken op weekdag of maand  
+• Gedetailleerde maand- en weekweergave van de kalender  
   
-**Feestdagen Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**Feestdagen Pro** bevat een gratis proefperiode. Annuleer minstens 24 uur van tevoren als je geen kosten wilt maken.  
   
-## Privacy Policy and Terms  
+## Privacybeleid en voorwaarden  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/nl/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/nl/terms-and-conditions)  
+• [Privacybeleid](https://lucasditomase.github.io/feriados/nl/privacy-policy)  
+• [Algemene voorwaarden](https://lucasditomase.github.io/feriados/nl/terms-and-conditions)  
   
-## Support  
+## Ondersteuning  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+Heb je vragen, suggesties of wil je deelnemen aan de community? Start gerust een [discussie](https://github.com/lucasditomase/feriados/discussions).  
   
 ---  
   
-*Feestdagen is a personal project. Thank you for supporting independent development.*  
+*Feestdagen is een persoonlijk project. Bedankt voor het steunen van onafhankelijke ontwikkeling.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  

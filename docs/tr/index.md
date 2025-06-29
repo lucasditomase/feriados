@@ -2,53 +2,61 @@
   
 # Tatiller  
   
-Tatiller: your free time, well spent.  
+Tatiller: boş zamanınız, iyi değerlendirilmiş.  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Tatiller helps you plan getaways, vacations or simply enjoy your weekends more.  
+Arjantin tatillerini kontrol etmenin en basit, en anlaşılır ve en güçlü yolu.  
+Modern tasarımı ve günlük özellikleriyle Tatiller, kaçamaklar planlamanıza,  
+tatillerinizi veya hafta sonlarınızı daha iyi değerlendirmenize yardımcı olur.  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+Bir sonraki tatilin ne zaman olduğunu saniyeler içinde öğrenin, tam takvimi  
+keşfedin ve çalışılmayan günleri ilgi alanlarınıza, inançlarınıza veya yaşam  
+tarzınıza göre filtreleyin.  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+Öğrenciler, çalışanlar, aileler ve izin günlerinden en iyi şekilde yararlanmak  
+isteyen herkes için idealdir.  
   
-## Main Features (Free)  
+## Ana Özellikler (Ücretsiz)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• Sonraki tatil için geri sayım  
+• Tam takvim: ulusal, turistik ve dini tatiller  
+• Tipe göre filtreler: sabit, taşınabilir, turistik veya çalışılmayan günler  
+• Tatilin adı veya nedeniyle arama  
+• Geçmiş tatilleri gizleme seçeneği  
+• Yakındaki tatilleri görmek için haftalık ajanda  
+• Tüm cihazlara uyarlanabilen modern ve sade arayüz  
   
-## Advanced Features with Tatiller Pro  
+## Tatiller Pro ile Gelişmiş Özellikler  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• Tatilleri kişisel takviminize ekleyin  
+• Her tatilden önce bildirim alın  
+• Topluluğa göre filtreler (Müslüman, Yahudi, Ermeni)  
+• Ayrıntılı istatistikler ve etkileşimli grafikler  
+• Aylık tatil karşılaştırmaları  
+• Uzun hafta sonlarının görselleştirilmesi  
+• Haftanın günü veya aya göre gelişmiş arama  
+• Ayrıntılı aylık ve haftalık takvim görünümü  
   
-**Tatiller Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**Tatiller Pro** ücretsiz bir deneme süresi içerir. Ücretlendirilmek  
+istemiyorsanız deneme bitmeden en az 24 saat önce iptal edin.  
   
-## Privacy Policy and Terms  
+## Gizlilik Politikası ve Koşullar  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/tr/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/tr/terms-and-conditions)  
+• [Gizlilik Politikası](https://lucasditomase.github.io/feriados/tr/privacy-policy)  
+• [Hüküm ve Koşullar](https://lucasditomase.github.io/feriados/tr/terms-and-conditions)  
   
-## Support  
+## Destek  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+Sorularınız, önerileriniz varsa ya da topluluğa katılmak istiyorsanız, bir  
+[tartışma](https://github.com/lucasditomase/feriados/discussions) başlatmaktan  
+çekinmeyin.  
   
 ---  
   
-*Tatiller is a personal project. Thank you for supporting independent development.*  
+*Tatiller kişisel bir projedir. Bağımsız geliştirmeyi desteklediğiniz için  
+teşekkürler.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
+    <img src="images/download-badge.svg" alt="App Store'dan İndir" height="60">  
   </a>  
 </p>  

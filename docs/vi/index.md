@@ -2,53 +2,54 @@
   
 # Ngày Nghỉ  
   
-Ngày Nghỉ: your free time, well spent.  
+Ngày Nghỉ: thời gian rảnh của bạn, được tận hưởng trọn vẹn.  
   
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Ngày Nghỉ helps you plan getaways, vacations or simply enjoy your weekends more.  
+Cách đơn giản, rõ ràng và mạnh mẽ nhất để xem các ngày nghỉ lễ của Argentina.  
+Với thiết kế hiện đại và các tính năng phục vụ hằng ngày, Ngày Nghỉ giúp bạn lên kế hoạch cho những chuyến đi, kỳ nghỉ hay chỉ đơn giản là tận hưởng cuối tuần nhiều hơn.  
   
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
+Kiểm tra trong vài giây khi nào có ngày nghỉ tiếp theo, khám phá toàn bộ lịch và lọc  
+các ngày không làm việc theo sở thích, đức tin hay phong cách sống của bạn.  
   
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
+Lý tưởng cho học sinh, người đi làm, gia đình và bất kỳ ai muốn tận dụng tối đa thời gian nghỉ.  
   
-## Main Features (Free)  
+## Tính năng chính (Miễn phí)  
   
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
+• Đếm ngược đến ngày nghỉ tiếp theo  
+• Lịch đầy đủ: các ngày nghỉ quốc gia, du lịch và tôn giáo  
+• Bộ lọc theo loại: cố định, di dời, du lịch hoặc không làm việc  
+• Tìm kiếm theo tên hoặc lý do của ngày nghỉ  
+• Tùy chọn ẩn các ngày nghỉ đã qua  
+• Lịch biểu tuần để xem các ngày nghỉ gần kề  
+• Giao diện hiện đại, rõ ràng và thích ứng với mọi thiết bị  
   
-## Advanced Features with Ngày Nghỉ Pro  
+## Tính năng nâng cao với Ngày Nghỉ Pro  
   
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
+• Thêm ngày nghỉ vào lịch cá nhân của bạn  
+• Nhận thông báo trước mỗi ngày nghỉ  
+• Bộ lọc theo cộng đồng (Hồi giáo, Do Thái, Armenia)  
+• Thống kê chi tiết và biểu đồ tương tác  
+• So sánh ngày nghỉ theo tháng  
+• Hiển thị các kỳ nghỉ dài ngày  
+• Tìm kiếm nâng cao theo thứ hoặc tháng  
+• Xem lịch tháng và tuần chi tiết  
   
-**Ngày Nghỉ Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
+**Ngày Nghỉ Pro** bao gồm thời gian dùng thử miễn phí. Hãy hủy ít nhất 24 giờ trước khi kết thúc nếu bạn không muốn bị tính phí.  
   
-## Privacy Policy and Terms  
+## Chính sách quyền riêng tư và Điều khoản  
   
-• [Privacy Policy](https://lucasditomase.github.io/feriados/vi/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/vi/terms-and-conditions)  
+• [Chính sách quyền riêng tư](https://lucasditomase.github.io/feriados/vi/privacy-policy)  
+• [Điều khoản và điều kiện](https://lucasditomase.github.io/feriados/vi/terms-and-conditions)  
   
-## Support  
+## Hỗ trợ  
   
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
+Nếu bạn có câu hỏi, đề xuất hoặc muốn tham gia cộng đồng, hãy thoải mái bắt đầu một [thảo luận](https://github.com/lucasditomase/feriados/discussions).  
   
 ---  
   
-*Ngày Nghỉ is a personal project. Thank you for supporting independent development.*  
+*Ngày Nghỉ là dự án cá nhân. Cảm ơn bạn đã ủng hộ sự phát triển độc lập.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
+    <img src="images/download-badge.svg" alt="Tải về trên App Store" height="60">  
   </a>  
 </p>  

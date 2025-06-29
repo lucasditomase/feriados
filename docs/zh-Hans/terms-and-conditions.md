@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
+# 使用条款  
   
-**Last updated: May 2025**  
+**最后更新：2025 年 5 月**  
   
-*By downloading or using the app, you agree to these terms.*  
+*下载或使用本应用即表示您同意这些条款。*  
   
-These terms govern the use of **节假日**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+这些条款适用于 **节假日**（由 **Lucas Di Tomase** 开发的 iOS 应用），用于展示阿根廷的官方节日。您被授予在个人用途范围内使用本应用的**有限、非独占、不可转让且可撤销的许可**。  
   
-## Use of the App  
+## 应用的使用  
   
-节假日 is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+节假日仅供**个人、非商业**使用。不得用于盈利、转售或作为其他产品或服务的一部分。  
   
-## Content  
+## 内容  
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+应用中显示的信息来自公共来源，可能会发生变化。虽然会定期更新，**但无法保证信息的准确性、完整性或时效性**。  
   
-## Features and Subscriptions  
+## 功能与订阅  
   
-节假日 offers basic features for free, including:  
+节假日提供以下免费基本功能：  
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+• 显示国家、旅游和宗教节日  
+• 按节日类型筛选  
+• 即将到来的节日周视图  
+• 按名称或原因搜索  
   
-Advanced features are available through a subscription called **节假日 Pro**, which includes:  
+通过订阅 **节假日 Pro** 可获得高级功能，包括：  
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+• 面向特定社区的筛选（穆斯林、犹太、亚美尼亚）  
+• 将节日添加到个人日历  
+• 设置自动提醒  
+• 可视化统计和比较  
+• 长周末展示  
+• 按星期或月份高级搜索  
+• 月视图和周视图  
   
-## Subscriptions and Free Trial  
+## 订阅与免费试用  
   
-• Subscriptions to 节假日 Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+• 节假日 Pro 订阅**会自动续订**，除非在当前周期结束前**至少 24 小时**取消  
+• 付款会从购买时所用的 Apple ID 账户中扣除  
+• 若提供**免费试用期**，除非提前 24 小时取消，试用结束后将自动开始付费订阅  
+• 订阅管理和取消需在您的 App Store 账户设置中完成  
+• **价格可能因地区、购买日期等因素有所不同**。价格未来可能调整，届时会在自动续订前通知您，以便决定是否继续  
   
-## Family Sharing  
+## 家庭共享  
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+如果您加入了 iCloud 家庭共享，并在 App Store 账户中启用此选项，可能可以与家人共享订阅。此功能取决于您的系统和个人设置。  
   
-## Updates  
+## 更新  
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+应用可能会定期发布更新，以改进性能、修复错误或添加新功能，恕不另行通知。  
   
-## Feedback and Suggestions  
+## 反馈与建议  
   
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
+您提交的任何建议、评论或想法都可能用于改进应用，无需支付任何报酬或标注。  
   
-## Intellectual Property  
+## 知识产权  
   
-All content, interfaces, graphics, source code, and features of 节假日 are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
+除非另有说明，节假日的所有内容、界面、图形、源代码及功能均为开发者专有。使用本应用不授予用户任何知识产权。  
   
-## Technical Restrictions  
+## 技术限制  
   
-You are prohibited from:  
+严禁以下行为：  
   
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
+• 未经授权销售、分发、托管或商业化利用本应用  
+• 将应用复制或用于个人、非商业用途之外的目的  
+• 修改、反编译、逆向工程或试图访问源代码  
+• 使用自动化脚本或其他未经授权的方法与应用交互  
+• 向技术支持发送推广、辱骂或无意义的信息  
+• 故意发送缺失或篡改的信息  
+• 发送邮件后故意忽略开发者的回复  
+• 在修改过的设备上使用应用，影响其正常运行（如越狱设备、非官方环境、第三方应用商店）  
+• 使用破坏应用内购系统或其他功能的工具  
   
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
+**上述列表并不穷尽。** 如若存在危及应用安全、完整性或目的的行为，我保留部分或全部阻止访问的权利。  
   
-## Disclaimer  
+## 免责声明  
   
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
+使用本应用需自担风险。**开发者（Lucas Di Tomase）和应用均不保证内容的持续可用性或绝对准确性，对基于提供信息所做的决定不承担责任。**  
   
-## Privacy  
+## 隐私  
   
-节假日 does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy).  
+节假日不会收集个人数据，也不使用第三方服务进行分析或广告。更多详情请参阅[隐私政策](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy)。  
   
-## Contact  
+## 联系方式  
   
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+如有疑问、需要支持或有建议，欢迎访问[讨论区](https://github.com/lucasditomase/feriados/discussions)。  
   
-**节假日 is a personal project. If you reach out, I will personally read your message.**  
+**节假日是个人项目。如果你联系我，我会亲自阅读你的消息。**  
