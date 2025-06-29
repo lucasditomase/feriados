@@ -1,54 +1,54 @@
-[![Свята App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
-  
-# Свята  
-  
-Свята: your free time, well spent.  
-  
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Свята helps you plan getaways, vacations or simply enjoy your weekends more.  
-  
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
-  
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
-  
-## Main Features (Free)  
-  
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
-  
-## Advanced Features with Свята Pro  
-  
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
-  
-**Свята Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
-  
-## Privacy Policy and Terms  
-  
-• [Privacy Policy](https://lucasditomase.github.io/feriados/uk/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/uk/terms-and-conditions)  
-  
-## Support  
-  
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
-  
----  
-  
-*Свята is a personal project. Thank you for supporting independent development.*  
-  
-<p align="left">  
-  <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
-  </a>  
-</p>  
+[![Свята App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+
+# Свята
+
+Свята: ваш вільний час, проведений з користю.
+
+Найпростіший, найзрозуміліший і найпотужніший спосіб переглядати свята Аргентини.
+З сучасним дизайном та щоденними функціями Свята допомагає планувати поїздки, відпустки чи просто більше насолоджуватися вихідними.
+
+Дізнавайтесь за кілька секунд, коли буде наступне свято, переглядайте повний календар та фільтруйте неробочі дні відповідно до ваших інтересів, переконань чи стилю життя.
+
+Ідеально підходить для студентів, працівників, сімей та всіх, хто хоче максимально використовувати вихідні.
+
+## Основні можливості (безкоштовно)
+
+• Зворотний відлік до наступного свята
+• Повний календар: національні, туристичні та релігійні свята
+• Фільтри за типом: фіксовані, перехідні, туристичні або неробочі дні
+• Пошук за назвою або причиною свята
+• Можливість приховувати минулі свята
+• Щотижневий огляд для перегляду найближчих свят
+• Сучасний, зрозумілий інтерфейс, що адаптується до будь-яких пристроїв
+
+## Розширені можливості зі Свята Pro
+
+• Додавання свят до особистого календаря
+• Отримання сповіщень перед кожним святом
+• Фільтри за спільнотою (мусульманською, єврейською, вірменською)
+• Детальна статистика та інтерактивні графіки
+• Місячні порівняння свят
+• Відображення довгих вихідних
+• Розширений пошук за днем тижня або місяцем
+• Детальний перегляд календаря по місяцях і тижнях
+
+**Свята Pro** містить безкоштовний пробний період. Скасуйте принаймні за 24 години до його завершення, якщо не хочете, щоб з вас стягнули оплату.
+
+## Політика конфіденційності та умови
+
+• [Політика конфіденційності](https://lucasditomase.github.io/feriados/uk/privacy-policy)
+• [Умови використання](https://lucasditomase.github.io/feriados/uk/terms-and-conditions)
+
+## Підтримка
+
+Якщо у вас є запитання, пропозиції або ви хочете приєднатися до спільноти, сміливо починайте [обговорення](https://github.com/lucasditomase/feriados/discussions).
+
+---
+
+*Свята — це особистий проєкт. Дякую за підтримку незалежної розробки.*
+
+<p align="left">
+  <a href="https://apps.apple.com/app/id6744455042">
+    <img src="images/download-badge.svg" alt="Завантажити в App Store" height="60">
+  </a>
+</p>
