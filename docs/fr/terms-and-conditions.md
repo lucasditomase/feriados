@@ -75,7 +75,7 @@ L'utilisation de l'application se fait à vos risques et périls. **Ni le dével
 
 ## Confidentialité
 
-Holidays ne collecte pas de données personnelles et n'utilise pas de services tiers pour l'analyse ou la publicité. Pour plus de détails, veuillez consulter la [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/politique-de-confidentialite).
+Holidays ne collecte pas de données personnelles et n'utilise pas de services tiers pour l'analyse ou la publicité. Pour plus de détails, veuillez consulter la [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/privacy-policy).
 
 ## Contact
 

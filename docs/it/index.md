@@ -31,8 +31,8 @@ Perfetta per pianificare i ponti, organizzare le vacanze o semplicemente sfrutta
 
 ## Informativa sulla privacy e termini
 
-• [Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/informativa-sulla-privacy)  
-• [Termini e condizioni](https://lucasditomase.github.io/feriados/it/termini-e-condizioni)  
+• [Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/privacy-policy)
+• [Termini e condizioni](https://lucasditomase.github.io/feriados/it/terms-and-conditions)
 
 ## Supporto
 

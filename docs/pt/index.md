@@ -31,8 +31,8 @@ Perfeito para planejar feriados prolongados, organizar férias ou simplesmente a
 
 ## Política de privacidade e termos
 
-• [Política de privacidade](https://lucasditomase.github.io/feriados/pt/politica-de-privacidade)  
-• [Termos e condições](https://lucasditomase.github.io/feriados/pt/termos-e-condicoes)  
+• [Política de privacidade](https://lucasditomase.github.io/feriados/pt/privacy-policy)
+• [Termos e condições](https://lucasditomase.github.io/feriados/pt/terms-and-conditions)
 
 ## Suporte
 
