@@ -1,54 +1,54 @@
-# Support for العطلات  
-  
-Thank you for using العطلات. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20العطلات%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with العطلات Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, العطلات Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does العطلات Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-العطلات allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. العطلات does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does العطلات Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** العطلات is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# الدعم لـ العطلات
+
+شكراً لاستخدامك العطلات. إذا وجدت أخطاء أو كانت لديك أسئلة أو اقتراحات لتحسين التطبيق، يمكنك التواصل معي أو المشاركة في هذا المستودع.
+هذا مشروع شخصي، لذا أي ملاحظات أو مساهمات محل تقدير كبير.
+
+## الإبلاغ عن مشكلة
+
+يمكنك فتح "issue" في هذا المستودع تصف فيه المشكلة والخطوات اللازمة لإعادة إنتاجها. إذا أمكن، أرفق صورة للشاشة.
+
+[إنشاء Issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20العطلات%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+يمكنك أيضاً مراسلتي عبر البريد إذا كنت تفضّل عدم استخدام GitHub. في التطبيق، ضمن قسم "مزيد من المعلومات" ستجد خياراً لإرسال بريد إلكتروني يتضمّن جميع التفاصيل التقنية (طراز الجهاز، اللغة، إصدار النظام، إلخ).
+
+## الأسئلة الشائعة
+
+**هل يمكنني إضافة العطلات إلى تقويمي؟**
+نعم، مع العطلات Pro يمكنك إضافة أي عطلة مباشرة إلى تقويمك الشخصي.
+
+**هل يمكنني ضبط تذكيرات للعطلات؟**
+نعم، يتيح لك العطلات Pro إنشاء تذكيرات لتصلك إشعارات قبل كل عطلة.
+
+**ماذا تتضمن النسخة المجانية؟**
+تشمل التقويم الكامل للعطلات الوطنية والسياحية والدينية، وأجندة أسبوعية، وفلاتر أساسية حسب نوع العطلة.
+
+**ما المزايا الإضافية في العطلات Pro؟**
+تشمل التذكيرات، إضافة العطلات إلى التقويم، إحصائيات مقارنة، فلاتر المجتمع، البحث المتقدم، وواجهات التقويم المحسنة.
+
+**لماذا توجد عطلات دينية؟**
+يتيح العطلات فلترة العطلات حسب المجتمع (مسلم، يهودي، أرمني) بحيث يتمكن كل مستخدم من مشاهدة التواريخ ذات الصلة بحسب تفضيلاته.
+
+**هل يتم تحديث العطلات دائماً؟**
+المعلومات مأخوذة من مصادر رسمية عامة ويتم تحديثها بانتظام، إلا أنه قد تحدث تغييرات غير متوقعة بسبب قرارات حكومية أو أخطاء بشرية.
+
+**هل يجمع التطبيق بيانات شخصية؟**
+كلا. لا يقوم العطلات بتخزين أو إرسال أي بيانات للمستخدم؛ فكل العمليات تتم محلياً على جهازك.
+
+**ماذا يحدث إذا أرسلت بريداً من التطبيق؟**
+ستقوم بمشاركة عنوان بريدك والاسم المسجل في حسابك. تُستخدم هذه المعلومات فقط للرد على رسالتك. **لن يتم مشاركتها أو بيعها تحت أي ظرف.**
+
+**كيف يعمل العطلات Pro؟**
+هو اشتراك اختياري يمكنك تفعيله أو إلغاؤه من حسابك في App Store. يتضمن ميزات متقدمة مثل التذكيرات، تكامل التقويم، الإحصائيات، فلاتر المجتمع، البحث المتقدم، مقارنة العطلات، وعرض التقويم المحسّن.
+
+**هل يوجد فترة تجريبية مجانية؟**
+نعم، تشمل الخطتان الشهرية والسنوية فترة تجريبية مجانية. **مهم:** تذكّر إلغاء الاشتراك *قبل 24 ساعة على الأقل من نهاية الفترة التجريبية* إذا كنت لا ترغب في الدفع.
+
+**هل يمكن مشاركة اشتراكي مع عائلتي؟**
+نعم، من خلال ميزة Apple Family Sharing ودون أي تكلفة إضافية، بشرط تفعيلها في حسابك على App Store.
+
+## التواصل
+
+إذا أردت التواصل مباشرة أو ترك تعليق عام، يمكنك الانضمام إلى قسم [المناقشات](https://github.com/lucasditomase/feriados/discussions).
+
+**لن يضيع رسالتك.** العطلات مشروع شخصي، لذلك أقرأ شخصياً جميع الرسائل والاقتراحات.
+كما أن عنوان بريدك يُستخدم فقط للرد على استفسارك.

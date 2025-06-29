@@ -1,54 +1,54 @@
-[![العطلات App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
-  
-# العطلات  
-  
-العطلات: your free time, well spent.  
-  
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, العطلات helps you plan getaways, vacations or simply enjoy your weekends more.  
-  
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
-  
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
-  
-## Main Features (Free)  
-  
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
-  
-## Advanced Features with العطلات Pro  
-  
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
-  
-**العطلات Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
-  
-## Privacy Policy and Terms  
-  
-• [Privacy Policy](https://lucasditomase.github.io/feriados/ar/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/ar/terms-and-conditions)  
-  
-## Support  
-  
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
-  
----  
-  
-*العطلات is a personal project. Thank you for supporting independent development.*  
-  
-<p align="left">  
-  <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
-  </a>  
-</p>  
+[![العطلات App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+
+# العطلات
+
+العطلات: وقت فراغك مستغلّ بأفضل شكل.
+
+أسهل وأوضح وأقوى طريقة للاطلاع على العطلات في الأرجنتين.
+بفضل تصميم عصري ووظائف يومية، تساعدك العطلات على التخطيط للرحلات والإجازات أو ببساطة الاستمتاع أكثر بعطلات نهاية الأسبوع.
+
+تحقق خلال ثوانٍ من موعد العطلة التالية، واستكشف التقويم الكامل وفلتر الأيام غير العمل وفقاً لاهتماماتك أو معتقداتك أو أسلوب حياتك.
+
+مثالي للطلاب والعاملين والعائلات وكل من يرغب في استغلال أيام العطلة لأقصى حد.
+
+## الميزات الرئيسية (مجاناً)
+
+• عدّ تنازلي حتى العطلة التالية
+• تقويم كامل: العطلات الوطنية والسياحية والدينية
+• فلاتر حسب النوع: ثابتة، متحركة، سياحية أو أيام غير عمل
+• البحث حسب اسم العطلة أو سببها
+• خيار لإخفاء العطلات الماضية
+• أجندة أسبوعية لعرض العطلات القريبة
+• واجهة عصرية وواضحة قابلة للتكيّف مع جميع الأجهزة
+
+## ميزات متقدمة مع العطلات Pro
+
+• إضافة العطلات إلى تقويمك الشخصي
+• الحصول على إشعارات قبل كل عطلة
+• فلاتر حسب المجتمع (مسلم، يهودي، أرمني)
+• إحصائيات مفصّلة ورسوم بيانية تفاعلية
+• مقارنات شهرية للعطلات
+• عرض فترات عطلة نهاية الأسبوع الطويلة
+• بحث متقدم بحسب يوم الأسبوع أو الشهر
+• عرض تقويم شهري وأسبوعي مفصل
+
+**العطلات Pro** يتضمن فترة تجريبية مجانية. ألغِ الاشتراك قبل 24 ساعة على الأقل من انتهائها إذا كنت لا ترغب في الدفع.
+
+## سياسة الخصوصية والشروط
+
+• [سياسة الخصوصية](https://lucasditomase.github.io/feriados/ar/privacy-policy)
+• [الشروط والأحكام](https://lucasditomase.github.io/feriados/ar/terms-and-conditions)
+
+## الدعم
+
+إذا كانت لديك أسئلة أو اقتراحات أو كنت ترغب في الانضمام إلى المجتمع، لا تتردد في بدء [نقاش](https://github.com/lucasditomase/feriados/discussions).
+
+---
+
+*العطلات مشروع شخصي. شكراً لدعمك التطوير المستقل.*
+
+<p align="left">
+  <a href="https://apps.apple.com/app/id6744455042">
+    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">
+  </a>
+</p>
