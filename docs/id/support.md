@@ -1,54 +1,54 @@
-# Support for Libur  
-  
-Thank you for using Libur. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Libur%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with Libur Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, Libur Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does Libur Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-Libur allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. Libur does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does Libur Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** Libur is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# Dukungan untuk Libur
+
+Terima kasih telah menggunakan Libur. Jika kamu menemukan bug, memiliki pertanyaan, atau ingin memberi saran perbaikan, silakan hubungi saya atau berpartisipasi di repositori ini.
+Ini adalah proyek pribadi, jadi setiap masukan atau kontribusi sangat dihargai.
+
+## Laporkan Masalah
+
+Kamu dapat membuka issue di repositori ini dengan menjelaskan masalah dan langkah-langkah untuk mereproduksinya. Jika memungkinkan, sertakan tangkapan layar.
+
+[Ajukan issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Libur%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+Kamu juga bisa menghubungi saya lewat email jika tidak ingin menggunakan GitHub. Di dalam aplikasi, pada bagian "Info Lainnya", ada opsi untuk mengirim email dengan semua detail teknis (model perangkat, bahasa, versi OS, dll.) sudah terlampir.
+
+## Pertanyaan yang Sering Diajukan
+
+**Bisakah saya menambahkan hari libur ke kalender?**
+Ya, dengan Libur Pro kamu dapat menambahkan hari libur langsung ke kalender pribadimu.
+
+**Bisakah saya mengatur pengingat untuk hari libur?**
+Ya, Libur Pro memungkinkanmu membuat pengingat agar diberi notifikasi sebelum setiap libur.
+
+**Apa saja yang disertakan dalam versi gratis?**
+Versi gratis mencakup kalender lengkap hari libur nasional, wisata, dan keagamaan, agenda mingguan, serta filter dasar berdasarkan jenis hari libur.
+
+**Fitur tambahan apa yang ada di Libur Pro?**
+Fitur tambahan meliputi pengingat, penambahan libur ke kalender, statistik perbandingan, filter komunitas, pencarian lanjutan, dan tampilan kalender yang lebih lengkap.
+
+**Mengapa ada hari libur keagamaan?**
+Libur memungkinkan penyaringan berdasarkan komunitas (Muslim, Yahudi, Armenia) sehingga setiap pengguna dapat melihat tanggal yang relevan sesuai preferensi mereka.
+
+**Apakah hari libur selalu diperbarui?**
+Informasi berasal dari sumber resmi dan diperbarui secara berkala. Namun, perubahan tak terduga dapat terjadi karena keputusan pemerintah atau kesalahan manusia.
+
+**Apakah aplikasi mengumpulkan data pribadi?**
+Tidak. Libur tidak menyimpan atau mengirimkan data pengguna apa pun. Semua aktivitas berlangsung secara lokal di perangkatmu.
+
+**Apa yang terjadi jika saya mengirim email dari aplikasi?**
+Kamu akan membagikan alamat email dan nama yang tertera di akunmu. Informasi ini hanya digunakan untuk menjawab pesanmu. **Tidak pernah dibagikan atau dijual dalam keadaan apa pun.**
+
+**Bagaimana cara kerja Libur Pro?**
+Ini adalah langganan opsional yang dapat kamu aktifkan atau batalkan melalui akun App Store-mu. Fitur-fitur canggihnya mencakup pengingat, integrasi kalender, statistik, filter komunitas, pencarian lanjutan, perbandingan hari libur, dan tampilan kalender yang ditingkatkan.
+
+**Apakah ada uji coba gratis?**
+Ya. Paket bulanan maupun tahunan menyertakan uji coba gratis. **Penting:** ingat untuk membatalkan *setidaknya 24 jam sebelum uji coba berakhir* jika tidak ingin dikenakan biaya.
+
+**Bisakah saya berbagi langganan dengan keluarga?**
+Bisa, melalui Apple Family Sharing tanpa biaya tambahan, selama sudah dikonfigurasi dengan benar di akun App Store-mu.
+
+## Kontak
+
+Jika kamu ingin menghubungi langsung atau meninggalkan komentar publik, bergabunglah di bagian [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**Pesanmu tidak akan hilang.** Libur adalah proyek pribadi, jadi saya membaca sendiri semua pesan dan saran.
+Selain itu, alamat emailmu hanya digunakan untuk menanggapi pertanyaan.

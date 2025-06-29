@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **Libur**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-Libur is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-Libur offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **Libur Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to Libur Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of Libur are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-Libur does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/id/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Libur is a personal project. If you reach out, I will personally read your message.**  
+# Syarat dan Ketentuan Penggunaan
+
+**Pembaruan terakhir: Mei 2025**
+
+*Dengan mengunduh atau menggunakan aplikasi ini, kamu menyetujui syarat-syarat berikut.*
+
+Syarat ini mengatur penggunaan **Libur**, aplikasi iOS yang dikembangkan oleh **Lucas Di Tomase** untuk menampilkan hari libur resmi di Argentina. Kamu diberikan **lisensi terbatas, non-eksklusif, tidak dapat dipindahtangankan, dan dapat dicabut** untuk menggunakan aplikasi ini secara pribadi.
+
+## Penggunaan Aplikasi
+
+Libur ditujukan hanya untuk **penggunaan pribadi dan nonkomersial**. Aplikasi tidak boleh digunakan untuk mendapat keuntungan, dijual kembali, atau sebagai bagian dari produk atau layanan lain.
+
+## Konten
+
+Informasi yang ditampilkan berasal dari sumber publik dan dapat berubah. Walaupun diperbarui secara berkala, **akurasi, kelengkapan, atau ketepatan waktunya tidak dapat dijamin**.
+
+## Fitur dan Langganan
+
+Libur menawarkan fitur dasar secara gratis, antara lain:
+
+• Menampilkan hari libur nasional, wisata, dan keagamaan
+• Penyaringan berdasarkan jenis hari libur
+• Agenda mingguan untuk libur yang akan datang
+• Pencarian berdasarkan nama atau alasan
+
+Fitur lanjutan tersedia melalui langganan **Libur Pro**, yang mencakup:
+
+• Filter khusus komunitas (Muslim, Yahudi, Armenia)
+• Menambahkan hari libur ke kalender pribadimu
+• Mengatur pengingat otomatis
+• Statistik dan perbandingan visual
+• Visualisasi akhir pekan panjang
+• Pencarian lanjutan berdasarkan hari dalam minggu atau bulan
+• Tampilan kalender bulanan dan mingguan
+
+## Langganan dan Uji Coba Gratis
+
+• Langganan Libur Pro **diperpanjang otomatis** kecuali dibatalkan minimal **24 jam sebelum** akhir periode berjalan
+• Pembayaran dibebankan ke akun Apple ID yang digunakan untuk pembelian
+• Jika tersedia **periode uji coba gratis**, langganan akan dimulai otomatis setelah uji coba berakhir kecuali dibatalkan setidaknya 24 jam sebelumnya
+• Pengelolaan dan pembatalan langganan harus dilakukan melalui pengaturan akun App Store
+• **Harga dapat berbeda tergantung wilayah, tanggal pembelian, dan kondisi lain yang ditetapkan Apple atau saya sebagai pengembang.** Harga dapat diperbarui di masa mendatang; kamu akan diberi tahu sebelum perpanjangan otomatis sehingga dapat memutuskan untuk melanjutkan atau tidak
+
+## Berbagi Keluarga
+
+Jika kamu bagian dari grup Keluarga iCloud, kamu dapat membagikan langganan dengan anggota lain selama opsi ini diaktifkan dan dikonfigurasi di akun App Store-mu. Fitur ini tergantung pada sistem operasi dan pengaturan akun masing-masing.
+
+## Pembaruan
+
+Aplikasi dapat menerima pembaruan berkala berupa peningkatan performa, perbaikan bug, atau fitur baru tanpa pemberitahuan sebelumnya.
+
+## Umpan Balik dan Saran
+
+Setiap saran, komentar, atau ide yang kamu kirimkan dapat digunakan untuk meningkatkan aplikasi tanpa kewajiban kompensasi atau penyebutan.
+
+## Hak Kekayaan Intelektual
+
+Seluruh konten, antarmuka, grafis, kode sumber, dan fitur Libur adalah milik eksklusif pengembang kecuali dinyatakan lain. Tidak ada hak kekayaan intelektual yang diberikan kepada pengguna melalui penggunaan aplikasi ini.
+
+## Pembatasan Teknis
+
+Kamu dilarang:
+
+• Menjual, mendistribusikan, menjadi host, atau memanfaatkan aplikasi secara komersial tanpa izin
+• Menyalin atau menggunakan aplikasi untuk tujuan selain penggunaan pribadi dan nonkomersial
+• Memodifikasi, mendekompilasi, melakukan rekayasa balik, atau mencoba mengakses kode sumber
+• Menggunakan otomatisasi, skrip, atau metode tidak sah lainnya untuk berinteraksi dengan aplikasi
+• Mengirim spam ke dukungan teknis dengan pesan promosi, kasar, atau tidak bermakna
+• Mengirim pesan dengan informasi yang sengaja hilang atau diubah
+• Mengirim email ke dukungan teknis lalu mengabaikan balasannya
+• Menggunakan aplikasi pada perangkat yang telah dimodifikasi sehingga memengaruhi fungsi normal aplikasi (misalnya perangkat jailbreak, lingkungan tidak resmi, penggunaan toko aplikasi pihak ketiga)
+• Menggunakan alat yang mengubah sistem pembelian dalam aplikasi atau fitur lainnya
+
+**Daftar ini tidak mencakup semua hal.** Kasus lain juga dapat menyebabkan pembatasan jika mengancam keamanan, integritas, atau tujuan aplikasi. **Saya berhak memblokir akses ke aplikasi, baik sebagian maupun seluruhnya, jika terdeteksi penyalahgunaan.**
+
+## Penafian
+
+Penggunaan aplikasi sepenuhnya menjadi risiko pengguna. **Pengembang (Lucas Di Tomase) maupun aplikasi tidak menjamin ketersediaan terus-menerus atau keakuratan mutlak konten dan tidak bertanggung jawab atas keputusan yang dibuat berdasarkan informasi yang diberikan.**
+
+## Privasi
+
+Libur tidak mengumpulkan data pribadi atau menggunakan layanan pihak ketiga untuk analitik atau iklan. Untuk detail lebih lanjut, silakan baca [Kebijakan Privasi](https://lucasditomase.github.io/feriados/id/privacy-policy).
+
+## Kontak
+
+Untuk pertanyaan, dukungan, atau saran, kunjungi bagian [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**Libur adalah proyek pribadi. Jika kamu menghubungi, saya sendiri yang akan membaca pesanmu.**
