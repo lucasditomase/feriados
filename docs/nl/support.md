@@ -1,54 +1,54 @@
-# Support for Feestdagen  
+# Ondersteuning voor Feestdagen
   
-Thank you for using Feestdagen. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+Bedankt dat je Feestdagen gebruikt. Als je fouten vindt, vragen hebt of verbeteringen wilt voorstellen, neem gerust contact op of werk mee aan deze repository.
+Dit is een persoonlijk project, dus alle feedback of bijdragen worden zeer gewaardeerd.
   
-## Report a Problem  
+## Een probleem melden
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+Je kunt een issue openen in deze repository waarin je het probleem en de stappen om het te reproduceren beschrijft. Voeg indien mogelijk een screenshot toe.
   
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Feestdagen%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
+[Een issue aanmaken](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Feestdagen%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+Je kunt ook contact opnemen per e-mail als je GitHub liever niet gebruikt. In de app staat onder "Meer informatie" een optie om een e-mail te sturen met alle technische details (apparaatmodel, taal, iOS-versie, enz.) al ingevuld.
   
-## Frequently Asked Questions  
+## Veelgestelde vragen
   
-**Can I add holidays to my calendar?**  
-Yes, with Feestdagen Pro you can add any holiday directly to your personal calendar.  
+**Kan ik feestdagen aan mijn agenda toevoegen?**
+Ja, met Feestdagen Pro kun je elke feestdag direct aan je persoonlijke agenda toevoegen.
   
-**Can I set reminders for holidays?**  
-Yes, Feestdagen Pro lets you create reminders to get notified before each holiday.  
+**Kan ik herinneringen instellen voor feestdagen?**
+Ja, met Feestdagen Pro kun je meldingen aanmaken zodat je vóór elke feestdag een bericht krijgt.
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**Wat bevat de gratis versie?**
+Deze omvat de volledige kalender van nationale, toeristische en religieuze feestdagen, een wekelijkse agenda en basisfilters per type feestdag.
   
-**What extra features does Feestdagen Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**Welke extra functies biedt Feestdagen Pro?**
+Deze bevat meldingen, het toevoegen van feestdagen aan je agenda, vergelijkende statistieken, communityfilters, geavanceerd zoeken en uitgebreide agendaweergaven.
   
-**Why are there religious holidays?**  
-Feestdagen allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**Waarom staan er religieuze feestdagen in?**
+Feestdagen laat filteren per gemeenschap (moslim, joods, Armeens) zodat elke gebruiker relevante data kan zien op basis van zijn voorkeuren.
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**Zijn de feestdagen altijd actueel?**
+De informatie komt uit officiële openbare bronnen en wordt regelmatig bijgewerkt. Onvoorziene wijzigingen kunnen echter optreden door overheidsbesluiten of menselijke fouten.
   
-**Does the app collect personal data?**  
-No. Feestdagen does not store or transmit any user data. All activity happens locally on your device.  
+**Verzamelt de app persoonlijke gegevens?**
+Nee. Feestdagen slaat geen gebruikersgegevens op en verstuurt deze niet. Alle activiteit gebeurt lokaal op je apparaat.
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**Wat gebeurt er als ik een e-mail vanuit de app stuur?**
+Je deelt dan je e-mailadres en de naam die in je account is ingesteld. Deze gegevens worden alleen gebruikt om op je bericht te reageren. **Ze worden onder geen beding gedeeld of verkocht.**
   
-**How does Feestdagen Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
+**Hoe werkt Feestdagen Pro?**
+Het is een optioneel abonnement dat je kunt activeren of opzeggen via je App Store-account. Het biedt functies zoals meldingen, agendakoppeling, statistieken, communityfilters, geavanceerd zoeken, vergelijking van feestdagen en verbeterde agendaweergaven.
   
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
+**Is er een gratis proefperiode?**
+Ja. Zowel de maand- als jaarabonnementen bevatten een gratis proefperiode. **Belangrijk:** vergeet niet *minstens 24 uur van tevoren te annuleren* als je geen kosten wilt.
   
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
+**Kan ik mijn abonnement delen met mijn gezin?**
+Ja, via Apple Family Sharing en zonder extra kosten, mits dit correct is ingesteld in je App Store-account.
   
-## Contact  
+## Contact
   
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
+Wil je direct contact opnemen of een openbaar bericht achterlaten? Doe mee in de [Discussions](https://github.com/lucasditomase/feriados/discussions)-sectie.
   
-**Your message won’t be lost.** Feestdagen is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+**Je bericht gaat niet verloren.** Feestdagen is een persoonlijk project, dus ik lees alle berichten en suggesties zelf.
+Bovendien wordt je e-mailadres alleen gebruikt om op je vraag te reageren.
