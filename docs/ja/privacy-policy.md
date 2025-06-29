@@ -1,42 +1,42 @@
-# Privacy Policy  
+# プライバシーポリシー
   
-**Last updated: May 2025**  
+**最終更新：2025年5月**
   
-**祝日 is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
+**祝日はあなたのプライバシーを尊重するアプリです：** *個人情報を収集・保存・共有しません。*
   
-## Data Collection  
+## データ収集
   
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
+このアプリが不要な権限を求めたり、機密データにアクセスしたりすることはありません。
+表示される情報（国民の祝日、観光関連、宗教関連の祝日）はすべて公開情報で、ユーザーのデバイスにローカル保存されます。
+
+祝日 Pro の追加機能である祝日統計や比較なども、すべてあなたのデバイス上で生成・処理され、外部サーバーへ送信・保存されることはありません。
   
-The additional features in 祝日 Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
+## アプリ内購入と無料トライアル
   
-## In-App Purchases and Free Trial  
+本アプリでは App Store を通じてサブスクリプションを提供しています。支払い処理、無料トライアル、購読管理はすべて Apple により行われます。**祝日が個人情報、財務情報、請求情報にアクセスすることは一切ありません。**
+
+トライアル期間が提供されている場合、その期間中は祝日 Pro を無料で利用できます。**終了の少なくとも24時間前までに** App Store アカウントから購読をキャンセルしない限り、トライアル終了時に自動的に料金が請求されます。
   
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **祝日 does not access any personal, financial, or billing information at any time.**  
+## 任意の権限
   
-If a trial period is available, you may use 祝日 Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
+**通知：**
+祝日のリマインダーを有効にした場合にのみ使用されます。これらはデバイス上で生成されるローカル通知で、外部サーバーとの通信は行われません。設定からいつでも無効にできます。
+
+**カレンダー：**
+祝日をカレンダーに追加することを選択した場合、あなたの確認のもとで1件のイベントが保存されます。アプリが他のイベントを閲覧、読み取り、変更することは**できません**。
   
-## Optional Permissions  
+## サードパーティ
   
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
+祝日は分析、広告、データ保存のためのサードパーティサービスを一切利用しません。
   
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
+## メールでの連絡
   
-## Third Parties  
+メールで連絡を取る場合、あなたのメールアドレスと、アカウントに設定された名前（姓などの識別情報を含む場合があります）が送信されます。
+
+これらの情報はお問い合わせへの対応のみに使用されます。**第三者に共有されたり販売されたりすることは決してありません。**
   
-祝日 does not use any third-party services for analytics, advertising, or data storage.  
-  
-## Email Contact  
-  
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
-  
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
-  
-## Contact  
-  
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**祝日 is a personal project. All inquiries are read and appreciated.**  
+## お問い合わせ
+
+本ポリシーに関してご不明な点がある場合は、[Discussions](https://github.com/lucasditomase/feriados/discussions) セクションからお気軽にお問い合わせください。
+
+**祝日は個人プロジェクトです。いただいたご連絡はすべて拝読し、感謝しております。**

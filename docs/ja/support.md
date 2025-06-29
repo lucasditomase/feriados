@@ -1,54 +1,54 @@
-# Support for 祝日  
+# 祝日のサポート
+
+祝日をご利用いただきありがとうございます。バグの報告や質問、改善の提案がありましたら、遠慮なくご連絡いただくか、このリポジトリにご参加ください。
+これは個人プロジェクトのため、皆さまからのフィードバックや貢献は大変感謝しています。
   
-Thank you for using 祝日. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
+## 問題を報告する
+
+問題の内容と再現手順を記載した issue をこのリポジトリで作成できます。可能であればスクリーンショットを添付してください。
+
+[Issue を作成する](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20祝日%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
   
-## Report a Problem  
+GitHub を利用したくない場合はメールでの連絡も可能です。アプリの「詳細情報」セクションから、デバイスモデルや言語、OS バージョンなどの技術情報を含んだメールを送信できます。
   
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
+## よくある質問
   
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20祝日%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
+**祝日をカレンダーに追加できますか？**
+はい。祝日 Pro を使えば、任意の祝日を個人カレンダーに直接追加できます。
   
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
+**祝日のリマインダーを設定できますか？**
+はい、祝日 Pro では各祝日の前に通知を受け取るリマインダーを作成できます。
   
-## Frequently Asked Questions  
+**無料版には何が含まれていますか？**
+国民の祝日、観光関連、宗教関連を含む完全なカレンダー、週間アジェンダ、基本的な祝日タイプ別フィルターが利用できます。
   
-**Can I add holidays to my calendar?**  
-Yes, with 祝日 Pro you can add any holiday directly to your personal calendar.  
+**祝日 Pro にはどんな追加機能がありますか？**
+リマインダー、カレンダーへの追加、比較統計、コミュニティフィルター、高度な検索、強化されたカレンダー表示などが含まれます。
   
-**Can I set reminders for holidays?**  
-Yes, 祝日 Pro lets you create reminders to get notified before each holiday.  
+**宗教的な祝日があるのはなぜですか？**
+祝日ではコミュニティ（イスラム教、ユダヤ教、アルメニア）別にフィルタリングできるため、各ユーザーが自分の関心に応じた日付を確認できます。
   
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
+**祝日の情報は常に最新ですか？**
+情報は公式の公的な情報源から取得しており、定期的に更新しています。ただし、政府の決定や人為的なミスにより予期せぬ変更が生じる可能性があります。
   
-**What extra features does 祝日 Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
+**アプリは個人データを収集しますか？**
+いいえ。祝日がユーザーデータを保存したり送信したりすることはありません。すべての処理はデバイス上で行われます。
   
-**Why are there religious holidays?**  
-祝日 allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
+**アプリからメールを送るとどうなりますか？**
+あなたのメールアドレスとアカウント名が共有されます。これらの情報はご連絡への回答のみに使用され、**決して共有・販売されることはありません。**
   
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
+**祝日 Pro はどのように機能しますか？**
+App Store アカウントからいつでも有効化または解約できるオプションのサブスクリプションです。リマインダーやカレンダー連携、統計、コミュニティフィルター、高度な検索、祝日比較、改善されたカレンダー表示などの機能を利用できます。
   
-**Does the app collect personal data?**  
-No. 祝日 does not store or transmit any user data. All activity happens locally on your device.  
+**無料トライアルはありますか？**
+はい。月間プランと年間プランのどちらにも無料トライアルが含まれます。**重要：** 課金を避けるには、試用終了の少なくとも24時間前までに解約してください。
   
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
+**家族とサブスクリプションを共有できますか？**
+Apple ファミリー共有を使用すれば、正しく設定されていれば追加料金なしで共有できます。
   
-**How does 祝日 Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** 祝日 is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+## 連絡先
+
+直接連絡したい場合や公開コメントを残したい場合は、[Discussions](https://github.com/lucasditomase/feriados/discussions) セクションにご参加ください。
+
+**あなたのメッセージは必ず目を通します。** 祝日は個人プロジェクトのため、いただいたメッセージや提案はすべて私自身が読んでいます。
+また、メールアドレスはご質問への回答のみに使用されます。
