@@ -2,20 +2,20 @@
   
 **Letzte Aktualisierung: Mai 2025**  
   
-**Holidays ist eine App, die deine Privatsphäre respektiert:** *sie sammelt, speichert oder teilt keinerlei persönliche Nutzerdaten.*  
+**Feiertage ist eine App, die deine Privatsphäre respektiert:** *sie sammelt, speichert oder teilt keinerlei persönliche Nutzerdaten.*  
   
 ## Datenerfassung  
   
 Die App verlangt keine unnötigen Berechtigungen und greift nicht auf sensible Daten zu.  
 Alle angezeigten Informationen (nationale, touristische und religiöse Feiertage) sind öffentlich und werden lokal auf dem Gerät des Nutzers gespeichert.  
   
-Die zusätzlichen Funktionen von Holidays Pro, wie Feiertagsstatistiken und Vergleiche, werden lokal auf deinem Gerät erzeugt und verarbeitet. Es werden keine Daten an externe Server gesendet oder dort gespeichert.  
+Die zusätzlichen Funktionen von Feiertage Pro, wie Feiertagsstatistiken und Vergleiche, werden lokal auf deinem Gerät erzeugt und verarbeitet. Es werden keine Daten an externe Server gesendet oder dort gespeichert.  
   
 ## In-App-Käufe und kostenlose Testphase  
   
-Die App bietet Abonnements über den App Store an. Alle Zahlungen, Testphasen und die Verwaltung des Abonnements erfolgen ausschließlich über Apple. **Holidays hat zu keinem Zeitpunkt Zugriff auf persönliche, finanzielle oder Abrechnungsdaten.**  
+Die App bietet Abonnements über den App Store an. Alle Zahlungen, Testphasen und die Verwaltung des Abonnements erfolgen ausschließlich über Apple. **Feiertage hat zu keinem Zeitpunkt Zugriff auf persönliche, finanzielle oder Abrechnungsdaten.**  
   
-Wenn eine Testphase verfügbar ist, kannst du Holidays Pro während dieser Zeit kostenlos nutzen. Die Gebühren werden automatisch am Ende der Testphase berechnet, **sofern du das Abonnement nicht mindestens 24 Stunden vorher über dein App-Store-Konto kündigst.**  
+Wenn eine Testphase verfügbar ist, kannst du Feiertage Pro während dieser Zeit kostenlos nutzen. Die Gebühren werden automatisch am Ende der Testphase berechnet, **sofern du das Abonnement nicht mindestens 24 Stunden vorher über dein App-Store-Konto kündigst.**  
   
 ## Optionale Berechtigungen  
   
@@ -27,7 +27,7 @@ Wenn du einen Feiertag in deinen Kalender einfügst, wird ein einzelnes Ereignis
   
 ## Drittanbieter  
   
-Holidays verwendet keine Drittanbieterdienste für Analysen, Werbung oder Datenspeicherung.  
+Feiertage verwendet keine Drittanbieterdienste für Analysen, Werbung oder Datenspeicherung.  
   
 ## Kontakt per E-Mail  
   
@@ -39,4 +39,4 @@ Diese Daten werden ausschließlich verwendet, um auf deine Anfrage zu antworten.
   
 Wenn du Fragen zu dieser Richtlinie hast, schreib gern im Bereich [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Holidays ist ein Privatprojekt. Alle Anfragen werden gelesen und geschätzt.**  
+**Feiertage ist ein Privatprojekt. Alle Anfragen werden gelesen und geschätzt.**  

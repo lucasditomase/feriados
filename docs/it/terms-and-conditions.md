@@ -4,11 +4,11 @@
   
 *Scaricando o utilizzando l'app accetti questi termini.*  
   
-Questi termini regolano l'uso di **Holidays**, un'applicazione iOS sviluppata da **Lucas Di Tomase** per mostrare i giorni festivi ufficiali in Argentina. Ti viene concessa una **licenza limitata, non esclusiva, non trasferibile e revocabile** per utilizzare l'app a fini personali.  
+Questi termini regolano l'uso di **Festività**, un'applicazione iOS sviluppata da **Lucas Di Tomase** per mostrare i giorni festivi ufficiali in Argentina. Ti viene concessa una **licenza limitata, non esclusiva, non trasferibile e revocabile** per utilizzare l'app a fini personali.  
   
 ## Uso dell'app  
   
-Holidays è destinata esclusivamente a un **uso personale e non commerciale**. Non può essere utilizzata a scopo di lucro, rivenduta o incorporata in altri prodotti o servizi.  
+Festività è destinata esclusivamente a un **uso personale e non commerciale**. Non può essere utilizzata a scopo di lucro, rivenduta o incorporata in altri prodotti o servizi.  
   
 ## Contenuto  
   
@@ -16,14 +16,14 @@ Le informazioni visualizzate nell'app provengono da fonti pubbliche e possono su
   
 ## Funzioni e abbonamenti  
   
-Holidays offre gratuitamente funzioni di base, tra cui:  
+Festività offre gratuitamente funzioni di base, tra cui:  
   
 • Visualizzazione dei giorni festivi nazionali, turistici e religiosi  
 • Filtri per tipo di festività  
 • Agenda settimanale delle festività imminenti  
 • Ricerca per nome o motivo  
   
-Funzioni avanzate sono disponibili tramite un abbonamento chiamato **Holidays Pro**, che include:  
+Funzioni avanzate sono disponibili tramite un abbonamento chiamato **Festività Pro**, che include:  
   
 • Filtri per comunità specifiche (musulmana, ebraica, armena)  
 • Aggiunta dei festivi al tuo calendario personale  
@@ -35,7 +35,7 @@ Funzioni avanzate sono disponibili tramite un abbonamento chiamato **Holidays Pr
   
 ## Abbonamenti e prova gratuita  
   
-• Gli abbonamenti a Holidays Pro **si rinnovano automaticamente** a meno che non vengano cancellati **almeno 24 ore prima** della fine del periodo in corso  
+• Gli abbonamenti a Festività Pro **si rinnovano automaticamente** a meno che non vengano cancellati **almeno 24 ore prima** della fine del periodo in corso  
 • Il pagamento viene addebitato sull'ID Apple utilizzato per l'acquisto  
 • Se è prevista una **prova gratuita**, l'abbonamento inizierà automaticamente al termine della prova a meno che non venga cancellato con almeno 24 ore di anticipo  
 • La gestione e la cancellazione dell'abbonamento devono essere effettuate dalle impostazioni del tuo account App Store  
@@ -55,7 +55,7 @@ Qualsiasi suggerimento, commento o idea inviati potranno essere utilizzati per m
   
 ## Proprietà intellettuale  
   
-Tutti i contenuti, le interfacce, la grafica, il codice sorgente e le funzionalità di Holidays sono di esclusiva proprietà dello sviluppatore, salvo diversa indicazione. Nessun diritto di proprietà intellettuale viene concesso all'utente attraverso l'uso dell'app.  
+Tutti i contenuti, le interfacce, la grafica, il codice sorgente e le funzionalità di Festività sono di esclusiva proprietà dello sviluppatore, salvo diversa indicazione. Nessun diritto di proprietà intellettuale viene concesso all'utente attraverso l'uso dell'app.  
   
 ## Restrizioni tecniche  
   
@@ -79,10 +79,10 @@ L'uso dell'app avviene a tuo rischio. **Né lo sviluppatore (Lucas Di Tomase) n�
   
 ## Privacy  
   
-Holidays non raccoglie dati personali né utilizza servizi di terze parti per analisi o pubblicità. Per maggiori dettagli consulta l'[Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/privacy-policy).  
+Festività non raccoglie dati personali né utilizza servizi di terze parti per analisi o pubblicità. Per maggiori dettagli consulta l'[Informativa sulla privacy](https://lucasditomase.github.io/feriados/it/privacy-policy).  
   
 ## Contatto  
   
 Per domande, supporto o suggerimenti puoi visitare la sezione [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Holidays è un progetto personale. Se ci contatti, leggerò personalmente il tuo messaggio.**  
+**Festività è un progetto personale. Se ci contatti, leggerò personalmente il tuo messaggio.**  

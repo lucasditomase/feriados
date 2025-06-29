@@ -4,11 +4,11 @@
   
 *En téléchargeant ou en utilisant l'application, vous acceptez ces conditions.*  
   
-Ces conditions régissent l'utilisation de **Holidays**, une application iOS développée par **Lucas Di Tomase** pour afficher les jours fériés officiels d'Argentine. Vous disposez d'une **licence limitée, non exclusive, non transmissible et révocable** pour utiliser l'application à des fins personnelles.  
+Ces conditions régissent l'utilisation de **Jours Fériés**, une application iOS développée par **Lucas Di Tomase** pour afficher les jours fériés officiels d'Argentine. Vous disposez d'une **licence limitée, non exclusive, non transmissible et révocable** pour utiliser l'application à des fins personnelles.  
   
 ## Utilisation de l'application  
   
-Holidays est destinée à un **usage personnel et non commercial** uniquement. Elle ne peut pas être utilisée à des fins lucratives, revendue ou intégrée à un autre produit ou service.  
+Jours Fériés est destinée à un **usage personnel et non commercial** uniquement. Elle ne peut pas être utilisée à des fins lucratives, revendue ou intégrée à un autre produit ou service.  
   
 ## Contenu  
   
@@ -16,14 +16,14 @@ Les informations affichées dans l'application proviennent de sources publiques 
   
 ## Fonctionnalités et abonnements  
   
-Holidays offre gratuitement des fonctionnalités de base, notamment :  
+Jours Fériés offre gratuitement des fonctionnalités de base, notamment :  
   
 • Affichage des jours fériés nationaux, touristiques et religieux  
 • Filtres par type de férié  
 • Agenda hebdomadaire des fériés à venir  
 • Recherche par nom ou motif  
   
-Des fonctionnalités avancées sont disponibles via un abonnement appelé **Holidays Pro**, qui inclut :  
+Des fonctionnalités avancées sont disponibles via un abonnement appelé **Jours Fériés Pro**, qui inclut :  
   
 • Filtres par communauté spécifique (musulmane, juive, arménienne)  
 • Ajout des fériés à votre calendrier personnel  
@@ -35,7 +35,7 @@ Des fonctionnalités avancées sont disponibles via un abonnement appelé **Holi
   
 ## Abonnements et période d'essai  
   
-• Les abonnements à Holidays Pro **se renouvellent automatiquement** sauf annulation **au moins 24 heures avant** la fin de la période en cours  
+• Les abonnements à Jours Fériés Pro **se renouvellent automatiquement** sauf annulation **au moins 24 heures avant** la fin de la période en cours  
 • Le paiement est effectué via l'identifiant Apple utilisé pour l'achat  
 • Si une **période d'essai gratuite** est proposée, l'abonnement commencera automatiquement à la fin de celle-ci sauf annulation au moins 24 heures à l'avance  
 • La gestion et l'annulation de l'abonnement doivent être effectuées dans les réglages de votre compte App Store  
@@ -55,7 +55,7 @@ Toute suggestion, tout commentaire ou idée que vous soumettez pourra être util
   
 ## Propriété intellectuelle  
   
-Tout le contenu, les interfaces, les graphismes, le code source et les fonctionnalités de Holidays sont la propriété exclusive du développeur, sauf indication contraire. Aucun droit de propriété intellectuelle n'est accordé à l'utilisateur par l'usage de l'application.  
+Tout le contenu, les interfaces, les graphismes, le code source et les fonctionnalités de Jours Fériés sont la propriété exclusive du développeur, sauf indication contraire. Aucun droit de propriété intellectuelle n'est accordé à l'utilisateur par l'usage de l'application.  
   
 ## Restrictions techniques  
   
@@ -79,10 +79,10 @@ L'utilisation de l'application se fait à vos risques et périls. **Ni le dével
   
 ## Confidentialité  
   
-Holidays ne collecte pas de données personnelles et n'utilise pas de services tiers pour l'analyse ou la publicité. Pour plus de détails, veuillez consulter la [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/privacy-policy).  
+Jours Fériés ne collecte pas de données personnelles et n'utilise pas de services tiers pour l'analyse ou la publicité. Pour plus de détails, veuillez consulter la [Politique de confidentialité](https://lucasditomase.github.io/feriados/fr/privacy-policy).  
   
 ## Contact  
   
 Pour toute question, assistance ou suggestion, rendez-vous dans la section [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Holidays est un projet personnel. Si vous me contactez, je lirai personnellement votre message.**  
+**Jours Fériés est un projet personnel. Si vous me contactez, je lirai personnellement votre message.**  
