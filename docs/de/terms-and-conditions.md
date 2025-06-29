@@ -66,7 +66,7 @@ Es ist untersagt:
 • Die App zu modifizieren, zu dekompilieren, Reverse Engineering durchzuführen oder zu versuchen, den Quellcode zu erlangen  
 • Automatisierungen, Skripte oder andere nicht autorisierte Methoden zu verwenden, um mit der App zu interagieren  
 • Spam an den Support senden, zum Beispiel Werbenachrichten, beleidigende Nachrichten oder Nachrichten ohne Sinn  
-• Nachrichten mit fehlenden oder veränderten Informationen senden  
+• Nachrichten mit fehlenden oder veränderten Informationen absichtlich senden
 • Support-E-Mails schicken und anschließend die Antworten des Entwicklers ignorieren  
 • Die App auf einem Gerät verwenden, das so verändert wurde, dass die normale Funktionsweise beeinträchtigt wird (z. B. Jailbreak, nicht autorisierte Umgebungen, Nutzung von Drittanbieter-Stores)  
 • Tools verwenden, die das In-App-Kaufsystem oder andere Funktionen verändern  

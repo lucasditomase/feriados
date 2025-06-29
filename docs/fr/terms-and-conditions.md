@@ -66,7 +66,7 @@ Il est interdit :
 • De modifier, décompiler, faire de l'ingénierie inverse ou tenter d'accéder au code source  
 • D'utiliser des automatisations, scripts ou autres méthodes non autorisées pour interagir avec l'application  
 • Envoyer du spam au support technique, par exemple des messages promotionnels, abusifs ou dénués de sens  
-• Envoyer des messages contenant des informations manquantes ou modifiées  
+• Envoyer des messages contenant des informations manquantes ou modifiées de manière intentionnelle
 • Envoyer des courriels au support technique puis ignorer les réponses du développeur  
 • Utiliser l'application sur un appareil modifié de manière à affecter son fonctionnement normal (appareils jailbreakés, environnements non autorisés, utilisation de stores tiers)  
 • Utiliser des outils modifiant les achats intégrés ou toute autre fonctionnalité  
