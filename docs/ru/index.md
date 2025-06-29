@@ -1,54 +1,53 @@
-[![Праздники App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
-  
-# Праздники  
-  
-Праздники: your free time, well spent.  
-  
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, Праздники helps you plan getaways, vacations or simply enjoy your weekends more.  
-  
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
-  
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
-  
-## Main Features (Free)  
-  
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
-  
-## Advanced Features with Праздники Pro  
-  
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
-  
-**Праздники Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
-  
-## Privacy Policy and Terms  
-  
-• [Privacy Policy](https://lucasditomase.github.io/feriados/ru/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/ru/terms-and-conditions)  
-  
-## Support  
-  
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
-  
----  
-  
-*Праздники is a personal project. Thank you for supporting independent development.*  
-  
-<p align="left">  
-  <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
-  </a>  
-</p>  
+[![Праздники App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+
+# Праздники
+
+Праздники: ваше свободное время на пользу.
+
+Это самый простой, понятный и мощный способ узнать праздники Аргентины. Благодаря современному дизайну и функциям на каждый день «Праздники» помогает планировать поездки, отпуска или просто лучше проводить выходные.
+
+Узнайте за секунды, когда следующий праздничный день, просмотрите полный календарь и отфильтруйте нерабочие дни в соответствии с вашими интересами, убеждениями или стилем жизни.
+
+Идеально для студентов, работников, семей и всех, кто хочет максимально использовать свои выходные.
+
+## Основные возможности (бесплатно)
+
+• Обратный отсчёт до следующего праздника
+• Полный календарь: национальные, туристические и религиозные праздники
+• Фильтры по типу: фиксированные, переносимые, туристические или нерабочие дни
+• Поиск по названию или причине праздника
+• Возможность скрывать прошедшие праздники
+• Недельная повестка для просмотра ближайших праздников
+• Современный, понятный интерфейс, адаптируемый под любые устройства
+
+## Расширенные функции с Праздники Pro
+
+• Добавление праздников в личный календарь
+• Уведомления перед каждым праздником
+• Фильтры по общине (мусульманской, еврейской, армянской)
+• Подробная статистика и интерактивные графики
+• Сравнение праздников по месяцам
+• Отображение длинных выходных
+• Расширенный поиск по дню недели или месяцу
+• Детальный помесячный и понедельный просмотр календаря
+
+**Праздники Pro** включает бесплатный пробный период. Отмените подписку не позднее чем за 24 часа до его окончания, если не хотите получать начисления.
+
+## Политика конфиденциальности и условия
+
+• [Политика конфиденциальности](https://lucasditomase.github.io/feriados/ru/privacy-policy)
+• [Условия и положения](https://lucasditomase.github.io/feriados/ru/terms-and-conditions)
+
+## Поддержка
+
+Если у вас есть вопросы, предложения или вы хотите присоединиться к сообществу, смело [создавайте обсуждение](https://github.com/lucasditomase/feriados/discussions).
+
+---
+
+*«Праздники» — личный проект. Спасибо за поддержку независимой разработки.*
+
+<p align="left">
+  <a href="https://apps.apple.com/app/id6744455042">
+    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">
+  </a>
+</p>
