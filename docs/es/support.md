@@ -13,10 +13,7 @@ También podés escribirme por correo si preferís no usar GitHub. Desde la app,
 
 ## Preguntas frecuentes
 
-**¿Feriados necesita internet?**  
-No. Toda la información se guarda localmente en tu dispositivo.
-
-**¿Puedo agregar feriados a mi calendario?**  
+**¿Puedo agregar feriados a mi calendario?**
 Sí, con Feriados Pro podés agregar cualquier feriado directamente a tu calendario personal.
 
 **¿Feriados permite configurar recordatorios?**  

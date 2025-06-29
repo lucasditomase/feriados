@@ -13,9 +13,6 @@ Vous pouvez également me contacter par e-mail si vous préférez ne pas utilise
 
 ## Foire aux questions
 
-**Holidays nécessite-t-il une connexion internet ?**
-Non. Toutes les données sont enregistrées localement sur votre appareil.
-
 **Puis-je ajouter les fériés à mon calendrier ?**
 Oui, avec Holidays Pro vous pouvez ajouter n'importe quel férié directement à votre calendrier personnel.
 

@@ -13,10 +13,7 @@ You can also contact me by email if you prefer not to use GitHub. In the app, un
 
 ## Frequently Asked Questions
 
-**Does Holidays require an internet connection?**  
-No. All data is stored locally on your device.
-
-**Can I add holidays to my calendar?**  
+**Can I add holidays to my calendar?**
 Yes, with Holidays Pro you can add any holiday directly to your personal calendar.
 
 **Can I set reminders for holidays?**  
