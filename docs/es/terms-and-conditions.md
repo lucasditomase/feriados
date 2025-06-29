@@ -65,14 +65,13 @@ Está prohibido:
 • Copiar o usar la app para cualquier fin que no sea personal y no comercial.  
 • Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.  
 • Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.  
-• Enviar spam en el soporte técnico, por ejemplo mandar mensajes promocionales, abusivos o sin sentido.
-• Enviar mensajes con información faltante o modificada.
-• Mandar correos al soporte técnico y luego ignorar las respuestas del desarrollador.
+• Enviar spam en el soporte técnico, por ejemplo mandar mensajes promocionales, abusivos o sin sentido.  
+• Enviar mensajes con información faltante o modificada.  
+• Mandar correos al soporte técnico y luego ignorar las respuestas del desarrollador.  
 • Utilizar la app en un dispositivo modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas).  
 • Utilizar herramientas que alteren el sistema de compras o cualquier otra funcionalidad.  
 
-**Este listado no es exhaustivo.** Pueden existir otros casos que justifiquen restricciones de acceso si comprometen la seguridad, integridad o el propósito original de la app.
-**Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos o conductas abusivas.**
+**Este listado no es exhaustivo.** Pueden existir otros casos que justifiquen restricciones de acceso si comprometen la seguridad, integridad o el propósito original de la app. **Me reservo el derecho de bloquear el acceso a la app, total o parcialmente, si detecto usos indebidos o conductas abusivas.**
 
 ## Responsabilidad
 
