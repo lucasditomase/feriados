@@ -1,0 +1,36 @@
+name: Normalize Markdown Files
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+
+    - name: 🧪 Run normalization script in docs/
+      run: |
+        cd docs
+        chmod +x trim_and_add_spaces.sh
+        ./trim_and_add_spaces.sh
+
+    - name: 📤 Commit changes if needed
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        if [[ `git status --porcelain` ]]; then
+          git add .
+          git commit -m "🤖 Normalize Markdown: trim + add trailing spaces"
+          git push
+        else
+          echo "✅ No changes to commit."
+        fi
