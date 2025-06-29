@@ -1,6 +1,6 @@
 # Polityka prywatności  
   
-**Ostatnia aktualizacja: maj 2025**  
+**Ostatnia aktualizacja: czerwiec 2025**  
   
 **Święta to aplikacja, która szanuje Twoją prywatność:** *nie zbiera, nie przechowuje ani nie udostępnia żadnych danych osobowych użytkowników.*  
   
