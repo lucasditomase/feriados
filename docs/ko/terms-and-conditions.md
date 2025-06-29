@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **공휴일**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-공휴일 is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-공휴일 offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **공휴일 Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to 공휴일 Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of 공휴일 are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-공휴일 does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/ko/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**공휴일 is a personal project. If you reach out, I will personally read your message.**  
+# 이용약관
+
+**마지막 업데이트: 2025년 5월**
+
+*앱을 다운로드하거나 사용함으로써 이 약관에 동의하게 됩니다.*
+
+이 약관은 **Lucas Di Tomase**가 개발한 iOS 애플리케이션 **공휴일**의 사용에 관한 것입니다. 사용자는 개인적인 목적으로 앱을 사용할 수 있는 **제한적이고 비독점적이며 양도 불가능한 취소 가능한 라이선스**를 부여받습니다.
+
+## 앱 사용
+
+공휴일은 **개인적이고 비상업적인 용도**로만 사용할 수 있습니다. 수익 목적이나 재판매, 다른 제품이나 서비스의 일부로 이용할 수 없습니다.
+
+## 콘텐츠
+
+앱에서 제공되는 정보는 공개된 자료를 기반으로 하며 변경될 수 있습니다. 정기적으로 업데이트되지만 **정보의 정확성·완전성·적시성을 보장할 수는 없습니다.**
+
+## 기능 및 구독
+
+공휴일은 다음과 같은 기본 기능을 무료로 제공합니다:
+
+• 국가 공휴일, 관광 휴일, 종교 휴일 표시
+• 휴일 유형별 필터
+• 다가오는 휴일을 확인할 수 있는 주간 일정
+• 휴일 이름이나 사유로 검색
+
+고급 기능은 **공휴일 Pro**라는 구독을 통해 제공되며, 다음을 포함합니다:
+
+• 공동체별 필터(이슬람, 유대교, 아르메니아)
+• 휴일을 개인 캘린더에 추가
+• 자동 알림 설정
+• 시각적 통계 및 비교
+• 연휴 시각화
+• 요일이나 월별 고급 검색
+• 월간 및 주간 달력 보기
+
+## 구독 및 무료 체험
+
+• 공휴일 Pro 구독은 현재 기간이 끝나기 **24시간 이전**에 취소하지 않으면 **자동으로 갱신**됩니다
+• 결제는 구매에 사용한 Apple ID 계정으로 청구됩니다
+• **무료 체험 기간**이 제공될 경우, 종료 24시간 이전에 취소하지 않으면 체험 종료 후 자동으로 구독이 시작됩니다
+• 구독 관리와 취소는 App Store 계정 설정에서 하실 수 있습니다
+• **가격은 지역, 구매 시점 및 Apple 또는 개발자가 정한 기타 조건에 따라 달라질 수 있습니다.** 향후 가격이 변경될 경우 자동 갱신 전에 통지되며 계속 이용 여부를 선택할 수 있습니다.
+
+## 패밀리 공유
+
+iCloud 패밀리 공유 그룹에 속해 있고 App Store 계정에서 해당 옵션이 활성화되어 있다면 다른 구성원과 구독을 공유할 수 있습니다. 이 기능의 사용 가능 여부는 운영체제와 계정 설정에 따라 달라집니다.
+
+## 업데이트
+
+앱은 성능 향상, 버그 수정, 새로운 기능 추가 등을 위해 사전 고지 없이 주기적으로 업데이트될 수 있습니다.
+
+## 피드백 및 제안
+
+여러분이 보내주시는 제안이나 의견, 아이디어는 앱 개선을 위해 사용될 수 있으며 별도의 보상이나 표시 의무는 없습니다.
+
+## 지적 재산권
+
+별도의 명시가 없는 한, 공휴일의 모든 콘텐츠, 인터페이스, 그래픽, 소스 코드 및 기능은 개발자에게 독점적으로 귀속됩니다. 앱 사용을 통해 사용자에게 어떠한 지적 재산권도 부여되지 않습니다.
+
+## 기술적 제한
+
+다음과 같은 행위는 금지됩니다:
+
+• 허가 없이 앱을 판매, 배포, 호스팅하거나 상업적으로 이용하는 행위
+• 개인적이고 비상업적인 용도 외의 목적으로 앱을 복사하거나 사용하는 행위
+• 소스 코드를 수정, 디컴파일, 리버스 엔지니어링하거나 접근을 시도하는 행위
+• 자동화 도구나 스크립트 등 허가되지 않은 방법으로 앱과 상호작용하는 행위
+• 기술 지원에 광고성·모욕적·무의미한 메시지를 대량으로 보내는 행위
+• 의도적으로 정보가 누락되거나 변조된 메시지를 보내는 행위
+• 기술 지원에 이메일을 보낸 후 개발자의 응답을 무시하는 행위
+• 탈옥 등 앱의 정상 동작에 영향을 주는 방식으로 수정된 기기에서 앱을 사용하는 행위(비공식 환경, 서드파티 앱스토어 사용 등)
+• 인앱 결제 시스템이나 기타 기능을 변조하는 도구를 사용하는 행위
+
+**위 목록은 모든 경우를 포함하지 않습니다.** 앱의 보안, 무결성 또는 목적을 해치는 행위가 발견될 경우 다른 사례도 제한될 수 있습니다. **부적절한 사용이나 악용이 확인되면 앱의 접근을 부분적으로 또는 전체적으로 차단할 권리를 보유합니다.**
+
+## 면책 조항
+
+앱의 사용 책임은 사용자에게 있습니다. **개발자(Lucas Di Tomase)와 앱은 콘텐츠의 지속적인 제공이나 절대적인 정확성을 보장하지 않으며, 제공된 정보를 기반으로 한 결정에 대해 책임지지 않습니다.**
+
+## 개인정보
+
+공휴일은 개인 정보를 수집하지 않으며, 분석이나 광고를 위해 제3자 서비스를 사용하지 않습니다. 자세한 내용은 [개인정보 처리방침](https://lucasditomase.github.io/feriados/ko/privacy-policy)을 참조하세요.
+
+## 연락처
+
+문의나 지원, 제안이 있으시면 [Discussions](https://github.com/lucasditomase/feriados/discussions) 섹션을 방문해 주세요.
+
+**공휴일은 개인 프로젝트입니다. 연락을 주시면 직접 확인하고 답변드리겠습니다.**

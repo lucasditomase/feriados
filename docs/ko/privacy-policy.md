@@ -1,42 +1,42 @@
-# Privacy Policy  
-  
-**Last updated: May 2025**  
-  
-**공휴일 is an app that respects your privacy:** *it does not collect, store, or share any personal user information.*  
-  
-## Data Collection  
-  
-The app does not request unnecessary permissions or access sensitive data.  
-All the information displayed (national, tourism-related, and religious holidays) is public and stored locally on the user's device.  
-  
-The additional features in 공휴일 Pro, such as holiday statistics and comparisons, are generated and processed locally on your device. No information is sent to or stored on external servers.  
-  
-## In-App Purchases and Free Trial  
-  
-The app offers subscriptions via the App Store. All payment processing, free trials, and subscription management are handled exclusively by Apple. **공휴일 does not access any personal, financial, or billing information at any time.**  
-  
-If a trial period is available, you may use 공휴일 Pro at no cost during that time. You will be charged automatically at the end of the trial period, **unless you cancel the subscription at least 24 hours in advance** through your App Store account.  
-  
-## Optional Permissions  
-  
-**Notifications:**  
-Used only if you enable holiday reminders. These are local notifications generated on your device, with no communication to external servers. You can disable them anytime in your device settings.  
-  
-**Calendar:**  
-If you choose to add a holiday to your calendar, a single event is saved with your confirmation. The app **cannot view, read, or modify other existing events.**  
-  
-## Third Parties  
-  
-공휴일 does not use any third-party services for analytics, advertising, or data storage.  
-  
-## Email Contact  
-  
-If you choose to contact me via email, you will be sharing your email address and the name configured on your account (which may include your last name or other identifying information).  
-  
-This information is used solely to respond to your inquiry. **It is never shared with third parties or sold under any circumstances.**  
-  
-## Contact  
-  
-If you have questions about this policy, feel free to reach out through the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**공휴일 is a personal project. All inquiries are read and appreciated.**  
+# 개인정보 처리방침
+
+**마지막 업데이트: 2025년 5월**
+
+**공휴일은 사용자의 개인정보를 존중하는 앱입니다:** *어떠한 개인 정보도 수집·저장·공유하지 않습니다.*
+
+## 데이터 수집
+
+앱은 불필요한 권한을 요구하거나 민감한 데이터에 접근하지 않습니다.
+표시되는 모든 정보(국가 공휴일, 관광 휴일, 종교 휴일)는 공개된 자료이며 사용자 기기에 로컬로 저장됩니다.
+
+공휴일 Pro에서 제공되는 휴일 통계 및 비교 기능 등은 사용자 기기에서 로컬로 생성·처리됩니다. 어떤 정보도 외부 서버로 전송되거나 저장되지 않습니다.
+
+## 인앱 구매 및 무료 체험
+
+앱은 앱 스토어를 통해 구독을 제공합니다. 결제 처리, 무료 체험 및 구독 관리는 모두 Apple에서 전적으로 관리합니다. **공휴일은 어떠한 개인 정보나 결제 정보에도 접근하지 않습니다.**
+
+무료 체험 기간이 제공되는 경우, 그 기간 동안 공휴일 Pro를 무료로 사용할 수 있습니다. 체험 기간 종료 24시간 이전에 구독을 취소하지 않으면 자동으로 결제가 진행됩니다.
+
+## 선택 권한
+
+**알림:**
+휴일 알림을 활성화한 경우에만 사용됩니다. 모든 알림은 기기 내에서 로컬로 생성되며 외부 서버와 통신하지 않습니다. 기기 설정에서 언제든지 비활성화할 수 있습니다.
+
+**캘린더:**
+휴일을 캘린더에 추가하면 사용자의 확인 후 하나의 이벤트가 저장됩니다. 앱은 **다른 기존 이벤트를 보거나 수정할 수 없습니다.**
+
+## 제3자 서비스
+
+공휴일은 분석, 광고 또는 데이터 저장을 위한 제3자 서비스를 사용하지 않습니다.
+
+## 이메일 문의
+
+이메일로 연락하실 경우, 사용자의 이메일 주소와 계정에 설정된 이름(성 등 식별 정보 포함)이 전달됩니다.
+
+이 정보는 문의에 답변하기 위한 용도로만 사용되며 **어떠한 경우에도 제3자에게 공유되거나 판매되지 않습니다.**
+
+## 연락처
+
+이 정책에 대해 궁금한 점이 있으면 [Discussions](https://github.com/lucasditomase/feriados/discussions) 섹션을 통해 언제든지 문의하세요.
+
+**공휴일은 개인 프로젝트입니다. 보내주신 모든 문의는 직접 읽고 소중히 여기겠습니다.**
