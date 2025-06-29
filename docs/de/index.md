@@ -17,14 +17,14 @@ Ideal für Studierende, Berufstätige, Familien und alle, die ihre freien Tage b
 • Vollständiger Kalender: nationale, touristische und religiöse Feiertage  
 • Filter nach Typ: feste, bewegliche, touristische oder arbeitsfreie Tage  
 • Suche nach Name oder Anlass des Feiertags  
-• Option, vergangene Feiertage auszublenden
+• Option, vergangene Feiertage auszublenden  
 • Wochenagenda, um nahe Feiertage zu sehen  
 • Moderne, klare Oberfläche, die sich an alle Geräte anpasst  
 
 ## Erweiterte Funktionen mit Holidays Pro
 
 • Füge Feiertage deinem persönlichen Kalender hinzu  
-• Erhalte Benachrichtigungen vor jedem Feiertag
+• Erhalte Benachrichtigungen vor jedem Feiertag  
 • Filter nach Gemeinschaft (muslimisch, jüdisch, armenisch)  
 • Detaillierte Statistiken und interaktive Diagramme  
 • Monatliche Vergleiche von Feiertagen  
@@ -36,7 +36,7 @@ Ideal für Studierende, Berufstätige, Familien und alle, die ihre freien Tage b
 
 ## Datenschutz und Bedingungen
 
-• [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/privacy-policy)
+• [Datenschutzrichtlinie](https://lucasditomase.github.io/feriados/de/privacy-policy)  
 • [Nutzungsbedingungen](https://lucasditomase.github.io/feriados/de/terms-and-conditions)
 
 ## Unterstützung

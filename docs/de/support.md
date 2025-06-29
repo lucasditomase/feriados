@@ -13,37 +13,37 @@ Du kannst mich auch per E-Mail kontaktieren, wenn du GitHub nicht verwenden möc
 
 ## Häufig gestellte Fragen
 
-**Kann ich Feiertage meinem Kalender hinzufügen?**
+**Kann ich Feiertage meinem Kalender hinzufügen?**  
 Ja, mit Holidays Pro kannst du jeden Feiertag direkt in deinen persönlichen Kalender eintragen.
 
-**Kann ich Erinnerungen für Feiertage einstellen?**
+**Kann ich Erinnerungen für Feiertage einstellen?**  
 Ja, Holidays Pro erlaubt es, Erinnerungen einzurichten, damit du vor jedem Feiertag benachrichtigt wirst.
 
-**Was bietet die kostenlose Version?**
+**Was bietet die kostenlose Version?**  
 Sie enthält den kompletten Kalender nationaler, touristischer und religiöser Feiertage, eine Wochenagenda und einfache Filter nach Feiertagstyp.
 
-**Welche Extras bietet Holidays Pro?**
+**Welche Extras bietet Holidays Pro?**  
 Es beinhaltet Erinnerungen, das Hinzufügen von Feiertagen zum Kalender, Vergleichsstatistiken, Filter nach Gemeinschaft, erweiterte Suche und verbesserte Kalenderansichten.
 
-**Warum gibt es religiöse Feiertage?**
+**Warum gibt es religiöse Feiertage?**  
 Holidays ermöglicht das Filtern nach Gemeinschaft (muslimisch, jüdisch, armenisch), damit jeder Nutzer relevante Daten entsprechend seinen Vorlieben sehen kann.
 
-**Sind die Feiertage immer aktuell?**
+**Sind die Feiertage immer aktuell?**  
 Die Informationen stammen aus offiziellen Quellen und werden regelmäßig aktualisiert. Dennoch können unerwartete Änderungen durch Regierungsentscheidungen oder menschliche Fehler auftreten.
 
-**Sammelt die App personenbezogene Daten?**
+**Sammelt die App personenbezogene Daten?**  
 Nein. Holidays speichert oder überträgt keine Nutzerdaten. Alles geschieht lokal auf deinem Gerät.
 
-**Was passiert, wenn ich eine E-Mail aus der App sende?**
+**Was passiert, wenn ich eine E-Mail aus der App sende?**  
 Du teilst deine E-Mail-Adresse und den in deinem Konto hinterlegten Namen. Diese Informationen werden nur verwendet, um auf deine Nachricht zu antworten. **Sie werden niemals weitergegeben oder verkauft.**
 
-**Wie funktioniert Holidays Pro?**
+**Wie funktioniert Holidays Pro?**  
 Es handelt sich um ein optionales Abonnement, das du über dein App-Store-Konto aktivieren oder kündigen kannst. Es umfasst erweiterte Funktionen wie Erinnerungen, Kalenderintegration, Statistiken, Gemeinschaftsfilter, erweiterte Suche, Feiertagsvergleiche und verbesserte Kalenderansichten.
 
-**Gibt es eine kostenlose Testphase?**
+**Gibt es eine kostenlose Testphase?**  
 Ja. Sowohl der monatliche als auch der jährliche Plan beinhalten eine kostenlose Testphase. **Wichtig:** Denke daran, *spätestens 24 Stunden vor Ende der Testphase* zu kündigen, wenn du keine Kosten möchtest.
 
-**Kann ich mein Abonnement mit meiner Familie teilen?**
+**Kann ich mein Abonnement mit meiner Familie teilen?**  
 Ja, über Apple Family Sharing ohne zusätzliche Kosten, vorausgesetzt es ist in deinem App-Store-Konto korrekt eingerichtet.
 
 ## Kontakt
