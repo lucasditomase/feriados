@@ -66,7 +66,7 @@ Tutti i contenuti, le interfacce, la grafica, il codice sorgente e le funzionali
 • Modificare, decompilare, fare reverse engineering o tentare di accedere al codice sorgente  
 • Utilizzare automazioni, script o altri metodi non autorizzati per interagire con l'app  
 • Inviare spam al supporto tecnico, ad esempio messaggi promozionali, offensivi o privi di senso  
-• Inviare messaggi con informazioni mancanti o modificate  
+• Inviare messaggi con informazioni mancanti o modificate intenzionalmente
 • Inviare email al supporto tecnico e poi ignorare le risposte dello sviluppatore  
 • Utilizzare l'app su un dispositivo modificato in modo da compromettere il normale funzionamento dell'app (ad esempio dispositivi jailbroken, ambienti non autorizzati, utilizzo di store di terze parti)  
 • Utilizzare strumenti che alterano il sistema di acquisti in-app o altre funzioni  

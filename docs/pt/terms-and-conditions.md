@@ -66,7 +66,7 @@ Todo o conteúdo, interfaces, gráficos, código-fonte e recursos do Holidays s�
 • Modificar, descompilar, fazer engenharia reversa ou tentar acessar o código-fonte  
 • Utilizar automações, scripts ou outros métodos não autorizados para interagir com o aplicativo  
 • Enviar spam ao suporte técnico, por exemplo enviar mensagens promocionais, abusivas ou sem sentido  
-• Enviar mensagens com informações faltantes ou modificadas  
+• Enviar mensagens com informações faltantes ou modificadas de forma intencional
 • Mandar emails para o suporte e depois ignorar as respostas do desenvolvedor  
 • Utilizar o aplicativo em um dispositivo modificado de forma que afete o funcionamento normal do app (por exemplo, dispositivos com jailbreak, ambientes não autorizados, uso de lojas de terceiros)  
 • Utilizar ferramentas que alterem o sistema de compras internas ou qualquer outro recurso  

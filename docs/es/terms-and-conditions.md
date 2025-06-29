@@ -66,7 +66,7 @@ Está prohibido:
 • Modificar, decompilar, aplicar ingeniería inversa o intentar acceder al código fuente.  
 • Usar automatizaciones, scripts u otros métodos no autorizados para interactuar con la app.  
 • Enviar spam en el soporte técnico, por ejemplo mandar mensajes promocionales, abusivos o sin sentido.  
-• Enviar mensajes con información faltante o modificada.  
+• Enviar mensajes con información faltante o modificada de manera intencional.
 • Mandar correos al soporte técnico y luego ignorar las respuestas del desarrollador.  
 • Utilizar la app en un dispositivo modificado de forma que afecte el funcionamiento normal de Feriados (por ejemplo, en casos de jailbreak, entornos no autorizados, uso de tiendas de aplicaciones alternativas).  
 • Utilizar herramientas que alteren el sistema de compras o cualquier otra funcionalidad.  
