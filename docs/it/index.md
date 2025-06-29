@@ -1,11 +1,11 @@
-[![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
+[![Festività App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
   
-# Holidays  
+# Festività  
   
-Holidays: il tuo tempo libero, ben sfruttato.  
+Festività: il tuo tempo libero, ben sfruttato.  
   
 Il modo più semplice, chiaro e potente per consultare le festività in Argentina.  
-Con un design moderno e funzioni pensate per la vita di tutti i giorni, Holidays ti aiuta a programmare gite, vacanze o semplicemente a goderti di più i fine settimana.  
+Con un design moderno e funzioni pensate per la vita di tutti i giorni, Festività ti aiuta a programmare gite, vacanze o semplicemente a goderti di più i fine settimana.  
   
 Controlla in pochi secondi quando è la prossima festività, esplora il calendario completo e filtra i giorni non lavorativi in base ai tuoi interessi, credenze o stile di vita.  
   
@@ -21,7 +21,7 @@ Ideale per studenti, lavoratori, famiglie e chiunque voglia sfruttare meglio i p
 • Agenda settimanale per vedere le festività vicine  
 • Interfaccia moderna e chiara adattabile a tutti i dispositivi  
   
-## Funzionalità avanzate con Holidays Pro  
+## Funzionalità avanzate con Festività Pro  
   
 • Aggiungi le festività al tuo calendario personale  
 • Ricevi notifiche prima di ogni festività  
@@ -32,7 +32,7 @@ Ideale per studenti, lavoratori, famiglie e chiunque voglia sfruttare meglio i p
 • Ricerca avanzata per giorno della settimana o mese  
 • Vista mensile e settimanale dettagliata del calendario  
   
-**Holidays Pro** include una prova gratuita. Annullala almeno 24 ore prima della fine se non vuoi che ti venga addebitato nulla.  
+**Festività Pro** include una prova gratuita. Annullala almeno 24 ore prima della fine se non vuoi che ti venga addebitato nulla.  
   
 ## Informativa sulla privacy e termini  
   
@@ -45,7 +45,7 @@ Se hai domande, suggerimenti o vuoi partecipare alla community, sentiti libero d
   
 ---  
   
-*Holidays è un progetto personale. Grazie per sostenere gli sviluppatori indipendenti.*  
+*Festività è un progetto personale. Grazie per sostenere gli sviluppatori indipendenti.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  

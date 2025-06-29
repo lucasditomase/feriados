@@ -1,11 +1,11 @@
-[![Holidays App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
+[![Feiertage App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
   
-# Holidays  
+# Feiertage  
   
-Holidays: deine freie Zeit, gut genutzt.  
+Feiertage: deine freie Zeit, gut genutzt.  
   
 Die einfachste, klarste und leistungsstärkste Art, die Feiertage in Argentinien nachzuschlagen.  
-Mit modernem Design und Funktionen für den Alltag hilft dir Holidays, Kurztrips und Urlaube zu planen oder einfach deine Wochenenden mehr zu genießen.  
+Mit modernem Design und Funktionen für den Alltag hilft dir Feiertage, Kurztrips und Urlaube zu planen oder einfach deine Wochenenden mehr zu genießen.  
   
 Prüfe in Sekundenschnelle den nächsten Feiertag, erkunde den kompletten Kalender und filtere arbeitsfreie Tage nach deinen Interessen, Überzeugungen oder deinem Lebensstil.  
   
@@ -21,7 +21,7 @@ Ideal für Studierende, Berufstätige, Familien und alle, die ihre freien Tage b
 • Wochenagenda, um nahe Feiertage zu sehen  
 • Moderne, klare Oberfläche, die sich an alle Geräte anpasst  
   
-## Erweiterte Funktionen mit Holidays Pro  
+## Erweiterte Funktionen mit Feiertage Pro  
   
 • Füge Feiertage deinem persönlichen Kalender hinzu  
 • Erhalte Benachrichtigungen vor jedem Feiertag  
@@ -32,7 +32,7 @@ Ideal für Studierende, Berufstätige, Familien und alle, die ihre freien Tage b
 • Erweiterte Suche nach Wochentag oder Monat  
 • Detaillierte Monats- und Wochenansicht des Kalenders  
   
-**Holidays Pro** beinhaltet eine kostenlose Testphase. Kündige mindestens 24 Stunden vor Ablauf, wenn du keine Kosten möchtest.  
+**Feiertage Pro** beinhaltet eine kostenlose Testphase. Kündige mindestens 24 Stunden vor Ablauf, wenn du keine Kosten möchtest.  
   
 ## Datenschutz und Bedingungen  
   
@@ -45,7 +45,7 @@ Wenn du Fragen oder Vorschläge hast oder der Community beitreten möchtest, kan
   
 ---  
   
-*Holidays ist ein Privatprojekt. Danke, dass du unabhängige Entwickler unterstützt.*  
+*Feiertage ist ein Privatprojekt. Danke, dass du unabhängige Entwickler unterstützt.*  
   
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  

@@ -4,11 +4,11 @@
   
 *Ao baixar ou usar o aplicativo, você concorda com estes termos.*  
   
-Estes termos regem o uso do **Holidays**, um aplicativo iOS desenvolvido por **Lucas Di Tomase** para exibir os feriados oficiais da Argentina. Você recebe uma **licença limitada, não exclusiva, intransferível e revogável** para usar o aplicativo para fins pessoais.  
+Estes termos regem o uso do **Feriados**, um aplicativo iOS desenvolvido por **Lucas Di Tomase** para exibir os feriados oficiais da Argentina. Você recebe uma **licença limitada, não exclusiva, intransferível e revogável** para usar o aplicativo para fins pessoais.  
   
 ## Uso do aplicativo  
   
-O Holidays destina-se apenas ao **uso pessoal e não comercial**. Não pode ser utilizado para obter lucro, revendido ou incorporado a outro produto ou serviço.  
+O Feriados destina-se apenas ao **uso pessoal e não comercial**. Não pode ser utilizado para obter lucro, revendido ou incorporado a outro produto ou serviço.  
   
 ## Conteúdo  
   
@@ -16,14 +16,14 @@ As informações exibidas no aplicativo provêm de fontes públicas e podem sofr
   
 ## Recursos e assinaturas  
   
-O Holidays oferece recursos básicos gratuitos, incluindo:  
+O Feriados oferece recursos básicos gratuitos, incluindo:  
   
 • Exibição de feriados nacionais, turísticos e religiosos  
 • Filtros por tipo de feriado  
 • Agenda semanal dos próximos feriados  
 • Busca por nome ou motivo  
   
-Recursos avançados estão disponíveis por meio de uma assinatura chamada **Holidays Pro**, que inclui:  
+Recursos avançados estão disponíveis por meio de uma assinatura chamada **Feriados Pro**, que inclui:  
   
 • Filtros por comunidade específica (muçulmana, judaica, armênia)  
 • Adicionar feriados ao seu calendário pessoal  
@@ -35,7 +35,7 @@ Recursos avançados estão disponíveis por meio de uma assinatura chamada **Hol
   
 ## Assinaturas e período de teste  
   
-• As assinaturas do Holidays Pro **renovam-se automaticamente** a menos que sejam canceladas **pelo menos 24 horas antes** do fim do período atual  
+• As assinaturas do Feriados Pro **renovam-se automaticamente** a menos que sejam canceladas **pelo menos 24 horas antes** do fim do período atual  
 • O pagamento é cobrado do ID Apple utilizado na compra  
 • Se houver **período de teste gratuito**, a assinatura começará automaticamente ao fim do teste, a menos que seja cancelada com 24 horas de antecedência  
 • A gestão e o cancelamento da assinatura devem ser feitos nas configurações da sua conta da App Store  
@@ -55,7 +55,7 @@ Quaisquer sugestões, comentários ou ideias enviados podem ser usados para melh
   
 ## Propriedade intelectual  
   
-Todo o conteúdo, interfaces, gráficos, código-fonte e recursos do Holidays são propriedade exclusiva do desenvolvedor, salvo indicação em contrário. Nenhum direito de propriedade intelectual é concedido ao usuário pelo uso do aplicativo.  
+Todo o conteúdo, interfaces, gráficos, código-fonte e recursos do Feriados são propriedade exclusiva do desenvolvedor, salvo indicação em contrário. Nenhum direito de propriedade intelectual é concedido ao usuário pelo uso do aplicativo.  
   
 ## Restrições técnicas  
   
@@ -79,10 +79,10 @@ O uso do aplicativo é por sua conta e risco. **Nem o desenvolvedor (Lucas Di To
   
 ## Privacidade  
   
-Holidays não coleta dados pessoais nem usa serviços de terceiros para análise ou publicidade. Para mais detalhes, consulte a [Política de privacidade](https://lucasditomase.github.io/feriados/pt/privacy-policy).  
+Feriados não coleta dados pessoais nem usa serviços de terceiros para análise ou publicidade. Para mais detalhes, consulte a [Política de privacidade](https://lucasditomase.github.io/feriados/pt/privacy-policy).  
   
 ## Contato  
   
 Para perguntas, suporte ou sugestões, visite a seção [Discussions](https://github.com/lucasditomase/feriados/discussions).  
   
-**Holidays é um projeto pessoal. Se você entrar em contato, lerei pessoalmente sua mensagem.**  
+**Feriados é um projeto pessoal. Se você entrar em contato, lerei pessoalmente sua mensagem.**  
