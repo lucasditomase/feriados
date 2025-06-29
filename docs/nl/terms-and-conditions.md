@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
+# Algemene voorwaarden voor gebruik
+
+**Laatst bijgewerkt: mei 2025**
+
+*Door de app te downloaden of te gebruiken, ga je akkoord met deze voorwaarden.*
+
+Deze voorwaarden regelen het gebruik van **Feestdagen**, een iOS-app ontwikkeld door **Lucas Di Tomase** om officiële feestdagen van Argentinië te tonen. Je krijgt een **beperkte, niet-exclusieve, niet-overdraagbare en herroepbare licentie** om de app voor persoonlijke doeleinden te gebruiken.
   
-**Last updated: May 2025**  
+## Gebruik van de app
+
+Feestdagen is uitsluitend bedoeld voor **persoonlijk, niet‑commercieel gebruik**. De app mag niet worden gebruikt voor winst, doorverkoop of als onderdeel van een ander product of dienst.
   
-*By downloading or using the app, you agree to these terms.*  
+## Inhoud
+
+De informatie in de app is afkomstig uit openbare bronnen en kan worden gewijzigd. Hoewel deze regelmatig wordt bijgewerkt, **kan de juistheid, volledigheid of actualiteit niet worden gegarandeerd**.
   
-These terms govern the use of **Feestdagen**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
+## Functies en abonnementen
+
+Feestdagen biedt gratis basisfuncties, waaronder:
   
-## Use of the App  
+• Weergave van nationale, toeristische en religieuze feestdagen
+• Filteren op type feestdag
+• Wekelijkse agenda van aankomende feestdagen
+• Zoeken op naam of reden
   
-Feestdagen is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
+Geavanceerde functies zijn beschikbaar via een abonnement genaamd **Feestdagen Pro**, waaronder:
   
-## Content  
+• Filters per gemeenschap (moslim, joods, Armeens)
+• Feestdagen toevoegen aan je persoonlijke agenda
+• Automatische herinneringen instellen
+• Visuele statistieken en vergelijkingen
+• Visualisatie van lange weekenden
+• Geavanceerd zoeken op weekdag of maand
+• Maand- en weekweergaven van de kalender
   
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
+## Abonnementen en gratis proefperiode
+
+• Abonnementen op Feestdagen Pro **worden automatisch verlengd**, tenzij ze minimaal **24 uur van tevoren** worden opgezegd
+• Betaling wordt in rekening gebracht via het Apple ID waarmee je de aankoop doet
+• Als er een **gratis proefperiode** wordt aangeboden, start het abonnement automatisch na afloop ervan, tenzij je het minstens 24 uur van tevoren opzegt
+• Het beheren en annuleren van het abonnement doe je via de instellingen van je App Store-account
+• **Prijzen kunnen variëren afhankelijk van regio, aankoopdatum en andere voorwaarden die door Apple of door mij als ontwikkelaar worden bepaald.** Prijzen kunnen in de toekomst worden bijgewerkt; je wordt dan vóór de automatische verlenging op de hoogte gebracht zodat je kunt beslissen of je wilt doorgaan
   
-## Features and Subscriptions  
+## Delen met gezin
+
+Als je deel uitmaakt van een iCloud Family Sharing-groep, kun je je abonnement mogelijk delen met andere leden, mits deze optie is ingeschakeld en geconfigureerd in je App Store-account. Deze functie hangt af van je besturingssysteem en individuele accountinstellingen.
   
-Feestdagen offers basic features for free, including:  
+## Updates
+
+De app kan periodiek worden bijgewerkt met prestatieverbeteringen, foutoplossingen of nieuwe functies zonder voorafgaande kennisgeving.
   
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
+## Feedback en suggesties
+
+Eventuele suggesties, opmerkingen of ideeën die je indient, kunnen worden gebruikt om de app te verbeteren, zonder verplichting tot compensatie of naamsvermelding.
   
-Advanced features are available through a subscription called **Feestdagen Pro**, which includes:  
+## Intellectuele eigendom
+
+Alle inhoud, interfaces, afbeeldingen, broncode en functies van Feestdagen zijn het exclusieve eigendom van de ontwikkelaar, tenzij anders vermeld. Door gebruik van de app worden geen intellectuele eigendomsrechten aan de gebruiker overgedragen.
   
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
+## Technische beperkingen
+
+Het is verboden om:
   
-## Subscriptions and Free Trial  
+• De app te verkopen, te distribueren, te hosten of commercieel te exploiteren zonder toestemming
+• De app te kopiëren of te gebruiken voor enig ander doel dan persoonlijk en niet-commercieel gebruik
+• De app te wijzigen, te decompileren, reverse-engineering toe te passen of te proberen toegang te krijgen tot de broncode
+• Automatisering, scripts of andere ongeoorloofde methoden te gebruiken om met de app te communiceren
+• De technische ondersteuning te spammen met promotionele, beledigende of zinloze berichten
+• Opzettelijk berichten te sturen met ontbrekende of gewijzigde informatie
+• Contact op te nemen met de ondersteuning per e-mail en vervolgens de antwoorden van de ontwikkelaar te negeren
+• De app te gebruiken op een apparaat dat is aangepast op een manier die de normale werking beïnvloedt (bijv. jailbreak, ongeautoriseerde omgevingen, gebruik van appstores van derden)
+• Tools te gebruiken die het systeem voor in-app aankopen of een andere functie wijzigen
   
-• Subscriptions to Feestdagen Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
+**Deze lijst is niet uitputtend.** Andere gevallen kunnen eveneens beperkingen rechtvaardigen als ze de veiligheid, integriteit of het beoogde doel van de app in gevaar brengen. **Ik behoud me het recht voor de toegang tot de app geheel of gedeeltelijk te blokkeren bij onbehoorlijk gebruik of misbruik.**
   
-## Family Sharing  
+## Vrijwaring
   
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
+Gebruik van de app is op eigen risico. **Noch de ontwikkelaar (Lucas Di Tomase) noch de app garanderen voortdurende beschikbaarheid of absolute nauwkeurigheid van de inhoud en zijn niet verantwoordelijk voor beslissingen die worden genomen op basis van de verstrekte informatie.**
   
-## Updates  
+## Privacy
+
+Feestdagen verzamelt geen persoonlijke gegevens en gebruikt geen diensten van derden voor analyse of reclame. Raadpleeg het [privacybeleid](https://lucasditomase.github.io/feriados/nl/privacy-policy) voor meer informatie.
   
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
+## Contact
+
+Voor vragen, ondersteuning of suggesties kun je terecht in de [Discussions](https://github.com/lucasditomase/feriados/discussions)-sectie.
   
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of Feestdagen are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-Feestdagen does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/nl/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Feestdagen is a personal project. If you reach out, I will personally read your message.**  
+**Feestdagen is een persoonlijk project. Als je contact opneemt, lees ik je bericht persoonlijk.**
