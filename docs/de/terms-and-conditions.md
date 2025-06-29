@@ -1,6 +1,6 @@
 # Nutzungsbedingungen  
   
-**Letzte Aktualisierung: Mai 2025**  
+**Letzte Aktualisierung: Juni 2025**  
   
 *Durch das Herunterladen oder Verwenden der App stimmst du diesen Bedingungen zu.*  
   

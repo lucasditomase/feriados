@@ -1,6 +1,6 @@
 # Kullanım Şartları  
   
-**Son güncelleme: Mayıs 2025**  
+**Son güncelleme: Haziran 2025**  
   
 *Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.*  
   

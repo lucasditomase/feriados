@@ -1,6 +1,6 @@
 # Términos y Condiciones de Uso  
   
-**Última actualización: mayo 2025**  
+**Última actualización: junio 2025**  
   
 *Al descargar o utilizar la app, aceptás estos términos.*  
   
