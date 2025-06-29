@@ -1,6 +1,6 @@
 # Regulamin korzystania  
   
-**Ostatnia aktualizacja: maj 2025**  
+**Ostatnia aktualizacja: czerwiec 2025**  
   
 *Pobierając lub używając aplikację, akceptujesz niniejsze warunki.*  
   

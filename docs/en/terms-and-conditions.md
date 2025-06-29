@@ -1,6 +1,6 @@
 # Terms and Conditions of Use  
   
-**Last updated: May 2025**  
+**Last updated: June 2025**  
   
 *By downloading or using the app, you agree to these terms.*  
   

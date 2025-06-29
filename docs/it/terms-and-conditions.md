@@ -1,6 +1,6 @@
 # Termini e condizioni d'uso  
   
-**Ultimo aggiornamento: maggio 2025**  
+**Ultimo aggiornamento: giugno 2025**  
   
 *Scaricando o utilizzando l'app accetti questi termini.*  
   

@@ -1,6 +1,6 @@
 # Algemene voorwaarden voor gebruik  
   
-**Laatst bijgewerkt: mei 2025**  
+**Laatst bijgewerkt: juni 2025**  
   
 *Door de app te downloaden of te gebruiken, ga je akkoord met deze voorwaarden.*  
   

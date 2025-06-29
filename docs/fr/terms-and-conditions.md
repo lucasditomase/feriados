@@ -1,6 +1,6 @@
 # Conditions générales d'utilisation  
   
-**Dernière mise à jour : mai 2025**  
+**Dernière mise à jour : juin 2025**  
   
 *En téléchargeant ou en utilisant l'application, vous acceptez ces conditions.*  
   
