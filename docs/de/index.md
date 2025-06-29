@@ -2,9 +2,14 @@
 
 # Holidays
 
-**Holidays** ist eine iOS-App, mit der du schnell und übersichtlich alle nationalen, touristischen und religiösen Feiertage Argentiniens einsehen kannst.
+Holidays: deine freie Zeit, gut genutzt.
 
-Ideal, um lange Wochenenden zu planen, Urlaube zu organisieren oder einfach deine Zeit besser zu nutzen.
+Die einfachste, klarste und leistungsstärkste Art, die Feiertage in Argentinien nachzuschlagen.
+Mit modernem Design und Funktionen für den Alltag hilft dir Holidays, Kurztrips und Urlaube zu planen oder einfach deine Wochenenden mehr zu genießen.
+
+Prüfe in Sekundenschnelle den nächsten Feiertag, erkunde den kompletten Kalender und filtere arbeitsfreie Tage nach deinen Interessen, Überzeugungen oder deinem Lebensstil.
+
+Ideal für Studierende, Berufstätige, Familien und alle, die ihre freien Tage besser nutzen möchten.
 
 ## Hauptfunktionen (kostenlos)
 
@@ -12,22 +17,22 @@ Ideal, um lange Wochenenden zu planen, Urlaube zu organisieren oder einfach dein
 • Vollständiger Kalender: nationale, touristische und religiöse Feiertage  
 • Filter nach Typ: feste, bewegliche, touristische oder arbeitsfreie Tage  
 • Suche nach Name oder Anlass des Feiertags  
-• Option, vergangene Feiertage auszublenden und sich auf kommende zu konzentrieren  
+• Option, vergangene Feiertage auszublenden
 • Wochenagenda, um nahe Feiertage zu sehen  
 • Moderne, klare Oberfläche, die sich an alle Geräte anpasst  
 
 ## Erweiterte Funktionen mit Holidays Pro
 
 • Füge Feiertage deinem persönlichen Kalender hinzu  
-• Richte automatische Erinnerungen ein  
+• Erhalte Benachrichtigungen vor jedem Feiertag
 • Filter nach Gemeinschaft (muslimisch, jüdisch, armenisch)  
 • Detaillierte Statistiken und interaktive Diagramme  
 • Monatliche Vergleiche von Feiertagen  
 • Anzeige von langen Wochenenden  
 • Erweiterte Suche nach Wochentag oder Monat  
-• Vollständiger Kalender mit Monats- und Wochenansicht  
+• Detaillierte Monats- und Wochenansicht des Kalenders
 
-**Holidays Pro** beinhaltet eine kostenlose Testphase. Um Kosten zu vermeiden, kündige mindestens 24 Stunden vor Ablauf der Testphase.
+**Holidays Pro** beinhaltet eine kostenlose Testphase. Kündige mindestens 24 Stunden vor Ablauf, wenn du keine Kosten möchtest.
 
 ## Datenschutz und Bedingungen
 
