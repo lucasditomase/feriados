@@ -1,54 +1,54 @@
-# Support for Święta  
-  
-Thank you for using Święta. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Święta%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with Święta Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, Święta Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does Święta Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-Święta allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. Święta does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does Święta Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** Święta is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# Wsparcie dla Święta
+
+Dziękuję za korzystanie z aplikacji Święta. Jeśli znajdziesz błędy, masz pytania lub chcesz zasugerować ulepszenia, możesz się ze mną skontaktować lub wziąć udział w tym repozytorium.
+To projekt osobisty, dlatego wszelka opinia czy wkład jest bardzo mile widziany.
+
+## Zgłoś problem
+
+Możesz utworzyć zgłoszenie w tym repozytorium, opisując problem i kroki, które go powodują. Jeśli to możliwe, dołącz zrzut ekranu.
+
+[Utwórz zgłoszenie](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20Święta%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+Możesz też skontaktować się ze mną mailowo, jeśli wolisz nie korzystać z GitHuba. W aplikacji, w sekcji "Więcej informacji", znajdziesz opcję wysłania e-maila ze wszystkimi danymi technicznymi (model urządzenia, język, wersja systemu iOS itd.).
+
+## Najczęściej zadawane pytania
+
+**Czy mogę dodać święta do kalendarza?**
+Tak, w Święta Pro możesz dodać dowolne święto bezpośrednio do swojego kalendarza.
+
+**Czy mogę ustawić przypomnienia o świętach?**
+Tak, Święta Pro pozwala tworzyć przypomnienia, aby otrzymywać powiadomienia przed każdym świętem.
+
+**Co zawiera wersja darmowa?**
+Zawiera pełny kalendarz świąt państwowych, turystycznych i religijnych, tygodniową agendę oraz podstawowe filtry według rodzaju święta.
+
+**Jakie dodatkowe funkcje oferuje Święta Pro?**
+Obejmuje przypomnienia, dodawanie świąt do kalendarza, statystyki porównawcze, filtry społecznościowe, zaawansowane wyszukiwanie i ulepszone widoki kalendarza.
+
+**Dlaczego uwzględniono święta religijne?**
+Święta umożliwia filtrowanie według społeczności (muzułmańskiej, żydowskiej, ormiańskiej), aby każdy użytkownik mógł zobaczyć odpowiednie daty zgodnie ze swoimi preferencjami.
+
+**Czy święta są zawsze aktualne?**
+Informacje pochodzą z oficjalnych źródeł publicznych i są regularnie aktualizowane. Mogą jednak wystąpić nieprzewidziane zmiany w wyniku decyzji władz lub błędów ludzkich.
+
+**Czy aplikacja gromadzi dane osobowe?**
+Nie. Święta nie przechowuje ani nie przesyła danych użytkownika. Cała aktywność odbywa się lokalnie na urządzeniu.
+
+**Co się stanie, jeśli wyślę email z aplikacji?**
+Udostępnisz swój adres e-mail oraz nazwę skonfigurowaną w swoim koncie. Informacje te służą wyłącznie do odpowiedzi na Twoją wiadomość. **Nigdy nie są udostępniane ani sprzedawane.**
+
+**Jak działa Święta Pro?**
+To opcjonalna subskrypcja, którą możesz aktywować lub anulować z poziomu swojego konta w App Store. Obejmuje zaawansowane funkcje takie jak przypomnienia, integracja z kalendarzem, statystyki, filtry społecznościowe, zaawansowane wyszukiwanie, porównania świąt i ulepszone widoki kalendarza.
+
+**Czy jest dostępny okres próbny?**
+Tak. Zarówno plan miesięczny, jak i roczny zawiera darmowy okres próbny. **Ważne:** pamiętaj, aby anulować *co najmniej 24 godziny przed końcem okresu próby*, jeśli nie chcesz ponosić opłat.
+
+**Czy mogę udostępnić subskrypcję rodzinie?**
+Tak, poprzez Apple Family Sharing, bez dodatkowych kosztów, o ile jest poprawnie skonfigurowane na Twoim koncie w App Store.
+
+## Kontakt
+
+Jeśli chcesz skontaktować się bezpośrednio lub zostawić publiczny komentarz, dołącz do sekcji [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**Twoja wiadomość nie zginie.** Święta to projekt osobisty, więc wszystkie wiadomości i sugestie czytam osobiście.
+Także Twój adres e-mail jest używany tylko do odpowiedzi na zapytanie.
