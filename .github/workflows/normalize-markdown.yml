@@ -5,6 +5,9 @@ on:
     paths:
       - '**/*.md'
 
+permissions:
+  contents: write
+
 jobs:
   normalize:
     runs-on: ubuntu-latest
