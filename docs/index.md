@@ -17,26 +17,26 @@ Ideal para estudiantes, trabajadores, familias y cualquier persona que quiera ap
 • Calendario completo: nacionales, turísticos y religiosos  
 • Filtros por tipo: inamovibles, trasladables, turísticos o no laborables  
 • Búsqueda por nombre o motivo del feriado  
-• Opción para ocultar feriados pasados
+• Opción para ocultar feriados pasados  
 • Agenda semanal para ver los feriados cercanos  
 • Interfaz moderna, clara y adaptable a todos los dispositivos  
 
 ## Funciones avanzadas con Feriados Pro
 
 • Agregar feriados a tu calendario personal  
-• Recibir notificaciones antes de cada feriado
+• Recibir notificaciones antes de cada feriado  
 • Filtros por comunidad (musulmana, judía, armenia)  
 • Estadísticas detalladas y gráficos interactivos  
 • Comparativas de feriados entre meses  
 • Visualización de fines de semana largos  
-• Búsqueda avanzada por día de la semana o mes
-• Vista mensual y semanal detallada del calendario
+• Búsqueda avanzada por día de la semana o mes  
+• Vista mensual y semanal detallada del calendario  
 
 **Feriados Pro** incluye una prueba gratuita. Cancelá al menos 24 horas antes de que finalice si no querés que se te cobre.
 
 ## Política de privacidad y términos
 
-• [Política de privacidad](https://lucasditomase.github.io/feriados/es/privacy-policy)
+• [Política de privacidad](https://lucasditomase.github.io/feriados/es/privacy-policy)  
 • [Términos y condiciones](https://lucasditomase.github.io/feriados/es/terms-and-conditions)
 
 ## Soporte
