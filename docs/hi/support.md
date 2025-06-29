@@ -1,54 +1,52 @@
-# Support for छुट्टियाँ  
-  
-Thank you for using छुट्टियाँ. If you find bugs, have questions, or want to suggest improvements, feel free to contact me or participate in this repository.  
-This is a personal project, so any feedback or contribution is highly appreciated.  
-  
-## Report a Problem  
-  
-You can open an issue in this repository describing the problem and the steps to reproduce it. If possible, please include a screenshot.  
-  
-[Create an issue](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20छुट्टियाँ%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)  
-  
-You can also contact me by email if you prefer not to use GitHub. In the app, under the "More Info" section, there's an option to send an email with all technical details already included (device model, language, OS version, etc.).  
-  
-## Frequently Asked Questions  
-  
-**Can I add holidays to my calendar?**  
-Yes, with छुट्टियाँ Pro you can add any holiday directly to your personal calendar.  
-  
-**Can I set reminders for holidays?**  
-Yes, छुट्टियाँ Pro lets you create reminders to get notified before each holiday.  
-  
-**What does the free version include?**  
-It includes the complete calendar of national, tourism-related, and religious holidays, a weekly agenda, and basic filters by type of holiday.  
-  
-**What extra features does छुट्टियाँ Pro include?**  
-It includes reminders, adding holidays to your calendar, comparative stats, community filters, advanced search, and enhanced calendar views.  
-  
-**Why are there religious holidays?**  
-छुट्टियाँ allows filtering by community (Muslim, Jewish, Armenian) so each user can view relevant dates based on their preferences.  
-  
-**Are holidays always up to date?**  
-The information comes from official public sources and is updated regularly. However, unforeseen changes may occur due to government decisions or human error.  
-  
-**Does the app collect personal data?**  
-No. छुट्टियाँ does not store or transmit any user data. All activity happens locally on your device.  
-  
-**What happens if I send an email from the app?**  
-You will be sharing your email address and the name configured on your account. This information is used solely to respond to your message. **It is never shared or sold under any circumstances.**  
-  
-**How does छुट्टियाँ Pro work?**  
-It's an optional subscription that you can activate or cancel from your App Store account. It includes advanced features such as reminders, calendar integration, stats, community filters, advanced search, holiday comparisons, and improved calendar views.  
-  
-**Is there a free trial?**  
-Yes. Both the monthly and annual plans include a free trial. **Important:** remember to cancel *at least 24 hours before the trial ends* if you don’t want to be charged.  
-  
-**Can I share my subscription with my family?**  
-Yes, through Apple Family Sharing, at no additional cost, provided it is properly configured in your App Store account.  
-  
-## Contact  
-  
-If you'd like to get in touch directly or leave a public comment, you can join the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Your message won’t be lost.** छुट्टियाँ is a personal project, so I personally read all messages and suggestions.  
-Also, your email address is used only to respond to your inquiry.  
+# छुट्टियाँ के लिए सहायता
+
+छुट्टियाँ उपयोग करने के लिए धन्यवाद। यदि आपको कोई त्रुटि मिलती है, प्रश्न हैं या सुधार सुझाना चाहते हैं, तो बेझिझक मुझसे संपर्क करें या इस रिपॉज़िटरी में भाग लें। यह एक निजी प्रोजेक्ट है, इसलिए आपका कोई भी फीडबैक या योगदान बहुत सराहनीय है।
+
+## समस्या रिपोर्ट करें
+
+इस रिपॉज़िटरी में आप समस्या और उसे पुनः उत्पन्न करने के चरणों का वर्णन करते हुए एक issue खोल सकते हैं। संभव हो तो एक स्क्रीनशॉट भी संलग्न करें。
+
+[issue बनाएँ](https://github.com/lucasditomase/feriados/issues/new?title=Problem%20with%20छुट्टियाँ%20App&body=Describe%20the%20issue%20you%E2%80%99re%20experiencing%20below%3A%0A%0A-%20Device%3A%20%0A-%20iOS%20version%3A%20%0A-%20App%20version%3A%20%0A-%20Steps%20to%20reproduce%3A%0A%0A(Optional)%20Attach%20a%20screenshot%20or%20recording%20if%20you%20can.)
+
+यदि आप GitHub का उपयोग नहीं करना चाहते तो आप मुझे ईमेल से भी संपर्क कर सकते हैं। ऐप में "More Info" अनुभाग के तहत एक विकल्प है जिससे आप सभी तकनीकी विवरण (डिवाइस मॉडल, भाषा, OS संस्करण आदि) के साथ ईमेल भेज सकते हैं।
+
+## अक्सर पूछे जाने वाले प्रश्न
+
+**क्या मैं छुट्टियाँ अपने कैलेंडर में जोड़ सकता हूँ?**
+हाँ, छुट्टियाँ Pro के साथ आप किसी भी अवकाश को सीधे अपने निजी कैलेंडर में जोड़ सकते हैं。
+
+**क्या मैं छुट्टियों के लिए रिमाइंडर सेट कर सकता हूँ?**
+हाँ, छुट्टियाँ Pro आपको हर अवकाश से पहले नोटिफिकेशन पाने के लिए रिमाइंडर बनाने देता है。
+
+**मुफ़्त संस्करण में क्या शामिल है?**
+इसमें राष्ट्रीय, पर्यटन संबंधी और धार्मिक अवकाश का पूरा कैलेंडर, साप्ताहिक एजेंडा और अवकाश के प्रकार के अनुसार बुनियादी फ़िल्टर शामिल हैं。
+
+**छुट्टियाँ Pro में कौन-सी अतिरिक्त सुविधाएँ हैं?**
+इसमें रिमाइंडर, कैलेंडर में अवकाश जोड़ना, तुलनात्मक आँकड़े, समुदाय फ़िल्टर, उन्नत खोज और बेहतर कैलेंडर दृश्य शामिल हैं。
+
+**धार्मिक अवकाश क्यों शामिल हैं?**
+छुट्टियाँ समुदाय के अनुसार फ़िल्टर करने की सुविधा देता है (मुस्लिम, यहूदी, आर्मेनियाई), ताकि हर उपयोगकर्ता अपनी प्राथमिकताओं के आधार पर प्रासंगिक तिथियाँ देख सके।
+
+**क्या अवकाश हमेशा अपडेट रहते हैं?**
+जानकारी आधिकारिक सार्वजनिक स्रोतों से आती है और नियमित रूप से अपडेट की जाती है, परंतु सरकारी निर्णयों या मानवीय त्रुटियों के कारण अनपेक्षित बदलाव हो सकते हैं。
+
+**क्या ऐप व्यक्तिगत डेटा एकत्र करता है?**
+नहीं। छुट्टियाँ कोई भी उपयोगकर्ता डेटा संग्रहीत या प्रेषित नहीं करता। सारी गतिविधि आपके डिवाइस पर ही होती है।
+
+**यदि मैं ऐप से ईमेल भेजूँ तो क्या होगा?**
+आप अपना ईमेल पता और अपने खाते में दर्ज नाम साझा करेंगे। इस जानकारी का उपयोग केवल आपके संदेश का उत्तर देने के लिए किया जाता है। **इसे किसी भी परिस्थिति में साझा या बेचा नहीं जाता।**
+
+**छुट्टियाँ Pro कैसे काम करता है?**
+यह एक वैकल्पिक सदस्यता है जिसे आप अपने App Store खाते से सक्रिय या रद्द कर सकते हैं। इसमें रिमाइंडर, कैलेंडर एकीकरण, आँकड़े, समुदाय फ़िल्टर, उन्नत खोज, अवकाश तुलना और बेहतर कैलेंडर दृश्य जैसी उन्नत सुविधाएँ शामिल हैं。
+
+**क्या निःशुल्क परीक्षण उपलब्ध है?**
+हाँ। मासिक और वार्षिक दोनों योजनाओं में निःशुल्क परीक्षण शामिल है। **महत्वपूर्ण:** यदि आप शुल्क नहीं देना चाहते तो *परीक्षण समाप्त होने से कम से कम 24 घंटे पहले* रद्द करना न भूलें।
+
+**क्या मैं अपनी सदस्यता परिवार के साथ साझा कर सकता हूँ?**
+हाँ, Apple Family Sharing के माध्यम से, बिना किसी अतिरिक्त लागत के, बशर्ते यह आपके App Store खाते में सही तरीके से कॉन्फ़िगर किया गया हो。
+
+## संपर्क
+
+यदि आप सीधे संपर्क करना चाहते हैं या सार्वजनिक टिप्पणी छोड़ना चाहते हैं, तो [Discussions](https://github.com/lucasditomase/feriados/discussions) अनुभाग में शामिल हो सकते हैं।
+
+**आपका संदेश खोएगा नहीं.** छुट्टियाँ एक व्यक्तिगत प्रोजेक्ट है, इसलिए मैं स्वयं सभी संदेश और सुझाव पढ़ता हूँ। साथ ही, आपका ईमेल पता केवल आपके प्रश्न का उत्तर देने के लिए उपयोग किया जाता है।

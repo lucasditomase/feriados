@@ -1,54 +1,54 @@
-[![छुट्टियाँ App](images/banner.png)](https://apps.apple.com/app/id6744455042)  
-  
-# छुट्टियाँ  
-  
-छुट्टियाँ: your free time, well spent.  
-  
-The simplest, clearest and most powerful way to check Argentina's holidays.  
-With a modern design and day-to-day features, छुट्टियाँ helps you plan getaways, vacations or simply enjoy your weekends more.  
-  
-Check in seconds when the next holiday is, explore the full calendar and filter non-working days according to your interests, beliefs or lifestyle.  
-  
-Ideal for students, workers, families and anyone who wants to make the most of their days off.  
-  
-## Main Features (Free)  
-  
-• Countdown to the next holiday  
-• Full calendar: national, tourism, and religious holidays  
-• Filters by type: fixed, movable, tourism-related, or non-working days  
-• Search by name or reason for the holiday  
-• Option to hide past holidays  
-• Weekly agenda to view nearby holidays  
-• Modern, clear interface adaptable to all devices  
-  
-## Advanced Features with छुट्टियाँ Pro  
-  
-• Add holidays to your personal calendar  
-• Receive notifications before each holiday  
-• Filters by community (Muslim, Jewish, Armenian)  
-• Detailed statistics and interactive graphs  
-• Monthly holiday comparisons  
-• Visualization of long weekends  
-• Advanced search by weekday or month  
-• Detailed monthly and weekly calendar view  
-  
-**छुट्टियाँ Pro** includes a free trial. Cancel at least 24 hours before it ends if you don't want to be charged.  
-  
-## Privacy Policy and Terms  
-  
-• [Privacy Policy](https://lucasditomase.github.io/feriados/hi/privacy-policy)  
-• [Terms and Conditions](https://lucasditomase.github.io/feriados/hi/terms-and-conditions)  
-  
-## Support  
-  
-If you have questions, suggestions, or want to join the community, feel free to start a [discussion](https://github.com/lucasditomase/feriados/discussions).  
-  
----  
-  
-*छुट्टियाँ is a personal project. Thank you for supporting independent development.*  
-  
-<p align="left">  
-  <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
-  </a>  
-</p>  
+[![छुट्टियाँ App](images/banner.png)](https://apps.apple.com/app/id6744455042)
+
+# छुट्टियाँ
+
+छुट्टियाँ: आपका खाली समय, सही ढंग से बिताया जाए।
+
+अर्जेंटीना के अवकाश देखने का सबसे सरल, स्पष्ट और शक्तिशाली तरीका।
+आधुनिक डिज़ाइन और रोज़मर्रा की सुविधाओं के साथ, छुट्टियाँ आपको घूमने-फिरने, छुट्टियों की योजना बनाने या बस अपने सप्ताहांत को अधिक आनंददायक बनाने में मदद करता है।
+
+सिर्फ कुछ ही सेकंड में अगला अवकाश कब है देखें, पूरा कैलेंडर ब्राउज़ करें और गैर‑कार्य दिवसों को अपनी रुचियों, आस्थाओं या जीवनशैली के अनुसार फ़िल्टर करें।
+
+यह छात्रों, कामकाजी लोगों, परिवारों और उन सभी के लिए आदर्श है जो अपने अवकाश का पूरा लाभ उठाना चाहते हैं।
+
+## मुख्य विशेषताएँ (नि:शुल्क)
+
+• अगले अवकाश की उलटी गिनती
+• पूरा कैलेंडर: राष्ट्रीय, पर्यटन और धार्मिक अवकाश
+• प्रकार के अनुसार फ़िल्टर: स्थिर, परिवर्ती, पर्यटन संबंधी या गैर‑कार्य दिवस
+• अवकाश के नाम या कारण से खोजें
+• बीते अवकाश छिपाने का विकल्प
+• आस‑पास के अवकाश देखने के लिए साप्ताहिक एजेंडा
+• सभी उपकरणों पर अनुकूलित आधुनिक और स्पष्ट इंटरफ़ेस
+
+## छुट्टियाँ Pro के उन्नत फ़ीचर
+
+• अपने निजी कैलेंडर में अवकाश जोड़ें
+• हर अवकाश से पहले सूचनाएँ प्राप्त करें
+• समुदाय के अनुसार फ़िल्टर (मुस्लिम, यहूदी, आर्मेनियाई)
+• विस्तृत आँकड़े और इंटरैक्टिव ग्राफ़
+• मासिक अवकाश तुलना
+• लंबे सप्ताहांत की दृश्यता
+• सप्ताह के दिन या महीने के अनुसार उन्नत खोज
+• मासिक और साप्ताहिक कैलेंडर का विस्तृत दृश्य
+
+**छुट्टियाँ Pro** में एक निःशुल्क परीक्षण अवधि शामिल है। यदि आप शुल्क नहीं देना चाहते, तो समाप्त होने से कम से कम 24 घंटे पहले रद्द कर दें।
+
+## गोपनीयता नीति और नियम
+
+• [गोपनीयता नीति](https://lucasditomase.github.io/feriados/hi/privacy-policy)
+• [नियम और शर्तें](https://lucasditomase.github.io/feriados/hi/terms-and-conditions)
+
+## सहायता
+
+यदि आपके पास प्रश्न, सुझाव हैं या आप समुदाय से जुड़ना चाहते हैं, तो निःसंकोच [चर्चा](https://github.com/lucasditomase/feriados/discussions) शुरू करें।
+
+---
+
+*छुट्टियाँ एक व्यक्तिगत प्रोजेक्ट है। स्वतंत्र विकास का समर्थन करने के लिए धन्यवाद.*
+
+<p align="left">
+  <a href="https://apps.apple.com/app/id6744455042">
+    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">
+  </a>
+</p>
