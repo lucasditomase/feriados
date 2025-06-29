@@ -1,88 +1,88 @@
-# Terms and Conditions of Use  
-  
-**Last updated: May 2025**  
-  
-*By downloading or using the app, you agree to these terms.*  
-  
-These terms govern the use of **Święta**, an iOS application developed by **Lucas Di Tomase**, designed to display official holidays in Argentina. You are granted a **limited, non-exclusive, non-transferable, and revocable license** to use the app for personal purposes.  
-  
-## Use of the App  
-  
-Święta is intended for **personal, non-commercial use** only. It may not be used for profit, resale, or as part of another product or service.  
-  
-## Content  
-  
-The information displayed in the app comes from public sources and may be subject to change. While it is regularly updated, **the accuracy, completeness, or timeliness of the information cannot be guaranteed**.  
-  
-## Features and Subscriptions  
-  
-Święta offers basic features for free, including:  
-  
-• Display of national, tourism-related, and religious holidays  
-• Filtering by type of holiday  
-• Weekly agenda of upcoming holidays  
-• Search by name or reason  
-  
-Advanced features are available through a subscription called **Święta Pro**, which includes:  
-  
-• Community-specific filters (Muslim, Jewish, Armenian)  
-• Add holidays to your personal calendar  
-• Set automatic reminders  
-• Visual statistics and comparisons  
-• Long weekend visualization  
-• Advanced search by weekday or month  
-• Monthly and weekly calendar views  
-  
-## Subscriptions and Free Trial  
-  
-• Subscriptions to Święta Pro **renew automatically** unless canceled at least **24 hours before** the end of the current period  
-• Payment is charged to the Apple ID account used for the purchase  
-• If a **free trial period** is offered, the subscription will begin automatically at the end of the trial unless canceled at least 24 hours in advance  
-• Subscription management and cancellation must be done through your App Store account settings  
-• **Prices may vary depending on region, purchase date, and other conditions set by Apple or by me as the developer.** Prices may be updated in the future, in which case you will be notified prior to automatic renewal so you can decide whether to continue  
-  
-## Family Sharing  
-  
-If you are part of an iCloud Family Sharing group, you may be able to share your subscription with other members, provided this option is enabled and configured in your App Store account. This feature depends on your operating system and individual account settings.  
-  
-## Updates  
-  
-The app may receive periodic updates with performance improvements, bug fixes, or new features without prior notice.  
-  
-## Feedback and Suggestions  
-  
-Any suggestions, comments, or ideas you submit may be used to improve the app, with no obligation for compensation or attribution.  
-  
-## Intellectual Property  
-  
-All content, interfaces, graphics, source code, and features of Święta are the exclusive property of the developer unless otherwise indicated. No intellectual property rights are granted to the user through use of the app.  
-  
-## Technical Restrictions  
-  
-You are prohibited from:  
-  
-• Selling, distributing, hosting, or commercially exploiting the app without authorization  
-• Copying or using the app for any purpose other than personal and non-commercial use  
-• Modifying, decompiling, reverse engineering, or attempting to access the source code  
-• Using automation, scripts, or other unauthorized methods to interact with the app  
-• Spamming technical support with promotional, abusive, or meaningless messages  
-• Sending messages with missing or altered information intentionally  
-• Emailing technical support and then ignoring replies from the developer  
-• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores)  
-• Using tools that alter the in-app purchase system or any other feature  
-  
-**This list is not exhaustive.** Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose. **I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.**  
-  
-## Disclaimer  
-  
-The app is used at your own risk. **Neither the developer (Lucas Di Tomase) nor the app guarantee continuous availability or absolute accuracy of the content and shall not be held responsible for decisions made based on the information provided.**  
-  
-## Privacy  
-  
-Święta does not collect personal data or use third-party services for analytics or advertising. For more details, please refer to the [Privacy Policy](https://lucasditomase.github.io/feriados/pl/privacy-policy).  
-  
-## Contact  
-  
-For questions, support, or suggestions, feel free to visit the [Discussions](https://github.com/lucasditomase/feriados/discussions) section.  
-  
-**Święta is a personal project. If you reach out, I will personally read your message.**  
+# Regulamin korzystania
+
+**Ostatnia aktualizacja: maj 2025**
+
+*Pobierając lub używając aplikację, akceptujesz niniejsze warunki.*
+
+Niniejsze warunki regulują korzystanie z **Święta**, aplikacji iOS opracowanej przez **Lucasa Di Tomase** do wyświetlania oficjalnych świąt w Argentynie. Otrzymujesz **ograniczoną, niewyłączną, nieprzenoszalną i odwoływalną licencję** na używanie aplikacji do celów osobistych.
+
+## Korzystanie z aplikacji
+
+Święta jest przeznaczona wyłącznie do **użytku osobistego i niekomercyjnego**. Nie może być wykorzystywana do zysku, odsprzedaży ani jako część innego produktu czy usługi.
+
+## Treści
+
+Informacje wyświetlane w aplikacji pochodzą ze źródeł publicznych i mogą ulegać zmianom. Choć są regularnie aktualizowane, **nie gwarantuje się ich dokładności, kompletności ani aktualności**.
+
+## Funkcje i subskrypcje
+
+Święta oferuje podstawowe funkcje za darmo, w tym:
+
+• Wyświetlanie świąt państwowych, turystycznych i religijnych
+• Filtrowanie według rodzaju święta
+• Tygodniowa agenda najbliższych świąt
+• Wyszukiwanie po nazwie lub powodzie
+
+Funkcje zaawansowane są dostępne poprzez subskrypcję **Święta Pro**, która obejmuje:
+
+• Filtry według społeczności (muzułmańska, żydowska, ormiańska)
+• Dodawanie świąt do osobistego kalendarza
+• Ustawianie automatycznych przypomnień
+• Statystyki i porównania wizualne
+• Wizualizacja długich weekendów
+• Zaawansowane wyszukiwanie według dnia tygodnia lub miesiąca
+• Widoki kalendarza miesięcznego i tygodniowego
+
+## Subskrypcje i okres próbny
+
+• Subskrypcje Święta Pro **odnawiają się automatycznie**, chyba że zostaną anulowane co najmniej **24 godziny przed** końcem bieżącego okresu
+• Płatność zostanie pobrana z konta Apple ID użytego do zakupu
+• Jeśli oferowany jest **darmowy okres próbny**, subskrypcja rozpocznie się automatycznie po jego zakończeniu, chyba że anulujesz ją co najmniej 24 godziny wcześniej
+• Zarządzanie subskrypcją i jej anulowanie odbywa się w ustawieniach Twojego konta w App Store
+• **Ceny mogą się różnić w zależności od regionu, daty zakupu i innych warunków ustalonych przez Apple lub przeze mnie jako dewelopera.** Ceny mogą ulec zmianie w przyszłości; zostaniesz o tym powiadomiony przed automatycznym odnowieniem, abyś mógł zdecydować, czy kontynuować
+
+## Udostępnianie w rodzinie
+
+Jeśli należysz do grupy rodzinnej iCloud, możesz udostępnić subskrypcję innym członkom, o ile opcja ta jest włączona i skonfigurowana na Twoim koncie w App Store. Funkcjonalność ta zależy od systemu operacyjnego i indywidualnych ustawień.
+
+## Aktualizacje
+
+Aplikacja może otrzymywać okresowe aktualizacje z usprawnieniami działania, poprawkami błędów lub nowymi funkcjami bez wcześniejszego powiadomienia.
+
+## Opinie i sugestie
+
+Wszelkie sugestie, komentarze czy pomysły mogą zostać wykorzystane do ulepszania aplikacji bez obowiązku wynagrodzenia lub przypisywania autorstwa.
+
+## Własność intelektualna
+
+Wszelkie treści, interfejsy, grafiki, kod źródłowy oraz funkcje aplikacji Święta są wyłączną własnością dewelopera, o ile nie zaznaczono inaczej. Korzystanie z aplikacji nie przyznaje użytkownikowi żadnych praw własności intelektualnej.
+
+## Ograniczenia techniczne
+
+Zabronione jest:
+
+• Sprzedaż, dystrybucja, hostowanie lub komercyjne wykorzystywanie aplikacji bez zezwolenia
+• Kopiowanie lub używanie aplikacji do celów innych niż osobiste i niekomercyjne
+• Modyfikowanie, dekompilowanie, odtwarzanie kodu źródłowego lub próby uzyskania do niego dostępu
+• Używanie automatyzacji, skryptów lub innych nieautoryzowanych metod do interakcji z aplikacją
+• Spamowanie pomocy technicznej promocyjnymi, obraźliwymi lub bezsensownymi wiadomościami
+• Wysyłanie wiadomości z celowo brakującymi lub zmienionymi informacjami
+• Wysyłanie wiadomości do pomocy technicznej i ignorowanie odpowiedzi dewelopera
+• Korzystanie z aplikacji na urządzeniu zmodyfikowanym w sposób wpływający na jej prawidłowe działanie (np. po jailbreaku, w nieautoryzowanych środowiskach, z użyciem alternatywnych sklepów z aplikacjami)
+• Używanie narzędzi, które zmieniają system zakupów w aplikacji lub inne funkcje
+
+**Ta lista nie jest wyczerpująca.** Inne przypadki mogą również uzasadniać ograniczenia, jeśli zagrażają bezpieczeństwu, integralności lub przeznaczeniu aplikacji. **Zastrzegam sobie prawo do zablokowania dostępu do aplikacji, w całości lub częściowo, w przypadku wykrycia niewłaściwego użycia lub zachowań nadużyciowych.**
+
+## Zrzeczenie odpowiedzialności
+
+Korzystasz z aplikacji na własne ryzyko. **Ani deweloper (Lucas Di Tomase), ani aplikacja nie gwarantują ciągłej dostępności ani absolutnej dokładności treści i nie ponoszą odpowiedzialności za decyzje podjęte na podstawie prezentowanych informacji.**
+
+## Prywatność
+
+Święta nie gromadzi danych osobowych ani nie korzysta z usług stron trzecich do analityki czy reklam. Więcej informacji znajdziesz w [Polityce prywatności](https://lucasditomase.github.io/feriados/pl/privacy-policy).
+
+## Kontakt
+
+W razie pytań, pomocy lub sugestii odwiedź sekcję [Discussions](https://github.com/lucasditomase/feriados/discussions).
+
+**Święta to projekt osobisty. Jeśli napiszesz, osobiście przeczytam Twoją wiadomość.**
