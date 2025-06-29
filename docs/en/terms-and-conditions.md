@@ -65,8 +65,10 @@ You are prohibited from:
 • Copying or using the app for any purpose other than personal and non-commercial use  
 • Modifying, decompiling, reverse engineering, or attempting to access the source code  
 • Using automation, scripts, or other unauthorized methods to interact with the app  
-• I reserve the right to block access to the app, in whole or in part, if improper use is detected, including abusive behavior (such as spamming technical support), or if the device is modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores, or tools that alter the in-app purchase system or any other feature)  
-
+• Spamming technical support with meaningless or empty messages, messages with missing or altered information, or ignoring responses.
+• Using the app on a device that has been modified in a way that affects the normal functioning of the app (e.g. jailbroken devices, unauthorized environments, use of third-party app stores).
+• Using tools that alter the in-app purchase system or any other feature.
+• I reserve the right to block access to the app, in whole or in part, if improper use or abusive behavior is detected.
 This list is not exhaustive. Other cases may also justify restrictions if they compromise the app’s security, integrity, or intended purpose.
 
 ## Disclaimer

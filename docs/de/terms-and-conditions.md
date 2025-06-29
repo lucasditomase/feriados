@@ -65,7 +65,10 @@ Es ist untersagt:
 • Die App zu kopieren oder anderweitig zu verwenden, außer für den persönlichen und nicht kommerziellen Gebrauch  
 • Die App zu modifizieren, zu dekompilieren, Reverse Engineering durchzuführen oder zu versuchen, den Quellcode zu erlangen  
 • Automatisierungen, Skripte oder andere nicht autorisierte Methoden zu verwenden, um mit der App zu interagieren  
-• Ich behalte mir das Recht vor, den Zugriff auf die App ganz oder teilweise zu blockieren, wenn missbräuchliche Nutzung festgestellt wird, einschließlich belästigendem Verhalten (z. B. Spam an den Support) oder wenn das Gerät so verändert wird, dass die normale Funktionsweise der App beeinträchtigt wird (z. B. Jailbreak, nicht autorisierte Umgebungen, Nutzung von Drittanbieter-Stores oder Tools, die das In-App-Kaufsystem oder andere Funktionen verändern)  
+• Spam an den Support senden, zum Beispiel sinnlose oder leere Nachrichten, Nachrichten mit fehlenden oder veränderten Informationen, oder Antworten ignorieren.
+• Die App auf einem Gerät verwenden, das so verändert wurde, dass die normale Funktionsweise beeinträchtigt wird (z. B. Jailbreak, nicht autorisierte Umgebungen, Nutzung von Drittanbieter-Stores).
+• Tools verwenden, die das In-App-Kaufsystem oder andere Funktionen verändern.
+• Ich behalte mir das Recht vor, den Zugriff auf die App ganz oder teilweise zu blockieren, wenn missbräuchliche Nutzung oder belästigendes Verhalten festgestellt wird.
 
 Diese Liste ist nicht abschließend. Weitere Fälle können ebenfalls Einschränkungen rechtfertigen, wenn sie die Sicherheit, Integrität oder den Zweck der App gefährden.
 
