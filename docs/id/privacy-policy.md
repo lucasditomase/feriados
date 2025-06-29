@@ -1,6 +1,6 @@
 # Kebijakan Privasi  
   
-**Pembaruan terakhir: Mei 2025**  
+**Pembaruan terakhir: Juni 2025**  
   
 **Libur adalah aplikasi yang menghargai privasimu:** *aplikasi ini tidak mengumpulkan, menyimpan, atau membagikan informasi pribadi apa pun.*  
   

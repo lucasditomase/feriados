@@ -1,6 +1,6 @@
 # Politique de confidentialité  
   
-**Dernière mise à jour : mai 2025**  
+**Dernière mise à jour : juin 2025**  
   
 **Jours Fériés est une application qui respecte votre vie privée :** *elle ne collecte, ne stocke ni ne partage aucune information personnelle des utilisateurs.*  
   
