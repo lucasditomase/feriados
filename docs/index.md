@@ -9,7 +9,7 @@ Con diseño moderno y funcionalidades pensadas para el día a día, Feriados te 
   
 Consultá en segundos cuándo es el próximo feriado, explorá el calendario completo y filtrá los días no laborables según tus intereses, creencias o estilo de vida.  
   
-Ideal para estudiantes, trabajadores, familias y cualquier persona que quiera aprovechar mejor sus días libres.  
+Ideal para estudiantes, trabajadores, familias y cualquier persona que quiera aprovechar mejor sus días libres.
   
 ## Funciones principales (gratis)  
   
