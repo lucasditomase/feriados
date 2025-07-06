@@ -79,7 +79,7 @@
 
 ## 隱私  
 
-假期不會收集個人資料，也不使用第三方服務進行分析或廣告。更多細節請參閱[隱私政策](https://lucasditomase.github.io/feriados/zh-Hant/privacy-policy)。  
+假期不會收集個人資料，也不使用第三方服務進行分析或廣告。更多細節請參閱[隱私政策](https://lucasditomase.github.io/feriados/zh-hant/privacy-policy)。  
 
 ## 聯繫方式  
 

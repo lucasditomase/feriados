@@ -79,7 +79,7 @@
 
 ## 隐私  
 
-节假日不会收集个人数据，也不使用第三方服务进行分析或广告。更多详情请参阅[隐私政策](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy)。  
+节假日不会收集个人数据，也不使用第三方服务进行分析或广告。更多详情请参阅[隐私政策](https://lucasditomase.github.io/feriados/zh-hans/privacy-policy)。  
 
 ## 联系方式  
 

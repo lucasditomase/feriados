@@ -36,8 +36,8 @@
 
 ## 隐私政策与条款  
 
-• [隐私政策](https://lucasditomase.github.io/feriados/zh-Hans/privacy-policy)  
-• [服务条款](https://lucasditomase.github.io/feriados/zh-Hans/terms-and-conditions)  
+• [隐私政策](https://lucasditomase.github.io/feriados/zh-hans/privacy-policy)  
+• [服务条款](https://lucasditomase.github.io/feriados/zh-hans/terms-and-conditions)  
 
 ## 支持  
 
