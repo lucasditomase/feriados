@@ -36,8 +36,8 @@
 
 ## 隱私政策與條款  
 
-• [隱私政策](https://lucasditomase.github.io/feriados/zh-Hant/privacy-policy)  
-• [使用條款](https://lucasditomase.github.io/feriados/zh-Hant/terms-and-conditions)  
+• [隱私政策](https://lucasditomase.github.io/feriados/zh-hant/privacy-policy)  
+• [使用條款](https://lucasditomase.github.io/feriados/zh-hant/terms-and-conditions)  
 
 ## 支援  
 
