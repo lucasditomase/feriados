@@ -50,6 +50,6 @@ Nếu bạn có câu hỏi, đề xuất hoặc muốn tham gia cộng đồng, 
 
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" height="60">  
+    <img src="images/download-badge.svg" alt="Tải xuống trên App Store" height="60">  
   </a>  
 </p>  
