@@ -49,6 +49,6 @@ Jika kamu memiliki pertanyaan, saran, atau ingin bergabung dengan komunitas, sil
 
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" height="60">  
+    <img src="images/download-badge.svg" alt="Unduh di App Store" height="60">  
   </a>  
 </p>  
