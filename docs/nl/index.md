@@ -49,6 +49,6 @@ Heb je vragen, suggesties of wil je deelnemen aan de community? Start gerust een
 
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Download on the App Store" height="60">  
+    <img src="images/download-badge.svg" height="60">  
   </a>  
 </p>  
