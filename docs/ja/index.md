@@ -49,6 +49,6 @@
 
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="App Store でダウンロード" height="60">  
+    <img src="images/download-badge.svg" height="60">  
   </a>  
 </p>  

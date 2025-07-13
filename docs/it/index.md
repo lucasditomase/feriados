@@ -49,6 +49,6 @@ Se hai domande, suggerimenti o vuoi partecipare alla community, sentiti libero d
 
 <p align="left">  
   <a href="https://apps.apple.com/app/id6744455042">  
-    <img src="images/download-badge.svg" alt="Scarica sull'App Store" height="60">  
+    <img src="images/download-badge.svg" height="60">  
   </a>  
 </p>  
