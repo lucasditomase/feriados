@@ -19,10 +19,9 @@ jobs:
     - name: 📥 Checkout repository
       uses: actions/checkout@v4
 
-    - name: 🧪 Run normalization script in docs/
+    - name: 🧪 Run normalization script
       run: |
-        cd docs
-        chmod +x trim_and_add_spaces.sh
+        chmod +x ./trim_and_add_spaces.sh
         ./trim_and_add_spaces.sh
 
     - name: 📤 Commit changes if needed
