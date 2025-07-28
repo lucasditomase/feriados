@@ -1,0 +1,116 @@
+name: Cleanup Gitignored Files
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # Fetch full history for better git operations
+        fetch-depth: 0
+        # Use a token that can push to protected branches if needed
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Check for gitignored files in repository
+      id: check_files
+      run: |
+        echo "Checking for files that should be ignored by .gitignore..."
+
+        # Find all files that match gitignore patterns but are still tracked
+        # We'll use git ls-files to get tracked files and git check-ignore to test them
+        IGNORED_FILES=$(git ls-files | git check-ignore --stdin || true)
+
+        if [ -n "$IGNORED_FILES" ]; then
+          echo "Found gitignored files that are tracked:"
+          echo "$IGNORED_FILES"
+          echo "files_found=true" >> $GITHUB_OUTPUT
+          echo "IGNORED_FILES<<EOF" >> $GITHUB_ENV
+          echo "$IGNORED_FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+        else
+          echo "No gitignored files found in repository"
+          echo "files_found=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Remove gitignored files
+      if: steps.check_files.outputs.files_found == 'true'
+      run: |
+        echo "Removing the following gitignored files:"
+        echo "$IGNORED_FILES"
+
+        # Remove files from git tracking
+        echo "$IGNORED_FILES" | xargs -r git rm --cached
+
+        # Also remove the actual files from the filesystem
+        echo "$IGNORED_FILES" | xargs -r rm -f
+
+        echo "Files removed successfully"
+
+    - name: Commit changes
+      if: steps.check_files.outputs.files_found == 'true'
+      run: |
+        # Check if there are any changes to commit
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git add -A
+        git commit -m "🧹 Remove gitignored files from tracking
+
+        Automatically removed files that match .gitignore patterns:
+        $(echo "$IGNORED_FILES" | sed 's/^/- /')"
+
+    - name: Push changes (for push events)
+      if: steps.check_files.outputs.files_found == 'true' && github.event_name == 'push'
+      run: |
+        git push origin ${{ github.ref_name }}
+
+    - name: Comment on PR (for pull request events)
+      if: steps.check_files.outputs.files_found == 'true' && github.event_name == 'pull_request'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const ignoredFiles = process.env.IGNORED_FILES.split('\n').filter(f => f.trim());
+          const fileList = ignoredFiles.map(f => `- \`${f}\``).join('\n');
+
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: `🧹 **Gitignored Files Cleanup**
+
+          I found and removed the following files that should be ignored according to \`.gitignore\`:
+
+          ${fileList}
+
+          These files have been removed from git tracking to keep the repository clean.`
+          });
+
+    - name: Summary
+      if: steps.check_files.outputs.files_found == 'true'
+      run: |
+        echo "✅ Cleanup completed successfully"
+        echo "Files removed: $(echo "$IGNORED_FILES" | wc -l)"
+
+    - name: No action needed
+      if: steps.check_files.outputs.files_found == 'false'
+      run: |
+        echo "✨ Repository is clean - no gitignored files found in tracking"
